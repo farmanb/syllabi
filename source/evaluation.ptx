@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="evalution" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Evaluation</title>
   <introduction>
     <p component="MBT">
@@ -17,10 +17,72 @@
   </p>
   
   <p component="MBT">
-    You can find a list of each standard in <xref ref="standards"/>.
+    A description of each standard can be found in <xref ref="standards"/>.
   </p>
   </introduction>
 
+  <subsection component="MBT">
+    <title>Assessments</title>
+    <p>
+      Each assessment will contain problems corresponding to one or more standards.
+      The standards are graded <em>independently</em> and, unlike quizzes or tests that you may have had in the past, there is no partial credit.
+      To master a standard, you must master <alert>all</alert> of the problems that go with the standard.
+    </p>
+  </subsection>
+
+  <subsection component="MBT">
+    <title>Scoring</title>
+    <p>
+      Written work in this course will be scored on the following scale.
+    </p>
+    <assemblage>
+      <title>Scale</title>
+      <p>
+	<dl>
+	  <li>
+	    <title>Mastery (M)</title>
+	    <p>
+	      The given solution is correct with no content related errors.
+	      Appropriate justification is provided in a clear, easy to follow manner.
+	    </p>
+	  </li>
+	  <li>
+	    <title>Progressing (P)</title>
+	    <p>
+	      The given solution demonstrates an understanding of the material, but contains content related errors or lacks justification.
+	    </p>
+	  </li>
+	  <li>
+	    <title>Needs Improvement (N)</title>
+	    <p>
+	      The given solution was blank, illegible, or used inappropriate techniques.
+	    </p>
+	  </li>
+	</dl>
+      </p>
+    </assemblage>
+  </subsection>
+
+  <subsection component="MBT">
+    <title>Reassessment</title>
+    <assemblage component="MBG">
+      <title>Homework</title>
+      <p>
+	You may resubmit <alert>one</alert> homework set that you have not mastered each week.
+	When reassessing, you only need to correct and resubmit the exercises with mistakes.
+      </p>
+    </assemblage>
+
+    <assemblage component="MBT">
+      <title>Assessment</title>
+      <p>
+	There are scheduled Reassessment days for this course (see <xref ref="schedule"/>) where you have the opportunity to reassess all of the standards that you have not yet mastered.
+	You will be given an assessment that contains problems for <em>every</em> standard that you have not yet mastered, and you may attempt as many of those standards as time allows.
+      </p>
+    </assemblage>
+
+  </subsection>
+  
   <subsection>
     <title>Grading Scale</title>
     <p>
