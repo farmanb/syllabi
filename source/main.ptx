@@ -8,6 +8,19 @@
   </docinfo>
   <article xml:id="syllabus">
     <title>Syllabus</title>
+    <introduction>
+      <p component="1007">
+	Welcome to Math 1007 Contemporary Mathematics.
+      </p>
+
+      <p component="1011">
+	Welcome to Math 1031 College Algebra.
+      </p>
+      
+      <p component="1031">
+	Welcome to Math 1031 Calculus I.
+      </p>
+    </introduction>
     <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
     <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
     <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
