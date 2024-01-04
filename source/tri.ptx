@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="tri" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Temporary Remote Instruction (TRI)</title>
+  <p>
+    During the semester, class and/or campus operations might be disrupted by an occurrence such as a tornado, fire, or illness outbreak that temporarily prevents in-person instruction.
+    Until in-person instruction is possible, the class will enter a phase of temporary remote instruction (TRI).
+    During this phase, instruction will take place via virtual means, either synchronously or asynchronously.
+    Your instructor will alert you when this happens via e-mail and will include a description of how the course will proceed.  
+  </p>
+  <p>
+    During a period of temporary remote instruction, the need for the course to continue in a virtual manner means that you will be required to have appropriate equipment, software, and telecommunication access to allow you to participate.
+  </p>
+  <assemblage>
+    <title>Technical Requirements During TRI</title>
+    <p>
+      <ul>
+	<li>
+	  <p>A stable internet connection that is capable of joining Zoom meetings and taking assessments.</p>
+	</li>
+	<li>
+	  <p>A web camera (internal or external) and a microphone that can be used for Zoom meetings.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+</subsection>
