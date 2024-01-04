@@ -2,8 +2,31 @@
 <section xml:id="course_top" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
   
-  <introduction component="1007">
-    <p>
+  <introduction>
+    <p component="1031">
+      <ul>
+	<li>
+	  <p>Calculate limits of functions using graphs and limit laws.</p>
+	</li>
+	<li>
+	  <p>Apply properties of continuous functions to solve problems.</p>
+	</li>
+	<li>
+	  <p>Calculate and describe the derivatives of functions.</p>
+	</li>
+	<li>
+	  <p>Apply functions to real world applications, including but not limited to related rates, optimization, and graphing.</p>
+	</li>
+	<li>
+	  <p>Compute antiderivatives.</p>
+	</li>
+	<li>
+	  <p>Apply techniques of integration.</p>
+	</li>
+      </ul>
+    </p>
+    
+    <p component="1007">
       Course topics include graph theory, logic, set theory, voting theory, apportionment, and number theory.
     </p>
   </introduction>
