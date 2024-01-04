@@ -5,13 +5,14 @@
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
     <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
   </docinfo>
-  <article xml:id="syllabus-1011-2024">
+  <article xml:id="syllabus">
     <title>Syllabus</title>
     <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
     <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
-    <subtitle component="63789">Math 1011 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
+    <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
     <xi:include href="./contact.ptx" />
     <xi:include href="./course_desc.ptx" />
+    <xi:include href="./prereqs.ptx" />
     <xi:include href="./course_obj.ptx" />
     <xi:include href="./course_topics.ptx"/>
     <xi:include href="./instruction_meth.ptx"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="course_prereqs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Prerequisites</title>
+  <p component="1031">
+    <ul>
+      <li>
+	<p>A grade of C or better in MATH 1013, or</p>
+      </li>
+      <li>
+	<p>A grade of C or better in MATH 1011 and MATH 1012, or</p>
+      </li>
+      <li>
+	<p>Permission of the instructor.</p>
+      </li>
+    </ul>
+  </p>
+</section>
