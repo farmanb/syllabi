@@ -2,53 +2,11 @@
 <section xml:id="contact" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Contact Information</title>
   <introduction>
-    <p>
-      <dl>
-	<li>
-	  <title>Professor</title>
-	  <p>Blake Farman</p>
-	</li>
-	<li>
-	  <title>Phone Number</title> 
-	  <p> (318) 342 - 1851</p>
-	</li>
-	<li>
-	  <title>Email Address</title> 
-	  <p> <email>farman (at) ulm (dot) edu</email></p>
-	</li>
-	<li>
-	  <title>Website</title> 
-	  <p> <url href="https://ulm.edu/~farman"/></p>
-	</li>
-	<li>
-	  <title>Office</title> 
-	  <p> Walker 3-34</p>
-	</li>
-      </dl>
-    </p>
+    <xi:include href="./me.ptx"/>
   </introduction>
   <subsection>
     <title>Office Hours</title>
-    <p component="S24">
-      <dl>
-	<li>
-	  <title>Monday/Wednesday</title>
-	  <p>8:00 AM - 9:00 AM (Virtual)</p>
-	</li>
-	<li>
-	  <title/>	
-	  <p>9:00 AM - 12:00 PM</p>
-	</li>
-	<li>
-	  <title/>
-	  <p>1:45 PM - 2:00 PM</p>
-	</li>
-	<li>
-	  <title/>
-	  <p> 3:15 PM - 4:00 PM</p>
-	</li>
-      </dl>
-    </p>
+    <xi:include href="./office_hours.ptx"/>
   </subsection>
 
   <subsection>

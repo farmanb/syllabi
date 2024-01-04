@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p component="S24">
+  <dl>
+    <li>
+      <title>Monday/Wednesday</title>
+      <p>8:00 AM - 9:00 AM (Virtual)</p>
+    </li>
+    <li>
+      <title/>	
+      <p>9:00 AM - 12:00 PM</p>
+    </li>
+    <li>
+      <title/>
+      <p>1:45 PM - 2:00 PM</p>
+    </li>
+    <li>
+      <title/>
+      <p> 3:15 PM - 4:00 PM</p>
+    </li>
+  </dl>
+</p>

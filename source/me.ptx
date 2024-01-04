@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p>
+  <dl>
+    <li>
+      <title>Professor</title>
+      <p>Blake Farman</p>
+    </li>
+    <li>
+      <title>Phone Number</title> 
+      <p> (318) 342 - 1851</p>
+    </li>
+    <li>
+      <title>Email Address</title> 
+      <p> <email>farman (at) ulm (dot) edu</email></p>
+    </li>
+    <li>
+      <title>Website</title> 
+      <p> <url href="https://ulm.edu/~farman"/></p>
+    </li>
+    <li>
+      <title>Office</title> 
+      <p> Walker 3-34</p>
+    </li>
+  </dl>
+</p>
