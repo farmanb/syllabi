@@ -28,8 +28,34 @@
       The standards are graded <em>independently</em> and, unlike quizzes or tests that you may have had in the past, there is no partial credit.
       To master a standard, you must master <alert>all</alert> of the problems that go with the standard.
     </p>
+
+    <assemblage>
+      <title>Reassessment</title>
+      <p>
+	There are scheduled Reassessment days for this course (see <xref ref="schedule"/>) where you will be given problems for <em>every</em> standard that you have <em>not yet mastered</em>.
+	You may attempt as many as time allows.
+      </p>
+    </assemblage>
   </subsection>
 
+  <subsection>
+    <title>Homework</title>
+    <p>
+      Homework will be assigned regularly.
+      The problems are chosen to highlight the core concepts from the standards.
+      Mastery of these homework sets serves as a good indicator for performance on assessments.
+      As such, you should ensure that you fully understand the material on these homework sets; that is, upon completion of the homework set, you should be capable of completing similar problems without the aid of the text, a computer, or any other tools not available during an exam.
+    </p>
+
+    <assemblage component="MBG">
+      <title>Reassessment</title>
+      <p>
+	You may resubmit <alert>one</alert> homework set that you have not mastered each week.
+	When reassessing, you only need to correct and resubmit the exercises with mistakes.
+      </p>
+    </assemblage>
+  </subsection>
+  
   <subsection component="MBT">
     <title>Scoring</title>
     <p>
@@ -63,25 +89,17 @@
     </assemblage>
   </subsection>
 
-  <subsection component="MBT">
-    <title>Reassessment</title>
-    <assemblage component="MBG">
-      <title>Homework</title>
-      <p>
-	You may resubmit <alert>one</alert> homework set that you have not mastered each week.
-	When reassessing, you only need to correct and resubmit the exercises with mistakes.
-      </p>
-    </assemblage>
+  <!-- <subsection component="MBT" xml:id="subsec-reassessment"> -->
+  <!--   <title>Reassessment</title> -->
+  <!--   <assemblage component="MBG"> -->
+  <!--     <title>Homework</title> -->
+  <!--     <p> -->
+  <!-- 	You may resubmit <alert>one</alert> homework set that you have not mastered each week. -->
+  <!-- 	When reassessing, you only need to correct and resubmit the exercises with mistakes. -->
+  <!--     </p> -->
+  <!--   </assemblage> -->
 
-    <assemblage component="MBT">
-      <title>Assessment</title>
-      <p>
-	There are scheduled Reassessment days for this course (see <xref ref="schedule"/>) where you have the opportunity to reassess all of the standards that you have not yet mastered.
-	You will be given an assessment that contains problems for <em>every</em> standard that you have not yet mastered, and you may attempt as many of those standards as time allows.
-      </p>
-    </assemblage>
-
-  </subsection>
+  <!-- </subsection> -->
   
   <subsection>
     <title>Grading Scale</title>
