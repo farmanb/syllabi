@@ -1,4 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="student_serv" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Services</title>
+  <introduction>
+    <p>
+      You can find information about the following available ULM student services at the websites listed below.
+    </p>
+    <assemblage>
+      <title>Resources</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>Student Success Center: <url href="https://www.ulm.edu/studentsuccess/"/>.</p>
+	  </li>
+	  <li>
+	    <p>Self-Development, Counseling, &amp; Special Accommodations Center: <url href="http://www.ulm.edu/counselingcenter/"/>.</p>
+	  </li>
+	  <li>
+	    <p>Special Accommodations: <url href="http://www.ulm.edu/counselingcenter/special.htm"/>.</p>
+	  </li>
+	  <li>
+	    <p>Library: <url href="https://www.ulm.edu/library/"/></p>
+	  </li>
+	  <li>
+	    <p>Computing Center Help Desk: <url href="https://www.ulm.edu/it/helpdesk/"/></p>
+	  </li>
+	  <li>
+	    <p>Student Affairs: <url href="http://www.ulm.edu/studentaffairs/"/>.</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </introduction>
+
+
+  <subsection>
+    <title>Disability Accommodations</title>
+    <p>
+      The University of Louisiana at Monroe strives to serve students with special needs through compliance with Sections 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act. These laws mandate that postsecondary institutions provide equal access to programs and services for students with disabilities without creating changes to the essential elements of the curriculum. While students with special needs are expected to meet our institution's academic standards, they are given the opportunity to fulfill learner outcomes in alternative ways. Examples of accommodations may include, but are not limited to, testing accommodations (oral testing, extended time for exams), interpreters, relocation of inaccessible classrooms, permission to audiotape lectures, note-taking assistance, and course substitutions.
+    </p>
+
+    <p>
+      Current policies on serving students with disabilities can be obtained from the ULM website: <url href="http://ulm.edu/counselingcenter/"/>.
+      If you need accommodation because of a known or suspected disability, you should contact the director for disabled student services at:
+    </p>
+    <assemblage>
+      <title>Disabled Student Services</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>Voice phone: (318) 342 - 5220</p>
+	  </li>
+	  <li>
+	    <p>Fax: (318) 342 - 5228</p>
+	  </li>
+	  <li>
+	    <p>Walk In: ULM Counseling Center, 1140 University Avenue (this building and room are handicapped accessible).</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+    <p>
+      If you have special needs of which I need to be made aware, you should contact me within the first two days of class.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Mental Wellness</title>
+    <p>
+      If you are having any emotional, behavioral, or social problems, and would like to talk with a caring, concerned professional please call one of the following numbers:
+    </p>
+    <assemblage>
+      <title>Mental Wellness Contact Information</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>The ULM Counseling Center (318) 342 - 5220</p>
+	  </li>
+	  <li>
+	    <p>The Marriage and Family Therapy Clinic (318) 342 - 9797</p>
+	  </li>
+	  <li>
+	    <p>The Community Counseling Center (318) 342 - 1263.</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsection>
+
+  <subsection>
+    <title>Title IX</title>
+    <assemblage>
+      <title>Title IX</title>
+      <p>
+	<em>Title IX of the Education Amendments of 1972 prohibits sex discrimination against any participant in an educational program or activity that receives federal funds, including federal loans and grants.
+	Furthermore, Title IX prohibits sex discrimination to include sexual misconduct, sexual violence, sexual harassment and retaliation.
+	If you encounter unlawful sexual harassment or gender-based discrimination, please contact Student Services at (318) 342 - 5230 or to file a complaint, visit <url href="https://www.ulm.edu/titleix"/>. </em>
+      </p>
+    </assemblage>
+
+    <p>Remember that all services are offered free to students, and all are strictly confidential. </p>
+  </subsection>
+
+  <subsection>
+    <title>Emergency Procedures</title>
+    <p>
+      The emergency number for the ULM Police Department is (318) 342 - 5350 and should be used for emergency calls. If the campus police are contacted about an emergency for a student, they will go to the student’s class to inform the student.
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>Discipline / Course Specific Policies</title>
+    <p>
+      <alert>Any policies given here may be altered by the professor if deemed necessary.
+      If this occurs, ample notice will be given.</alert>
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>FERPA</title>
+    <p>
+      Do not email or call your professor regarding your course grades.
+      The Family Education Rights and Privacy Act (FERPA) prohibits your professor from discussing your grade in any manner except in person.
+      Please do not have family members, friends, or anyone else contact your professor about your grade as FERPA prohibits your professor from sharing that information with them.
+    </p>
+  </subsection>
 </section>
