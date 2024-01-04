@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="standards" xmlns:xi="http://www.w3.org/2001/XInclude" component="MBT">
+  <title>Standards</title>
+  <!-- Linear Algbera -->
+  <xi:include href="linear_alg/se.ptx" />
+  <xi:include href="linear_alg/vm.ptx" />
+  <xi:include href="linear_alg/ib.ptx" />
+  <xi:include href="linear_alg/et.ptx" />
+  <xi:include href="linear_alg/or.ptx" />
+
+  <!-- Calc III -->
+  <xi:include href="calc_III/vg.ptx"/>
+  <xi:include href="calc_III/vf.ptx"/>
+  <xi:include href="calc_III/sv.ptx"/>
+  <xi:include href="calc_III/mi.ptx"/>
+  <xi:include href="calc_III/vc.ptx"/>
+</section>
