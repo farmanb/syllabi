@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="course_obj" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Objectives</title>
+  <p component="1011">
+    Students will apply and develop necessary skills to comprehend basic concepts and principles of algebra and mathematical logic.
+    Students will develop necessary problem-solving skills and demonstrate an ability to apply these basic concepts and principles to problems in different academic disciplines.
+    Students will acquire skills vital to their future success in Math 1012 or Math 1031.
+  </p>
 </section>
