@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="contact" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Contact Information</title>
-
   <introduction>
-    <p component="1007">
-      Welcome to Math 1007 Contemporary Mathematics.
-    </p>
-
-    <p component="1011">
-      Welcome to Math 1031 College Algebra.
-    </p>
-    
-    <p component="1031">
-      Welcome to Math 1031 Calculus I.
-    </p>
-  </introduction>
-  
-  <subsection>
-    <title>Contact Information</title>
     <xi:include href="./me.ptx"/>
-  </subsection>
-  
-  <subsection>
+  </introduction>
+
+  <subsection xml:id="office_hours">
     <title>Office Hours</title>
     <xi:include href="./office_hours.ptx"/>
   </subsection>
