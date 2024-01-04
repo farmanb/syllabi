@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection>
+  <title>Vectors and Matrices (VM)</title>
+  <subsubsection>
+    <title>Vectors and Matrices 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>add vectors,</p>
+	  </li>
+	  <li>
+	    <p>scale vectors by a real number,</p>
+	  </li>
+	  <li>
+	    <p>determine whether a vector can be expressed as a linear combination of a set of given vectors.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-vectors-lin-combs.html">2.1.4</url> Exercises 1, 2, 3, 5.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vectors and Matrices 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>add matrices,</p>
+	  </li>
+	  <li>
+	    <p>scale matrices by a real number,</p>
+	  </li>
+	  <li>
+	    <p>
+	      perform matrix-vector multiplication,
+	    </p>
+	  </li>
+	  <li>
+	    <p>perform matrix-matrix multiplication,</p>
+	  </li>
+	  <li>
+	    <p>translate a system of equations into a matrix equation of the form <m>A\mathbf{x} = \mathbf{b}</m>.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-matrices-lin-combs.html">2.2.6</url> Exercises 1 - 6.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vectors and Matrices 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>determine whether a vector is in the span of a given set of vectors,</p>
+	  </li>
+	  <li>
+	    <p>describe the span of a set of vectors as a set,</p>
+	  </li>
+	  <li>
+	    <p>use the span to determine whether a linear system is consistent.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-span.html">2.3.4</url> Exercises 1 - 5, 10.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vectors and Matrices 4</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>I can determine whether a given set of vectors is linearly independent.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-dep.html">2.4.5</url> Exercises 1, 2, 5.
+      </p>
+    </assemblage>
+  </subsubsection>
+  
+  <subsubsection>
+    <title>Vectors and Matrices 5</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>define a matrix transformation,</p>
+	  </li>
+	  <li>
+	    <p>find the domain and range of a matrix transformation,</p>
+	  </li>
+	  <li>
+	    <p>compose matrix transformations,</p>
+	  </li>
+	  <li>
+	    <p>determine whether a given function is a matrix transformation.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-trans.html">2.5.4</url> Exercises 1 - 4.
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>

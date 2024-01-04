@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection>
+  <title>Orthogonality (OR)</title>
+
+  <subsubsection>
+    <title>Orthogonality 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>compute the dot product of two vectors,</p>
+	  </li>
+	  <li>
+	    <p>use the dot product to find the angle between two vectors,</p>
+	  </li>
+	  <li>
+	    <p>determine whether two vectors are orthogonal.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert>  Section <url href="https://davidaustinm.github.io/ula/sec-dot-product.html">6.1.4</url> Exercises 1 - 4.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Orthogonality 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>compute the transpose of a matrix,</p>
+	  </li>
+	  <li>
+	    <p>use the transpose to find a basis for the orthogonal complement of a given vector space.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert>  Section <url href="https://davidaustinm.github.io/ula/sec-transpose.html">6.2.4</url> Exercises 1 - 3.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Orthogonality 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>I can perform Orthogonal Decomposition.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert>  Section <url href="https://davidaustinm.github.io/ula/sec-orthogonal-bases.html">6.3.4</url> Exercises 1 - 6.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Orthogonality 4</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>use Gram-Schmidt Orthogonalization to find an orthogonal basis for a given vector space,</p>
+	  </li>
+	  <li>
+	    <p>find an orthonormal basis from an orthogonal basis for a given vector space.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-gram-schmidt.html">6.4.4</url> Exercises 1 - 5.
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>
