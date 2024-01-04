@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="contact" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Contact Information</title>
+  <introduction>
+    <p>
+      <dl>
+	<li>
+	  <title>Professor</title>
+	  <p>Blake Farman</p>
+	</li>
+	<li>
+	  <title>Phone Number</title> 
+	  <p> (318) 342 - 1851</p>
+	</li>
+	<li>
+	  <title>Email Address</title> 
+	  <p> farman@ulm.edu</p>
+	</li>
+	<li>
+	  <title>Website</title> 
+	  <p> <url href="https://ulm.edu/~farman"/></p>
+	</li>
+	<li>
+	  <title>Office</title> 
+	  <p> Walker 3-34</p>
+	</li>
+      </dl>
+    </p>
+  </introduction>
+  <subsection>
+    <title>Office Hours</title>
+    <p component="S24">
+      <dl>
+	<li>
+	  <title>Monday/Wednesday</title>
+	  <p>8:00 AM - 9:00 AM (Virtual)</p>
+	</li>
+	<li>
+	  <title/>	
+	  <p>9:00 AM - 12:00 PM</p>
+	</li>
+	<li>
+	  <title/>
+	  <p>1:45 PM - 2:00 PM</p>
+	</li>
+	<li>
+	  <title/>
+	  <p> 3:15 PM - 4:00 PM</p>
+	</li>
+      </dl>
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>Preferred Method of Communication</title>
+    <p>
+      The best way to communicate with me during the semester is through email.
+      I monitor my email during regular business hours and try to respond within one business day.
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>Official University Email Addresses</title>
+    <p>
+      The University provides each student with an email address, username@warhawks.ulm.edu, and all official course correspondence will <alert>only</alert> be conducted using official university email addresses.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Email Etiquette</title>
+    <p>
+      When you send an email, your message should contain the following information
+      <dl>
+	<li>
+	  <title>Subject</title>
+	  <p component="63057">
+	    A few words that describe the content of your email along with the course identifier (Math 1011 - 63057).
+	  </p>
+	  <p component="63167">
+	    A few words that describe the content of your email along with the course identifier (Math 1011 - 63167).
+	  </p>
+	  <p component="63789">
+	    A few words that describe the content of your email along with the course identifier (Math 1031 - 63789).
+	  </p>
+	</li>
+	<li>
+	  <title>Salutation</title>
+	  <p>
+	    A professional greeting such as ``Dear'' or ``Hello'' followed by the appropriate honorific and the recipient's last name.
+	  </p>
+	</li>
+	<li>
+	  <title>Body</title>
+	  <p>
+	    A concise message that clearly expresses the purpose of your email.
+	  </p>
+	</li>
+	<li>
+	  <title>Signature</title>
+	  <p>
+	    A simple closing (e.g. ``Sincerely,'' ``Thank you,'' ``Best regards,'' etc.) followed by your first and last name.
+	  </p>
+	</li>
+      </dl>
+      For your convenience, included below is an example email.
+    </p>
+    <p component="63057">
+      Subject: Meeting - Math 1011 - 63057
+    </p>
+    <p component="63167">
+      Subject: Meeting - Math 1011 - 63167
+    </p>
+    <p component="63789">
+      Subject: Meeting - Math 1031 - 63789
+    </p>
+    
+    <p>Dear Professor Farman,</p>
+    
+    <p>
+      I am having trouble with this week's homework.
+      I have tried working through the examples in the text, but I am struggling to understand the concepts involved.
+      Could we schedule a time to meet before the next class to discuss some of the concepts in more detail?
+    </p>
+
+    <p>Thank you,</p>
+  
+    <p>Jane Doe</p>
+  </subsection>
+</section>

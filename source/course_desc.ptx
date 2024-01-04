@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="course_desc" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Description</title>
+  <p component="1011">
+    <ul>
+      <li>In-depth treatment of solving equations and inequalities</li>
+      <li>
+	<p>function properties and graphs</p>
+      </li>
+      <li>
+	<p>inverse functions </p>
+      </li>
+      <li>
+	<p>
+	  functions with applications:
+	<ul>
+	  <li>
+	    <p>linear,</p>
+	  </li>
+	  <li>
+	    <p>quadratic,</p>
+	  </li>
+	  <li>
+	    <p> polynomial,</p>
+	  </li>
+	  <li>
+	    <p> rational,</p>
+	  </li>
+	  <li>
+	    <p>exponential, and</p>
+	  </li>
+	  <li>
+	    <p>logarithmic </p>
+	  </li>
+	</ul>
+	</p>
+      </li>
+      <li>
+	<p>systems of equations.</p>
+      </li>
+    </ul>
+  </p>
+
+  <p component="1031">
+    <ul>
+      <li>
+	<p>
+	  Limits and continuity of functions
+	</p>
+      </li>
+      <li>
+	<p>
+	  introduction of the derivative
+	</p>
+      </li>
+      <li>
+	<p>
+	  techniques of differentiation:
+	  <ul>
+	    <li>
+	      <p>Chain rule</p>
+	    </li>
+	    <li>
+	      <p>implicit differentiation</p>
+	    </li>
+	    <li>
+	      <p>differentiation of transcendental and inverse functions</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>applications of differentiation:
+	<ul>
+	  <li>
+	    <p>concavity</p>
+	  </li>
+	  <li>
+	    <p> relative extrema</p>
+	  </li>
+	  <li>
+	    <p>maximum and minimum values of a function</p>
+	  </li>
+	  <li>
+	    <p>optimization</p>
+	  </li>
+	</ul>
+	</p>
+      </li>
+      <li>
+	<p>antidifferentiation</p>
+      </li>
+      <li>
+	<p>definite integrals</p>
+      </li>
+      <li>
+	<p>Fundamental Theorem of Calculus</p>
+      </li>
+      <li>
+	<p> areas</p>
+      </li>
+      <li>
+	<p> applications of definite integrals</p>
+      </li>
+    </ul>
+  </p>
+</section>

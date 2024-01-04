@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+    <!-- directories are relative to the main source PreTeXt file -->
+    <source>
+      <directories external="../assets" generated="../generated-assets"/>
+      <!-- College Algebra -->
+      <version include="63057 1011 S24"/>
+      <!-- <version include="63167 1011 S24"/> -->
+       <!-- Calculus (1031)-->
+       <!-- <version include="63789 1031 S24"/> -->
+    </source>
+</publication>
