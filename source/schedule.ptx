@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Schedule</title>
+  <subsection>
+    <title>Contact Information</title>
+    <xi:include href="./me.ptx"/>
+  </subsection>
+
+  <subsection>
+    <title>Office Hours</title>
+    <xi:include href="./office_hours.ptx"/>
+  </subsection>
+</section>

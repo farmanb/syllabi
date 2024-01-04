@@ -21,6 +21,7 @@
     <xi:include href="./policies.ptx"/>
     <xi:include href="./academic_serv.ptx"/>
     <xi:include href="./student_serv.ptx"/>
+    <xi:include href="./schedule.ptx"/>
   </article>
 </pretext>
 
