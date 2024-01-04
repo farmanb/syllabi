@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1031">
+  <title>Functions</title>
+  <assemblage>
+    <title>Functions 1</title>
+    <p>
+      I can compute limits of functions.
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Functions 2</title>
+    <p>
+      I can determine whether a function is continuous at a point.
+    </p>
+  </assemblage>
+</subsection>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1031">
+  <title>Applications of the Derivative</title>
+  <assemblage>
+    <title>Applications of the Derivative 1</title>
+    <p>
+      I can use the first and second derivatives a function to
+      <ul>
+	<li>
+	  <p>find the critical numbers,</p>
+	</li>
+	<li>
+	  <p>identify local extreme values,</p>
+	</li>
+	<li>
+	  <p>identify the concavity of a function on an interval, and</p>
+	</li>
+	<li>
+	  <p>identify inflection points.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Applications of the Derivative 2</title>
+    <p>
+      I can identify whether a function has any of the following asymptotes:
+      <ul>
+	<li>
+	  <p>Horizontal</p>
+	</li>
+	<li>
+	  <p>Vertical</p>
+	</li>
+	<li>
+	  <p>Oblique</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Applications of the Derivative 3</title>
+    <p>
+      I can use the information from from Applications of the Derivative 1 and Applications of the Derivative 2 to sketch the graph of a function.
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Applications of the Derivative 4</title>
+    <p>
+      I can use the closed interval method to solve optimization problems.
+    </p>
+  </assemblage>
+</subsection>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1031">
+  <title>Derivatives</title>
+  
+  <assemblage>
+    <title>Derivatives 1</title>
+    <p>
+      I can compute the derivative of a function using the limit definition.
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Derivatives 2</title>
+    <p>
+      I can compute the derivative of a function using
+      <ul>
+	<li>
+	  <p>the power rule,</p>
+	</li>
+	<li>
+	  <p>the sum/difference rule, and</p>
+	</li>
+	<li>
+	  <p>the constant multiple rule.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Derivatives 3</title>
+    <p>
+      I can compute the derivative of a product of two or more functions.
+    </p>
+  </assemblage>
+
+
+  <assemblage>
+    <title>Derivatives 4</title>
+    <p>
+      I can compute the derivative of a composition of two or more functions.
+    </p>
+  </assemblage>
+
+  <assemblage>
+    <title>Derivatives 3</title>
+    <p>
+      I can use implicit differentiation to solve related rates problems.
+    </p>
+  </assemblage>
+</subsection>
