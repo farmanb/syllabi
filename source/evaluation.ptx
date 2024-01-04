@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="evalution" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Evaluation</title>
+  <introduction>
+    <p component="MBT">
+    This course will use <alert>Mastery Based Grading</alert>.
+    The content is broken into <em>standards</em> that you are expected to master by the end of the course.
+  </p>
+
+  <p component="MBT">
+    This grading system is <em>iterative</em> in the sense that you will have multiple opportunities to display mastery of each standard, and <em>forgetful</em> in the sense that your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.
+  </p>
+  
+  <p component="MBG">
+    Mastering a standard is a two-step process, consisting of mastering a Lesson and a written Assessment.
+    Each week we will cover around 2 Lessons in Hawkes, followed by a written Assessment that is due by the end of the week.
+  </p>
+  
+  <p component="MBT">
+    You can find a list of each standard in <xref ref="standards"/>.
+  </p>
+  </introduction>
 </section>
