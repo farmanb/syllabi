@@ -3,6 +3,7 @@
   <docinfo>
     <macros>\newcommand{\foo}{b^{ar}}</macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+    <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
   </docinfo>
   <article xml:id="syllabus-1011-2024">
     <title>Syllabus</title>
