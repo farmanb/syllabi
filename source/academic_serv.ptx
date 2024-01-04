@@ -1,4 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="academic_serv" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Academic Services</title>
+
+  <subsection>
+    <title>MATH Center</title>
+
+    <p>
+      The MATH Center is a mathematics only tutoring facility located in Walker Hall Room 3-46.
+      MATH Center tutors are available during the hours listed on Moodle for tutoring. 
+    </p>
+    
+    <assemblage>
+      <title>MATH Center Procedures</title>
+      <p>
+	<ul>
+	<li>
+	  <p>
+	    You must scan in and out of the MATH Center using a ULM student ID or valid photo ID.
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    You should bring all materials to the MATH Center: notebook, calculator, writing utensils, etc.
+	    No materials will be provided for students in the MATH Center. 
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    Cell phone usage is not allowed in the MATH Center.
+	    Cell phones must be turned off and stored out of sight.
+	    Any visibility or use of a cell phone by a student within the MATH Center is grounds for immediate removal from the MATH Center.
+	  </p>
+	</li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsection>
+
+  <subsection>
+    <title>Mathematics Resource Center (MRC)</title>
+    <p>
+      The Mathematics Resource Center (MRC), operated by the ULM mathematics faculty, is located on the third floor of Walker Hall.
+      The MRC is a mathematics learning center used for hands-on classroom experience and testing.
+      The MRC is available for use by ULM faculty/students any time classes are in session.
+      Testing is available only by appointment or faculty assignment.
+    </p>
+  </subsection>
+
 </section>
