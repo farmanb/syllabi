@@ -14,7 +14,7 @@
 	</li>
 	<li>
 	  <title>Email Address</title> 
-	  <p> farman@ulm.edu</p>
+	  <p> <email>farman (at) ulm (dot) edu</email></p>
 	</li>
 	<li>
 	  <title>Website</title> 
@@ -62,7 +62,7 @@
   <subsection>
     <title>Official University Email Addresses</title>
     <p>
-      The University provides each student with an email address, username@warhawks.ulm.edu, and all official course correspondence will <alert>only</alert> be conducted using official university email addresses.
+      The University provides each student with an email address, <email>username@warhawks.ulm.edu</email>, and all official course correspondence will <alert>only</alert> be conducted using official university email addresses.
     </p>
   </subsection>
   <subsection>
