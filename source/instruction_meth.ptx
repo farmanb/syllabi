@@ -3,34 +3,36 @@
   <title>Instructional Methods</title>
   <introduction>
     <p>
-    This course is offered as a face-to-face course.
-    <ul component="1007">
-      <li>
-	<p>Learning will be facilitated through face-to-face lectures and the textbook.</p>
-      </li>
-      <li>
-	<p>Homework assignments and Exams will be completed using Hawkes Learning.</p>
-      </li>
-      <li>
-	<p>ULM offers one-on-one tutoring in the MATH Center.</p>
-      </li>
-      <li>
-	<p>
-	  It is the student’s responsibility to learn how to use Hawkes Learning.
-	  To register for Hawkes Learning, follow the instructions posted in Moodle.
-	  For technical questions concerning Hawkes Learning:
-	  <ul>
-	    <li>
-	      <p>Go to <url href="https://support.hawkeslearning.com/supportcenter/"/> and click Support, or
-	      </p>
-	    </li>
-	    <li>
-	      <p>Call 800.426.9538.</p>
-	    </li>
-	  </ul>
-	</p>
-      </li>
-    </ul>
+      This course is offered as a face-to-face course.
+      Learning will be facilitated through traditional lecture, group work/activities, homework, and in-class assessments.
+      
+      <ul component="1007">
+	<li>
+	  <p>Learning will be facilitated through face-to-face lectures and the textbook.</p>
+	</li>
+	<li>
+	  <p>Homework assignments and Exams will be completed using Hawkes Learning.</p>
+	</li>
+	<li>
+	  <p>ULM offers one-on-one tutoring in the MATH Center.</p>
+	</li>
+	<li>
+	  <p>
+	    It is the student’s responsibility to learn how to use Hawkes Learning.
+	    To register for Hawkes Learning, follow the instructions posted in Moodle.
+	    For technical questions concerning Hawkes Learning:
+	    <ul>
+	      <li>
+		<p>Go to <url href="https://support.hawkeslearning.com/supportcenter/"/> and click Support, or
+		</p>
+	      </li>
+	      <li>
+		<p>Call 800.426.9538.</p>
+	      </li>
+	    </ul>
+	  </p>
+	</li>
+      </ul>
     </p>
   </introduction>
 
