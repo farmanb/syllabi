@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="course_desc" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
+
+  <p component="1007">
+    An introduction to the application of matrix algebra.
+    Emphasis on the application of procedures and algorithms.
+  </p>
+  
   <p component="1011">
     <ul>
       <li>In-depth treatment of solving equations and inequalities</li>
@@ -104,4 +110,39 @@
       </li>
     </ul>
   </p>
+
+  <p component="2002">
+    An introduction to the application of matrix algebra.
+    Emphasis on the application of procedures and algorithms.
+  </p>
+  
+  <p component="2040">
+    Introduction to logic and proofs, set theory, functions and structures relating to algebra and analysis.
+  </p>
+  
+  <p component="3040">
+    This course provides instruction to abstract algebra and real analysis and is a continuation of MATH 2040.
+  </p>
+
+  <p component="3080">
+    <ul>
+      <li>
+	<p>Sequences and series of real numbers and their convergence,</p>
+      </li>
+      <li>
+	<p>continuity,</p> 
+      </li>
+      <li>
+	<p>differentiation, and</p>
+      </li>
+      <li>
+	<p>integration of real valued functions of one real variable.</p>
+      </li>
+    </ul>
+  </p>
+
+  <p component="3086">
+    Axioms and the nature of proof, groups, rings, integral domains, fields, homomorphisms and isomorphisms.
+  </p>
+    
 </section>
