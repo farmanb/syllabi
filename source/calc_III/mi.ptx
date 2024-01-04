@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection>
+  <title>Multiple Integration (MI)</title>
+    <subsubsection>
+    <title>Multiple Integration 1</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> use iterated integrals to compute double integrals over a region in \(\mathbb{R}^2\)</p>
+	    </li>
+	      <li>
+		<p>identify when to use polar coordinates to simplify these iterated integrals. (\S 16.1, 16.2, 16.3)</p>
+	      </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Multiple Integration 2</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> use iterated integrals to compute triple integrals over a region in \(\mathbb{R}^3\)</p>
+	    </li>
+	    <li>
+	      <p> identify when to use cylindrical and spherical coordinates to simplify these iterated integrals. (\S 16.4, 16.5)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Multiple Integration 3</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> compute the center of mass of an object (\S 16.6).</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Multiple Integration 4</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> use a change of variables in two and three dimensions to simplify an interal (\S 16.7).</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+</subsection>

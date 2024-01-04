@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection>
+  <title>Vector-Valued Functions (VF)</title>
+
+  <subsubsection>
+    <title>Vector-Valued Functions 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> sketch graph of a vector-valued function of a single variable.</p>
+	  </li>
+	  <li>
+	    <p> compute limits involving vector-valued functions and determine whether a vector-valued function is continuous at a point. (\S 14.1)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+      <title>Vector-Valued Functions 2</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p>use the derivative rules for vector-valued functions to find the vector tangent to a point on a space curve.</p>
+	    </li>
+	    <li>
+	      <p> compute the unit tangent vector at a point on a space curve.</p>
+	    </li>
+	    <li>
+	      <p> compute definite and indefinite integrals involving vector-valued functions. (\S 14.2)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Vector-Valued Functions 3</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> represent the path of an object moving in space using a vector-valued function and compute its velocity, speed, and acceleration.</p>
+	    </li>
+	    <li>
+	      <p> find the vector-valued function representing the path of an object moving in space given either the acceleration or velocity vector and initial conditions.</p>
+	    </li>
+	    <li>
+	      <p> recognize straight-line and circular motion, and solve application problems. (\S 14.3)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Vector-Valued Functions</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> compute the length of a space curve on a closed interval.</p>
+	    </li>
+	    <li>
+	      <p> parameterize a curve by arc length under appropriate conditions. (\S 14.4)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Vector-Valued Functions 5</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> compute the curvature, principal unit normal vector for a smooth space curve, and use these to decompose the acceleration.</p>
+	    </li>
+	    <li>
+	      <p> compute the binormal vector, interpret the \(\mathbf{TNB}\) frame, and compute the torsion for a smooth space curve. (\S 14.5)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+    </subsubsection>
+</subsection>

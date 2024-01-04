@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection>
+  <title>Vectors and the Geometry of Space (VG)</title>
+  <subsubsection>
+    <title>Vectors and the Geometry of Space 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> express vectors with appropriate notation.</p>
+	  </li>
+	  <li>
+	    <p> perform the following basic operations on vectors: add, subtract, scale, find the magnitude, and find the direction.</p>
+	  </li>
+	  <li>
+	    <p> use vectors to solve application problems. (\S 13.1, 13.2)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vectors and the Geometry of Space 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>compute the dot product of two vectors and use this to compute the angle between two vectors.</p>
+	  </li>
+	  <li>
+	    <p>determine whether two vectors are orthogonal, compute the orthogonal projection of one vector onto another, and use these to solve application problems. (\S 13.3)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+  
+  <subsubsection>
+    <title>Vectors and the Geometry of Space 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> compute the cross product of two given vectors to find a third vector orthogonal to each of the given vectors.</p>
+	  </li>
+	  <li>
+	    <p> use the cross product to solve application problems. (\S 13.4)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+      <title>Vectors and the Geometry of Space 4</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> find the equation of a line in space given either a point and a vector in space, or two points in space.</p>
+	    </li>
+	    <li>
+	      <p> express the line as a vector equation and using parametric equations.</p>
+	    </li>
+	    <li>
+	      <p> solve application problems involving lines in space. (\S 13.5)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+      <title>Vectors and the Geometry of Space 5</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p> find the equation of a plane given either a point and a normal vector in space, or three points in space.</p>
+	    </li>
+	    <li>
+	      <p> express this as a vector equation and as a linear equation in three variables. (\S 13.5)</p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+      <title>Vectors and the Geometry of Space 6</title>
+      <assemblage>
+	<title>I can..</title>
+	<p>
+	  <ul>
+	    <li>	      
+	      <p> match standard quadric surfaces and their standard equations.</p>
+	    </li>
+	    <li>
+	      <p>
+		place a given equation for a quadratic surface into standard form. (\S 13.6)
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </assemblage>
+  </subsubsection>
+</subsection>

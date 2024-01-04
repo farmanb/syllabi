@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection>
+  <title>Vector Calculus</title>
+  <subsubsection>
+    <title>Vector Calculus 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> match vector fields with their graphs.</p>
+	  </li>
+	  <li>
+	      <p> parameterize curves, evaluate line integrals, and interpret these as mass, work, flux, and circulation. (\S 17.1, 17.2)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vector Calculus 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> determine whether a vector field is conservative and, if so, find the potential function.</p>
+	  </li>
+	  <li>
+	      <p> use the Fundamental Theorem for Line Integrals to evaluate line integrals of conservative vector fields. (\S 17.3)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vector Calculus 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> use Green's Theorem to evaluate line integrals of vector fields. (\S 17.4)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vector Calculus 4</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> compute the divergence and curl of a vector field. (\S 17.5)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vector Calculus 5</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> parameterize a given surface and compute surface integrals. (\S 17.6)</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection>
+    <title>Vector Calculus 6</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> use Stoke's Theorem to evaluate integrals (\S 17.7).</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+	      
+  <subsubsection>
+    <title>Vector Calculus 7</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p> use the Divergence Theorem to evaluate integrals. (\S 17.8).</p>
+	  </li>
+	</ul>
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>
