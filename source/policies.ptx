@@ -3,17 +3,14 @@
   <title>Course Policies and Procedures</title>
   <introduction>
     <p>
-      At a minimum, all policies stated in the current ULM student policy manual &amp; organizational handbook should be followed (see <url href="http://www.ulm.edu/studentpolicy/"/>).
+      At a minimum, all policies stated in the current ULM student policy manual &amp; organizational handbook should be followed (see <url href="https://www.ulm.edu/studenthandbook/"/>).
       Additional class policies follow.
     </p>
   </introduction>
   
   <subsection>
     <title>Textbook</title>
-    <p>
-      The required text for this course is
-    </p>
-    <assemblage>
+    <assemblage component="1007">
       <title>Required Textbook</title>
       <p>
 	<pubtitle>
@@ -21,12 +18,25 @@
 	</pubtitle>
       </p>
     </assemblage>
-    <p>
+    <p component="1007">
       You may purchase access through the ULM Bookstore or directly from Hawkes Learning.
     </p>
+    
+    <assemblage component="1031">
+      <title>Required Textbook</title>
+      <p>
+	<pubtitle>
+	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
+	</pubtitle>
+      </p>
+      <p>
+	You may purchase access through the ULM Bookstore or directly from Pearson.
+      </p>
+    </assemblage>
+    
   </subsection>
   
-  <subsection>
+  <subsection component="1007">
     <title>Calculator</title>
     <p>
       A scientific calculator is required, preferably one with a two-line display such as TI-30X IIS or TI-30X IIB.
@@ -34,7 +44,7 @@
     </p>
   </subsection>
   
-  <subsection>
+  <subsection component="1007">
     <title>Other Materials Needed</title>
     <p>
       ULM student ID, paper, writing utensils, lecture notes, Hawkes Learning user name and password.
@@ -70,16 +80,23 @@
     </li>
     <li>
       <p>
-	Each student is responsible for all class material and assignments whether or not the student is present.
-	If a student misses class, then he/she is expected to check Moodle and ULM email for announcements and work on the assignments listed in Hawkes Learning.
+	Each student is solely responsible for all class material and assignments whether or not the student is present.
       </p>
     </li>
     <li>
       <p>
 	A student accumulating absences of 25% of the class meetings regardless of the reasons (excused or unexcused) will be reported to the Dean of Arts, Education, &amp; Sciences which could result in academic withdrawal from the course or a course grade of F.
-	This may be avoided if the course is dropped; however, it is the responsibility of the student to drop the course.
-	Class removal carries with it the penalties of being assigned a grade of W or F, whichever is appropriate, and no credit for the course.
-	Academic withdrawal may negatively impact a student’s full-time status.
+	<ul>
+	  <li>
+	    <p>This may be avoided if the course is dropped; however, it is the responsibility of the student to drop the course.</p>
+	  </li>
+	  <li>
+	    <p> Class removal carries with it the penalties of being assigned a grade of W or F, whichever is appropriate, and no credit for the course.</p>
+	  </li>
+	  <li>
+	    <p>Academic withdrawal may negatively impact a student’s full-time status.</p>
+	  </li>
+	</ul>
       </p>
     </li>
     <li>
@@ -88,8 +105,14 @@
       </p>
     </li>
     <li>
-      <p>
+      <p component="1007">
 	Only students registered in MATH 1007 may attend the lectures.
+      </p>
+      <p component="1011">
+	Only students registered in MATH 1011 may attend the lectures.
+      </p>
+      <p component="1031">
+	Only students registered in MATH 1031 may attend the lectures.
       </p>
     </li>
     <li>
@@ -104,12 +127,15 @@
 
 <subsection>
   <title>Late Policy</title>
-  <p>
-    Late homework and review quizzes will be accepted with the following penalties:
+  <p component="1031">
+    Late work will not be accepted.
+    Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
-  <assemblage>
+
+  <assemblage component="1007">
     <title>Late Homework Penalty</title>
     <p>
+      Late homework and review quizzes will be accepted with the following penalties:
       <ul>
 	<li>
 	  <p>0% penalty for up to 2 day(s) late</p>
@@ -135,7 +161,12 @@
 
 <subsection>
   <title>Make-up Policy</title>
-  <p>
+  <p component="MBT">
+    In the event of a missed assessment due to absence, students will be given the opportunity to attempt all missed standards on the next reassessment.
+    The date and time of the final reassessment are determined by the registrar and cannot be made up.
+  </p>
+  
+  <p component="1007">
     <ul>
       <li>
 	<p>
@@ -144,9 +175,12 @@
 	  Any further missed exams will be recorded as a grade of 0.
 	</p>
       </li>
-      
-      Since homework assignments are available well before deadlines, students cannot make-up missed homework assignments.
-      The lowest four homework assignments will be dropped at the end of the semester.
+      <li>
+	<p>
+	  Since homework assignments are available well before deadlines, students cannot make-up missed homework assignments.
+	  The lowest four homework assignments will be dropped at the end of the semester.
+	</p>
+      </li>
       <li>
 	<p>
 	  Students cannot make-up review quizzes, which are available online well in advance of the due date.
@@ -160,16 +194,19 @@
 <subsection>
   <title>Academic Integrity</title>
   <p>
-    Faculty and students must observe the ULM published policy on Academic Dishonesty (see the ULM Student Policy Manual -- \url{http://www.ulm.edu/studentpolicy/}).\\
+    Faculty and students must observe the ULM published policy on Academic Dishonesty.
+    See the ULM Student Handbook <mdash/> <url href="https://www.ulm.edu/studenthandbook/"/>
+  </p>
+  <p>
     Any student caught turning in work that is not his/her own will be reported to the School of Sciences.
-    If the student is found to be responsible for such a violation, then a formal report will be made to the Office of Student Services and the student will receive \textbf{a grade of F for the course}.
+    If the student is found to be responsible for such a violation, then a formal report will be made to the Office of Student Services and the student will receive <alert>a grade of F for the course</alert>.
   </p>
 </subsection>
 
 <subsection>
   <title>Course Evaluation Policy</title>
   <p>
-    At a minimum, students are expected to complete the online course evaluation.
+    At a minimum, students are expected to complete the online course evaluation using the Online Course Evaluation system <url href="https://www.ulm.edu/evaluations/"/>.
   </p>
 </subsection>
 
