@@ -20,4 +20,71 @@
     You can find a list of each standard in <xref ref="standards"/>.
   </p>
   </introduction>
+
+  <subsection>
+    <title>Grading Scale</title>
+    <p>
+      Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
+    </p>
+    
+    <table component="1011">
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<row header="yes" bottom="minor" >
+	  <cell>Grade</cell>
+	  <cell>Number of Standards Mastered</cell>
+	</row>
+	<row>
+	  <cell>A</cell>
+	  <cell>30 <ndash/> 33</cell>
+	</row>
+	<row>
+	  <cell>B</cell>
+	  <cell>27 <ndash/> 39</cell>
+	</row>
+	<row>
+	  <cell>C</cell>
+	  <cell>24 <ndash/> 26</cell>
+	</row>
+	<row>
+	  <cell>D</cell>
+	  <cell>20 <ndash/> 23</cell>
+	</row>
+	<row>
+	  <cell>F</cell>
+	  <cell>0 <ndash/> 19</cell>
+	</row>
+      </tabular>
+    </table>
+
+    <table component="2032">
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<row header="yes" bottom="minor" >
+	  <cell>Grade</cell>
+	  <cell>Number of Standards Mastered</cell>
+	</row>
+	<row>
+	  <cell>A</cell>
+	  <cell>30 <ndash/> 33</cell>
+	</row>
+	<row>
+	  <cell>B</cell>
+	  <cell>27 <ndash/> 39</cell>
+	</row>
+	<row>
+	  <cell>C</cell>
+	  <cell>24 <ndash/> 26</cell>
+	</row>
+	<row>
+	  <cell>D</cell>
+	  <cell>20 <ndash/> 23</cell>
+	</row>
+	<row>
+	  <cell>F</cell>
+	  <cell>0 <ndash/> 19</cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>
 </section>
