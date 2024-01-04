@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="course_top" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Topics</title>
+  
+  <introduction component="1007">
+    <p>
+      Course topics include graph theory, logic, set theory, voting theory, apportionment, and number theory.
+    </p>
+  </introduction>
+
+  <subsection component="1007">
+    <title>Set Theory</title>
+    <p>
+      <ul>
+	<li>
+	  <p>Set Notation</p>
+	</li>
+	<li>
+	  <p>Subsets and Venn Diagrams</p>
+	</li>
+	<li>
+	  <p>Operations with Sets</p>
+	</li>
+	<li>
+	  <p>Applications and Survey Analysis</p>
+	</li>
+      </ul>
+    </p>
+  </subsection>
+  
+  <subsection component="1007">
+    <title>Logic</title>
+    <p>
+      <ul>
+	<li>
+	  <p>Logic Statements and their Negations</p>
+	</li>
+	<li>
+	  <p>Truth Tables</p>
+	</li>
+	<li>
+	  <p>Logical Equivalence and De Morgan's Law</p>
+	</li>
+	<li>
+	  <p>Valid Arguments and Fallacies</p>
+	</li>
+      </ul>
+    </p>
+  </subsection>
+
+  <subsection component="1007">
+    <title>Graph Theory</title>
+    <p>
+      <ul>
+	<li>
+	  <p>Introduction to Graph Theory</p>
+	</li>
+	<li>
+	  <p>Trees</p>
+	</li>
+	<li>
+	  <p>Matchings</p>
+	</li>
+	<li>
+	  <p>Planar Graphs</p>
+	</li>
+      </ul>
+    </p>
+  </subsection>
+
+  <subsection component="1007">
+    <title>Voting &amp; Apportionment Theories</title>
+    <p>
+      <ul>
+	<li>
+	  <p>How to Determine a Winner</p>
+	</li>
+	<li>
+	  <p>Flaws in Voting Methods</p>
+	</li>
+	<li>
+	  <p>Apportionment</p>
+	</li>
+      </ul>
+    </p>
+  </subsection>
+
+  
+  <subsection component="1007">
+    <title>Number Theory</title>
+    <p>
+      <ul>
+	<li>
+	  <p>Prime Numbers</p>
+	</li>
+	<li>
+	  <p>Modular Arithmetic</p>
+	</li>
+	<li>
+	  <p>Fermat's Little Theorem and Prime Testing</p>
+	</li>
+	<li>
+	  <p>Fermat's Little Theorem and Public-Key Encryption</p>
+	</li>
+      </ul>
+    </p>
+  </subsection>
+</section>

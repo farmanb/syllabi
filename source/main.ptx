@@ -12,5 +12,13 @@
     <subtitle component="63789">Math 1011 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
     <xi:include href="./contact.ptx" />
     <xi:include href="./course_desc.ptx" />
+    <xi:include href="./course_obj.ptx" />
+    <xi:include href="./course_topics.ptx"/>
+    <xi:include href="./instruction_meth.ptx"/>
+    <xi:include href="./evaluation.ptx"/>
+    <xi:include href="./policies.ptx"/>
+    <xi:include href="./academic_serv.ptx"/>
+    <xi:include href="./student_serv.ptx"/>
   </article>
 </pretext>
+
