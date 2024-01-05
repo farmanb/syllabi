@@ -137,6 +137,64 @@
       </tabular>
     </table>
 
+    <table component="1031">
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<row header="yes" bottom="minor">
+	<cell></cell>
+	<cell colspan="5">Homework Grade</cell>
+	</row>
+	<row header="yes" bottom="major" >
+	  <cell right="major">Number of Standards Mastered</cell>
+	  <cell>[0%, 60%)</cell>
+	  <cell>[60%, 70%)</cell>
+	  <cell>[70%,80%)</cell>
+	  <cell>[80%,90%)</cell>
+	  <cell>[90%,100%]</cell>
+	</row>
+	<row>
+	  <cell right="major">30 <ndash/> 33</cell>
+	  <cell>F</cell>
+	  <cell>D</cell>
+	  <cell>C</cell>
+	  <cell>B</cell>
+	  <cell>A</cell>
+	</row>
+	<row>
+	  <cell right="major">27 <ndash/> 39</cell>
+	  <cell>F</cell>
+	  <cell>D</cell>
+	  <cell>C</cell>
+	  <cell>B</cell>
+	  <cell>B</cell>
+	</row>
+	<row>
+	  <cell right="major">24 <ndash/> 26</cell>
+	  <cell>F</cell>
+	  <cell>D</cell>
+	  <cell>C</cell>
+	  <cell>C</cell>
+	  <cell>C</cell>
+	</row>
+	<row>
+	  <cell right="major">20 <ndash/> 23</cell>
+	  <cell>F</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	</row>
+	<row>
+	  <cell right="major">0 <ndash/> 19</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
+	</row>
+      </tabular>
+    </table>
+
     <table component="2032">
       <title>Grading Scale</title>
       <tabular halign="center">
