@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<subsection component="1011">
-  <title>The Cartesian Plane (<init>CP</init>)</title>
+<subsection xml:id="standard-CA-CP" component="1011">
+  <title>The Cartesian Plane</title>
   <assemblage xml:id="standard-CA-CP1">
-    <title>The Cartesian Plane 1</title>
+    <title>The Cartesian Plane 1 (<init>CP1</init>)</title>
     <p>
       I can plot points in the plane.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-CP2">
-    <title>The Cartesian Plane 2</title>
+    <title>The Cartesian Plane 2 (<init>CP2</init>)</title>
     <p>
       I can determine whether a given point lies on the graph of an equation.
     </p>
@@ -17,21 +17,21 @@
   
   
   <assemblage xml:id="standard-CA-CP3">
-    <title>The Cartesian Plane 3</title>
+    <title>The Cartesian Plane 3 (<init>CP3</init>)</title>
     <p>
       I can find the distance between two points in the plane.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-CP4">
-    <title>The Cartesian Plane 4</title>
+    <title>The Cartesian Plane 4 (<init>CP4</init>)</title>
     <p>
       I can find the midpoint between two points in the plane.
     </p>
   </assemblage>
 
     <assemblage xml:id="standard-CA-CP5">
-    <title>The Cartesian Plane 5</title>
+    <title>The Cartesian Plane 5 (<init>CP5</init>)</title>
     <p>
       I can use the standard form a circle to
       <ul>

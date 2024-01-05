@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<subsection component="1011">
-  <title>Polynomial Functions (<init>PF</init>)</title>
-
+<subsection xml:id="standard-CA-PF" component="1011">
+  <title>Polynomial Functions</title>
+  
   <assemblage xml:id="standard-CA-PF1">
-    <title>Polynomial Functions 1</title>
+    <title>Polynomial Functions 1 (<init>PF1</init>)</title>
     <p>
       I can find rational roots of polynomials.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF2">
-    <title>Polynomial Functions 2</title>
+    <title>Polynomial Functions 2 (<init>PF2</init>)</title>
     <p>
       I can perform long division with polynomials.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF3">
-    <title>Polynomial Functions 3</title>
+    <title>Polynomial Functions 3 (<init>PF3</init>)</title>
     <p>
       I can identify linear functions, and use their major features to produce a graph:
       <ul>
@@ -35,7 +35,7 @@
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF4">
-    <title>Polynomial Functions 4</title>
+    <title>Polynomial Functions 4 (<init>PF4</init>)</title>
     <p>
       I can represent a linear function using any of its forms:
       <ul>
@@ -53,35 +53,35 @@
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF5">
-    <title>Polynomial Functions 5</title>
+    <title>Polynomial Functions 5 (<init>PF5</init>)</title>
     <p>
       I can find a line that is either perpendicular or parallel to a given line.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF6">
-    <title>Polynomial Functions 6</title>
+    <title>Polynomial Functions 6 (<init>PF6</init>)</title>
     <p>
       I can solve linear inequalities.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF7">
-    <title>Polynomial Functions 7</title>
+    <title>Polynomial Functions 7 (<init>PF7</init>)</title>
     <p>
       I can place a given quadratic function into vertex form, then use graph transformations to graph it.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF8">
-    <title>Polynomial Functions 8</title>
+    <title>Polynomial Functions 8 (<init>PF8</init>)</title>
     <p>
       I can find the roots of a quadratic function.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF9">
-    <title>Polynomial Functions 9</title>
+    <title>Polynomial Functions 9 (<init>PF9</init>)</title>
     <p>
       I can find solve quadratic polynomials.
     </p>

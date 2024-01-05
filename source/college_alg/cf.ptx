@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<subsection component="1011">
-  <title>Combining Functions (<init>CF</init>)</title>
+<subsection xml:id="standard-CA-CF" component="1011">
+  <title>Combining Functions</title>
   <assemblage xml:id="standard-CA-CF1">
-    <title>Combining Functions 1</title>
+    <title>Combining Functions 1 (<init>CF1</init>)</title>
     <p>
       I can combine functions algebraically and find the implied
       <ul>
@@ -20,7 +20,7 @@
   </assemblage>
 
   <assemblage xml:id="standard-CA-CF2">
-    <title>Combining Functions 2</title>
+    <title>Combining Functions 2 (<init>CF2</init>)</title>
     <p>
       I can compose functions and find the implied
       <ul>
@@ -39,14 +39,14 @@
   
   
   <assemblage xml:id="standard-CA-CF3">
-    <title>Combining Functions 3</title>
+    <title>Combining Functions 3 (<init>CF3</init>)</title>
     <p>
       I can determine whether an algebraic function has an inverse and, if so, find the inverse.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-CF4">
-    <title>Combining Functions 4</title>
+    <title>Combining Functions 4 (<init>CF4</init>)</title>
     <p>
       I can work with piecewise defined functions.
     </p>

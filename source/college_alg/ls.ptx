@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<subsection component="1011">
-  <title>Linear Systems (<init>LS</init>)</title>
+<subsection xml:id="standard-CA-LS" component="1011">
+  <title>Linear Systems</title>
   <assemblage xml:id="standard-CA-LS1">
-    <title>Linear Systems 1</title>
+    <title>Linear Systems 1 (<init>LS1</init>)</title>
     <p>
       I can solve linear systems in two variables.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-LS2">
-    <title>Linear Systems 2</title>
+    <title>Linear Systems 2 (<init>LS2</init>)</title>
     <p>
       I can solve linear systems in three variables.
     </p>
