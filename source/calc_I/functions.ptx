@@ -1,15 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <subsection component="1031">
-  <title>Functions</title>
-  <assemblage>
+  <title>Functions (<init>FN</init>)</title>
+  <assemblage xml:id="standard-calcI-FN1">
     <title>Functions 1</title>
     <p>
       I can compute limits of functions.
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-F2">
     <title>Functions 2</title>
+    <p>
+      I can identify whether a function has any of the following asymptotes:
+      <ul>
+	<li>
+	  <p>Horizontal</p>
+	</li>
+	<li>
+	  <p>Vertical</p>
+	</li>
+	<li>
+	  <p>Oblique</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-calcI-F3">
+    <title>Functions 3</title>
     <p>
       I can determine whether a function is continuous at a point.
     </p>

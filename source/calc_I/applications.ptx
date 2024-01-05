@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <subsection component="1031">
-  <title>Applications of the Derivative</title>
-  <assemblage>
+  <title>Applications of the Derivative (<init>AD</init>)</title>
+  <assemblage xml:id="standard-calcI-AD1">
     <title>Applications of the Derivative 1</title>
     <p>
-      I can use the first and second derivatives a function to
+      I can use the first and second derivatives of a function to
       <ul>
 	<li>
 	  <p>find the critical numbers,</p>
@@ -21,34 +21,16 @@
       </ul>
     </p>
   </assemblage>
-
-  <assemblage>
+   
+  <assemblage xml:id="standard-calcI-AD2">
     <title>Applications of the Derivative 2</title>
     <p>
-      I can identify whether a function has any of the following asymptotes:
-      <ul>
-	<li>
-	  <p>Horizontal</p>
-	</li>
-	<li>
-	  <p>Vertical</p>
-	</li>
-	<li>
-	  <p>Oblique</p>
-	</li>
-      </ul>
+      I can use the information from <xref ref="standard-calcI-F2" text="title"/> and <xref ref="standard-calcI-AD1" text="title"/> to sketch the graph of a function.
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-AD3">
     <title>Applications of the Derivative 3</title>
-    <p>
-      I can use the information from from Applications of the Derivative 1 and Applications of the Derivative 2 to sketch the graph of a function.
-    </p>
-  </assemblage>
-
-  <assemblage>
-    <title>Applications of the Derivative 4</title>
     <p>
       I can use the closed interval method to solve optimization problems.
     </p>

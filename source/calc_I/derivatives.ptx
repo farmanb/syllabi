@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <subsection component="1031">
-  <title>Derivatives</title>
+  <title>Derivatives (<init>D</init>)</title>
   
-  <assemblage>
+  <assemblage xml:id="standard-calcI-D1">
     <title>Derivatives 1</title>
     <p>
       I can compute the derivative of a function using the limit definition.
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-D2">
     <title>Derivatives 2</title>
     <p>
       I can compute the derivative of a function using
@@ -27,7 +27,7 @@
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-D3">
     <title>Derivatives 3</title>
     <p>
       I can compute the derivative of a product of two or more functions.
@@ -35,15 +35,15 @@
   </assemblage>
 
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-D4">
     <title>Derivatives 4</title>
     <p>
       I can compute the derivative of a composition of two or more functions.
     </p>
   </assemblage>
 
-  <assemblage>
-    <title>Derivatives 3</title>
+  <assemblage xml:id="standard-calcI-D5">
+    <title>Derivatives 5</title>
     <p>
       I can use implicit differentiation to solve related rates problems.
     </p>

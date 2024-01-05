@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <subsection component="1031">
-  <title>Integration</title>
+  <title>Integration (<init>I</init>)</title>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-I1">
     <title>Integration 1</title>
     <p>
       I can use the definition to compute the definite integral of a continuous function.
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-I2">
     <title>Integration 2</title>
     <p>
       I can use the Fundamental Theorem of Calculus to compute definite and indefinite integrals.
     </p>
   </assemblage>
 
-  <assemblage>
+  <assemblage xml:id="standard-calcI-I3">
     <title>Integration 3</title>
     <p>
       I can use substitution to evaluate definite and indefinite integrals.
