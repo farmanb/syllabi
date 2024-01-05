@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_top" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
+  
   <introduction>
+    <p component="1007">
+      Course topics include graph theory, logic, set theory, voting theory, apportionment, and number theory.
+    </p>
+
+    <p component="1011">
+      Topics include
+      <ul>
+	<li>
+	  <p><xref ref="standard-CA-CP" text="title"/></p>
+	</li>
+	<li>
+	  <p><xref ref="standard-CA-FG" text="title"/></p>
+	</li>
+	<li>
+	  <p><xref ref="standard-CA-PF" text="title"/></p>
+	</li>
+	<li>
+	  <p><xref ref="standard-CA-CF" text="title"/></p>
+	</li>
+	<li>
+	  <p><xref ref="standard-CA-LS" text="title"/></p>
+	</li>
+	<li>
+	  <p><xref ref="standard-CA-TF" text="title"/></p>
+	</li>
+      </ul>
+    </p>
+
     <p component="1031">
       Topics include
       <ul>
@@ -27,9 +56,6 @@
 	  <p>applications of derivatives and integrals.</p>
 	</li>
       </ul>
-    </p>
-    <p component="1007">
-      Course topics include graph theory, logic, set theory, voting theory, apportionment, and number theory.
     </p>
   </introduction>
 
