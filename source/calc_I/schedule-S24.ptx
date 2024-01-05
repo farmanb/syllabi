@@ -3,12 +3,12 @@
   <title>Schedule</title>
   <subsection>
     <title>Contact Information</title>
-    <xi:include href="./me.ptx"/>
+    <xi:include href="../me.ptx"/>
   </subsection>
 
   <subsection>
     <title>Office Hours</title>
-    <xi:include href="./office_hours.ptx"/>
+    <xi:include href="../office_hours.ptx"/>
   </subsection>
 
   <subsection component="1031">
