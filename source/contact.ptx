@@ -44,20 +44,20 @@
 	<li>
 	  <title>Salutation</title>
 	  <p>
-	    A professional greeting such as <q>Dear</q> or <q>Hello</q> followed by the appropriate honorific and the recipient's last name.
-	  <ul>
-	    <li>
-	      <p>
-		If the person you are addressing holds a doctorate (<eg/> a <abbr>Ph.D.</abbr>), then you should address the recipient as <abbr>Dr.</abbr> <angles>Last Name</angles>, not
-		<abbr>Mr.</abbr>, <abbr>Ms.</abbr>, or <abbr>Mrs.</abbr> <angles>Last Name</angles>.
-	      </p>
-	    </li>
-	    <li>
-	      <p>
-		If you are unsure, Professor <angles>Last Name</angles> is generally a safe way to address a faculty member.
-	      </p>
-	    </li>
-	  </ul>
+	    A professional greeting such as <q>Dear</q> or <q>Hello</q> followed by the appropriate honorific and the recipient's last name (<eg/> <abbr>Dr.</abbr> X).
+	    <ul>
+	      <li>
+		<p>
+		  If the person you are addressing holds a doctorate (<eg/> a <abbr>Ph.D.</abbr>), then you should address the recipient as <abbr>Dr.</abbr> X, never
+		  <abbr>Mr.</abbr> X, <abbr>Ms.</abbr> X, or <abbr>Mrs.</abbr> X.
+		</p>
+	      </li>
+	      <li>
+		<p>
+		  If you are unsure, Professor X is generally a safe way to address a faculty member.
+		</p>
+	      </li>
+	    </ul>
 	  </p>
 	</li>
 	<li>
@@ -100,4 +100,4 @@
       <p>Jane Doe</p>
     </assemblage>
   </subsection>
-  </section>
+</section>
