@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1011">
+  <title>Transcendental Functions (<init>TF</init>)</title>
+  <assemblage xml:id="standard-CA-TF1">
+    <title>Transcendental Functions 1</title>
+    <p>
+      I can use the properties of exponential functions to manipulate expressions.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-TF2">
+    <title>Transcendental Functions 2</title>
+    <p>
+      I can use the properties of logarithms to manipulate expressions.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-CA-TF3">
+    <title>Transcendental Functions 3</title>
+    <p>
+      I can solve equations involving exponential and logarithmic functions.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-TF4">
+    <title>Transcendental Functions 4</title>
+    <p>
+      I can model natural phenomena using exponential and logarithmic functions.
+    </p>
+  </assemblage>
+
+</subsection>
+

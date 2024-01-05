@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1011">
+  <title>Functions and Graphs (<init>FG</init>)</title>
+
+  <assemblage xml:id="standard-CA-FG1">
+    <title>Functions and Graphs 1</title>
+    <p>
+      I can determine whether an algebraic expression defines a function and find the implied
+      <ul>
+	<li><p>domain,</p></li>
+	<li><p>codomain, and</p></li>
+	<li><p>range.</p></li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-FG2">
+    <title>Functions and Graphs 2</title>
+    <p>
+      I can identify the intervals of increase/decrease of a function and use these to find local extrema.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-FG3">
+    <title>Functions and Graphs 3</title>
+    <p>
+      I can compute the average rate of change of a function.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-FG4">
+    <title>Functions and Graphs 4</title>
+    <p>
+      I can use graphs of basic functions and graph transformations to graph general functions.
+    </p>
+  </assemblage>
+
+    <assemblage xml:id="standard-CA-FG5">
+    <title>Functions and Graphs 5</title>
+    <p>
+      I can identify whether a given function has <m>y</m>-axis or origin symmetry.
+    </p>
+  </assemblage>
+</subsection>
+

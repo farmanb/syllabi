@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1011">
+  <title>Polynomial Functions (<init>PF</init>)</title>
+
+  <assemblage xml:id="standard-CA-PF1">
+    <title>Polynomial Functions 1</title>
+    <p>
+      I can find rational roots of polynomials.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF2">
+    <title>Polynomial Functions 2</title>
+    <p>
+      I can perform long division with polynomials.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF3">
+    <title>Polynomial Functions 3</title>
+    <p>
+      I can identify linear functions, and use their major features to produce a graph:
+      <ul>
+	<li>
+	  <p>Slope,</p>
+	</li>
+	<li>
+	  <p><m>x</m>-intercept , and</p>
+	</li>
+	<li>
+	  <p><m>y</m>-intercept.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF4">
+    <title>Polynomial Functions 4</title>
+    <p>
+      I can represent a linear function using any of its forms:
+      <ul>
+	<li>
+	  <p>Slope-Intercept,</p>
+	</li>
+	<li>
+	  <p>Point-Slope,</p>
+	</li>
+	<li>
+	  <p>Standard.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF5">
+    <title>Polynomial Functions 5</title>
+    <p>
+      I can find a line that is either perpendicular or parallel to a given line.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF6">
+    <title>Polynomial Functions 6</title>
+    <p>
+      I can solve linear inequalities.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF7">
+    <title>Polynomial Functions 7</title>
+    <p>
+      I can place a given quadratic function into vertex form, then use graph transformations to graph it.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF8">
+    <title>Polynomial Functions 8</title>
+    <p>
+      I can find the roots of a quadratic function.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-PF9">
+    <title>Polynomial Functions 9</title>
+    <p>
+      I can find solve quadratic polynomials.
+    </p>
+  </assemblage>
+
+  
+  
+</subsection>
+

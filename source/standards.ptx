@@ -2,12 +2,19 @@
 <section xml:id="standards" xmlns:xi="http://www.w3.org/2001/XInclude" component="MBT">
   <title>Standards</title>
   <!-- College Algbera -->
+  <xi:include href="college_alg/cp.ptx"/>
+  <xi:include href="college_alg/fg.ptx"/>
+  <xi:include href="college_alg/pf.ptx"/>
+  <xi:include href="college_alg/ls.ptx"/>
+  <xi:include href="college_alg/cf.ptx"/>
+  <xi:include href="college_alg/tf.ptx"/>
   
   <!-- Calc I -->
   <xi:include href="calc_I/functions.ptx"/>
   <xi:include href="calc_I/derivatives.ptx"/>
   <xi:include href="calc_I/applications.ptx"/>
   <xi:include href="calc_I/int.ptx"/>
+  
   <!-- Linear Algbera -->
   <xi:include href="linear_alg/se.ptx" />
   <xi:include href="linear_alg/vm.ptx" />

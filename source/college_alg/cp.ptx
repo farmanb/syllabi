@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1011">
+  <title>The Cartesian Plane (<init>CP</init>)</title>
+  <assemblage xml:id="standard-CA-CP1">
+    <title>The Cartesian Plane 1</title>
+    <p>
+      I can plot points in the plane.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-CP2">
+    <title>The Cartesian Plane 2</title>
+    <p>
+      I can determine whether a given point lies on the graph of an equation.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-CA-CP3">
+    <title>The Cartesian Plane 3</title>
+    <p>
+      I can find the distance between two points in the plane.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-CA-CP4">
+    <title>The Cartesian Plane 4</title>
+    <p>
+      I can find the midpoint between two points in the plane.
+    </p>
+  </assemblage>
+
+    <assemblage xml:id="standard-CA-CP5">
+    <title>The Cartesian Plane 5</title>
+    <p>
+      I can use the standard form a circle to
+      <ul>
+	<li>
+	  <p>identify the center and radius</p>
+	</li>
+	<li>
+	  <p>graph a circle with a given center and radius.</p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+</subsection>
+
