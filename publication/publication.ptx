@@ -3,10 +3,17 @@
     <!-- directories are relative to the main source PreTeXt file -->
     <source>
       <directories external="../assets" generated="../generated-assets"/>
-      <!-- College Algebra -->
-      <version include="63057 1011 S24"/>
-      <!-- <version include="63167 1011 S24"/> -->
-       <!-- Calculus (1031)-->
-       <!-- <version include="63789 1031 S24"/> -->
+
+      <!-- Version flags -->
+      <!-- MBG - Mastery Based Grading -->
+      <!-- MBT - Mastery Based Testing -->
+      <!-- AL - Active Learning -->
+      
+      <!-- College Algebra (1011) -->
+      <version include="1011 63057 S24 MBT"/>
+      <!-- <version include="63167 1011 S24 MBT"/> -->
+
+      <!-- Calculus (1031)-->
+       <!-- <version include="63789 1031 S24 MBT"/> -->
     </source>
 </publication>
