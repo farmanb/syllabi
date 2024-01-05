@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+    <title>March 25<ndash/> March 29</title>
+    <table>
+      <title>Week 11</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>3/25</cell>
+	  <cell>3/26</cell>
+	  <cell>3/27</cell>
+	  <cell>3/28</cell>
+	  <cell>3/29</cell>
+	</row>
+	<row>
+	  <cell><p>Linear Approximation (<section-mark/> 4.7)</p></cell>
+	  <cell><p>Review</p></cell>
+	  <cell></cell>
+	  <cell><p>Reassessment 3</p></cell>
+	  <cell><p><alert>No Classes (Spring Break)</alert></p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

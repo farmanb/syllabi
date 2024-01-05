@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="1011">
+    <title>May 6<ndash/> May 7</title>
+    <table>
+      <title>Week 17</title>
+      <tabular halign="center">
+	<col width="50%"/>
+	<col width="50%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>5/6</cell>
+	  <cell>5/7</cell>
+	</row>
+	<row>
+	  <cell><p><alert>Final Exams</alert></p></cell>
+	  <cell><p><alert>Final Exams</alert></p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

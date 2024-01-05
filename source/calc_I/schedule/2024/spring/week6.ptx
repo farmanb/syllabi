@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="1031">
+    <title>February 19 <ndash/> February 23</title>
+    <table>
+      <title>Week 6</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>2/19</cell>
+	  <cell>2/20</cell>
+	  <cell>2/21</cell>
+	  <cell>2/22</cell>
+	  <cell>2/23</cell>
+	</row>
+	<row>
+	  <cell><p>Derivatives of Transcendental Functions (<section-mark/> 3.5/3.9)</p></cell>
+	  <cell><p>Implicit Differentiation (<section-mark/> 3.8)</p></cell>
+	  <cell></cell>
+	  <cell><p>Related Rates (<section-mark/> 3.11)</p></cell>
+	  <cell><p>Flex/Assessment</p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

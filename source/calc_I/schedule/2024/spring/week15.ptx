@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+    <title>April 22<ndash/> April 26</title>
+    <table>
+      <title>Week 15</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>4/22</cell>
+	  <cell>4/23</cell>
+	  <cell>4/24</cell>
+	  <cell>4/25</cell>
+	  <cell>4/26</cell>
+	</row>
+	<row>
+	  <cell><p>Substitution (<section-mark/> 5.2)</p></cell>
+	  <cell><p>Substitution (<section-mark/> 5.2)</p></cell>
+	  <cell></cell>
+	  <cell><p>Review</p></cell>
+	  <cell><p>Reassessment 4</p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

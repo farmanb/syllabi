@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="1031">
+    <title>March 11<ndash/> March 15</title>
+    <table>
+      <title>Week 9</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>3/9</cell>
+	  <cell>3/10</cell>
+	  <cell>3/11</cell>
+	  <cell>3/12</cell>
+	  <cell>3/13</cell>
+	</row>
+	<row>
+	  <cell><p>Curve Sketching (<section-mark/> 4.4)</p></cell>
+	  <cell><p>Curve Sketching (<section-mark/> 4.4)</p></cell>
+	  <cell></cell>
+	  <cell><p>Optimization (<section-mark/> 4.5)</p></cell>
+	  <cell><p>Flex/Assessment</p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

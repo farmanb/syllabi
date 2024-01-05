@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+    <title>April 29<ndash/> May 3</title>
+    <table>
+      <title>Week 16</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>4/29</cell>
+	  <cell>4/30</cell>
+	  <cell>5/1</cell>
+	  <cell>5/2</cell>
+	  <cell>5/3</cell>
+	</row>
+	<row>
+	  <cell><p>Velocity/Net Change (<section-mark/> 6.1)</p></cell>
+	  <cell><p>Area Between Curves (<section-mark/> 6.2)</p></cell>
+	  <cell><p><alert>No Classes (Student Study Day)</alert></p></cell>
+	  <cell><p><alert>Final Exams</alert></p></cell>
+	  <cell><p><alert>Final Exams</alert></p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

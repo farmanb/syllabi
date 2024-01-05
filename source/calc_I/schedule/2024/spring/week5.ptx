@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="1031">
+    <title>February 12 <ndash/> February 16</title>
+    <table>
+      <title>Week 5</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>2/12</cell>
+	  <cell>2/13</cell>
+	  <cell>3/14</cell>
+	  <cell>2/15</cell>
+	  <cell>2/16</cell>
+	</row>
+	<row>
+	  <cell colspan="2"><p><alert>No Classes (Mardi Gras)</alert></p></cell>
+	  <cell></cell>
+	  <cell><p>Derivatives of Transcendental Functions (<section-mark/> 3.5/3.9)</p></cell>
+	  <cell><p>Flex/Assessment</p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>

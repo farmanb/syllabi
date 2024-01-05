@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="1031">
+    <title>January 15 <ndash/> January 19</title>
+    <table>
+      <title>Week 1</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>1/15</cell>
+	  <cell>1/16</cell>
+	  <cell>1/17</cell>
+	  <cell>1/18</cell>
+	  <cell>1/19</cell>
+	</row>
+	<row>
+	  <cell><p><alert>No Classes (MLK Day)</alert></p></cell>
+	  <cell><p>Definition of a Limit (<section-mark/>2.1/2.2)</p></cell>
+	  <cell></cell>
+	  <cell><p>Limit Laws (<section-mark/>2.3)</p></cell>
+	  <cell><p>Flex/Assessment</p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>
