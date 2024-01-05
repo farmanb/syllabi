@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_prereqs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Prerequisites</title>
+  <p component="1007">
+    MATH ACT 16 or higher.
+    Students with MATH ACT of 16-18 must concurrently enroll in MATH 1002.
+  </p>
+
+  <p component="1011">
+    MATH ACT 16 or higher.
+    Students with MATH ACT 16-18 must concurrently enroll in MATH 1001. 
+  </p>
+  
   <p component="1031">
+    Students must meet one of the following criteria to be elligible for Math 1031:
     <ul>
       <li>
 	<p>A grade of C or better in MATH 1013, or</p>
