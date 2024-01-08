@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
-    <!-- <macros>\newcommand{\foo}{b^{ar}}</macros> -->
-    <macros>\newcommand{\thisclass}{Calculus I}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
     <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
   </docinfo>
   <article xml:id="syllabus">
