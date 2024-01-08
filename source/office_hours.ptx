@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <p component="S24">
+  <!-- <dl> -->
+  <!--   <li> -->
+  <!--     <title>Mon/Wed</title> -->
+  <!--     <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p> -->
+  <!--   </li> -->
+  <!--   <li> -->
+  <!--     <title>Mon/Wed/Fri</title> -->
+  <!--     <p>9:00 AM <ndash/> 11:00 AM</p> -->
+  <!--   </li> -->
+  <!--   <li> -->
+  <!--     <title>Tue/Thu</title> -->
+  <!--     <p> 8:30 AM <ndash/> 9:30 AM</p> -->
+  <!--   </li> -->
+  <!-- </dl> -->
+
   <dl>
     <li>
-      <title>Monday/Wednesday</title>
+      <title>Monday</title>
       <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
+      <p>9:00 AM <ndash/> 11:00 AM</p>
     </li>
     <li>
-      <title/>	
-      <p>9:00 AM <ndash/> 12:00 PM</p>
+      <title>Tuesday</title>
+      <p> 8:30 AM <ndash/> 9:30 AM</p>
     </li>
     <li>
-      <title/>
-      <p>1:45 PM <ndash/> 2:00 PM</p>
+      <title>Wednesday</title>
+      <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
+      <p>9:00 AM <ndash/> 11:00 AM</p>
     </li>
     <li>
-      <title/>
-      <p> 3:15 PM <ndash/> 4:00 PM</p>
+      <title>Thursday</title>
+      <p> 8:30 AM <ndash/> 9:30 AM</p>
+    </li>
+    <li>
+      <title>Friday</title>
+      <p>9:00 AM <ndash/> 11:00 AM</p>
     </li>
   </dl>
 </p>
