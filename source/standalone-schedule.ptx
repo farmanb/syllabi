@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+    <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
+  </docinfo>
+  <article xml:id="standalone-schedule">
+    <title>Course Schedule</title>
+    <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
+    <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
+    <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
+    <xi:include href="./schedule.ptx"/>
+  </article>
+</pretext>
+
