@@ -17,10 +17,15 @@
       <p component="1031">
 	Welcome to Math 1031 Calculus I.
       </p>
+
+      <p component="3040">
+	Welcome to Math 3040 Introduction to Analysis and Algebra.
+      </p>
     </introduction>
     <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
     <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
     <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
+    <subtitle component="64086">Math 3040 <mdash/> 64086 <mdash/> Spring 2024</subtitle>
     <xi:include href="./contact.ptx" />
     <xi:include href="./course_info.ptx"/>
     <xi:include href="./evaluation.ptx"/>
