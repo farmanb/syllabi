@@ -10,6 +10,15 @@
   
   <subsection>
     <title>Textbook</title>
+    <assemblage component="3040">
+      <title>Required Textbook</title>
+      <p>
+	<pubtitle>
+	  A Transition to Advanced Mathematics, <m>8^\text{th}</m> Edition, ISBN: 9781285463261
+	</pubtitle>
+      </p>
+    </assemblage>
+    
     <assemblage component="1007">
       <title>Required Textbook</title>
       <p>
@@ -114,6 +123,9 @@
       <p component="1031">
 	Only students registered in MATH 1031 may attend the lectures.
       </p>
+      <p component="3040">
+	Only students registered in MATH 3040 may attend the lectures.
+      </p>
     </li>
     <li>
       <p>
@@ -127,7 +139,12 @@
 
 <subsection>
   <title>Late Policy</title>
-  <p component="1031">
+  <p component="MBT">
+    Late work will not be accepted.
+    Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
+  </p>
+
+  <p component="WAG">
     Late work will not be accepted.
     Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
@@ -161,6 +178,12 @@
 
 <subsection>
   <title>Make-up Policy</title>
+  <p component="WAG">
+    In the event of one missed exam due to absence, the Final Exam can be used to replace the missing exam.
+    Further missed exams will result in a grade of zero.
+    If a University sponsored activity requires you to miss an exam, you must complete the exam in advance.
+  </p>
+  
   <p component="MBT">
     In the event of a missed assessment due to absence, students will be given the opportunity to attempt all missed standards on the next reassessment.
     The date and time of the final reassessment are determined by the registrar and cannot be made up.

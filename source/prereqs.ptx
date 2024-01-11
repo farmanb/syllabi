@@ -25,4 +25,8 @@
       </li>
     </ul>
   </p>
+
+  <p component="3040">
+    A grade of “C” or better in MATH 2040.
+  </p>
 </subsection>

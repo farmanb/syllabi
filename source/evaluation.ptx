@@ -38,6 +38,53 @@
     </assemblage>
   </subsection>
 
+  <subsection component="WAG">
+    <title>Exams</title>
+    <p>
+      There will be two in-class exams and a cumulative final exam.
+      The exams are scheduled as follows:
+    </p>
+    <tabular halign="center">
+      <title>Grading Scale</title>
+      <col width="50%"/>
+      <col width="50%"/>
+      <row header="yes" bottom="minor" >
+	<cell><p>Exam</p></cell>
+	<cell><p>Date</p></cell>
+      </row>
+      <row>
+	<cell><p>Exam 1</p></cell>
+	<cell><p>Tuesday, March 10, 2024</p></cell>
+      </row>
+      <row>
+	<cell><p>Exam 2</p></cell>
+	<cell><p>Thursday, April 25, 2024</p></cell>
+      </row>
+      <row>
+	<cell><p>Final Exam</p></cell>
+	<cell>
+	  <p>Friday, May 3</p>
+	  <p>10:00 AM <ndash/> 11:50 AM</p>
+	</cell>
+      </row>
+    </tabular>
+    <warning>
+      <p>
+	<ul>
+	  <li>
+	    <p>The instructor reserves the right to modify the schedule of in class exams.</p>
+	  </li>
+	  <li>
+	    <p>
+	      The final exam date and time are scheduled by the registrar.
+	      Failure to appear at the final exam will result in a grade of zero for the exam.
+	    </p>
+	  </li>
+	</ul>
+      </p>
+    </warning>
+  </subsection>
+  
   <subsection>
     <title>Homework</title>
     <p>
@@ -100,10 +147,70 @@
   <!--   </assemblage> -->
 
   <!-- </subsection> -->
+
+  <subsection component="WAG">
+    <title>Weights</title>
+    <p>
+      Grades will be calculated with the following weights:
+    </p>
+    <tabular>
+      <title>Weights</title>
+      <col width="50%"/>
+      <col width="50%"/>
+      <row header="yes" bottom="minor" >
+	<cell><p>Grade Category</p></cell>
+	<cell><p>Weight</p></cell>
+      </row>
+      <row>
+	<cell><p>Exams</p></cell>
+	<cell><p>20%</p></cell>
+      </row>
+      <row>
+	<cell><p>Homework</p></cell>
+	<cell><p>50%</p></cell>
+      </row>
+      <row>
+	<cell><p>Final Exam</p></cell>
+	<cell><p>30%</p></cell>
+      </row>
+    </tabular>
+  </subsection>
   
   <subsection>
     <title>Grading Scale</title>
-    <p>
+    <p component="WAG">
+      Letter grades will be assigned based on the following scale.
+      <table>
+	<title>Grading Scale</title>
+	<tabular halign="center">
+	  <row header="yes" bottom="minor" >
+	    <cell>Average</cell>
+	    <cell>Letter Grade</cell>
+	  </row>
+	  <row>
+	    <cell><m>[90,100]</m></cell>
+	    <cell>A</cell>
+	  </row>
+	  <row>
+	    <cell><m>[80,90)</m></cell>
+	    <cell>B</cell>
+	  </row>
+	  <row>
+	    <cell><m>[70,80)</m></cell>
+	    <cell>C</cell>
+	  </row>
+	  <row>
+	    <cell><m>[60,70)</m></cell>
+	    <cell>D</cell>
+	  </row>
+	  <row>
+	    <cell><m>[0,60)</m></cell>
+	    <cell>F</cell>
+	  </row>
+	</tabular>
+      </table>
+    </p>
+    <p component="MBT">
       Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
     </p>
     
