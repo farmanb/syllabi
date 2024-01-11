@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <subsection component="3040">
+    <title>March 4<ndash/> March 8</title>
+    <table>
+      <title>Week 8</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<col width="20%"/>
+	<row header="yes" bottom="minor" >
+	  <cell>3/4</cell>
+	  <cell>3/5</cell>
+	  <cell>3/6</cell>
+	  <cell>3/7</cell>
+	  <cell>3/8</cell>
+	</row>
+	<row>
+	  <cell><p></p></cell>
+	  <cell><p>7.4 The Bounded Monotone Sequence Theorem</p></cell>
+	  <cell><p></p></cell>
+	  <cell><p>Review</p></cell>
+	  <cell><p></p></cell>
+	</row>
+      </tabular>
+    </table>
+  </subsection>
