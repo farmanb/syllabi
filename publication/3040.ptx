@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+    <!-- directories are relative to the main source PreTeXt file -->
+    <source>
+      <directories external="../assets" generated="../generated-assets"/>
+
+      <!-- Version flags -->
+      <!-- MBG - Mastery Based Grading -->
+      <!-- MBT - Mastery Based Testing -->
+      <!-- WAG - Weighted Average Grading -->
+      <!-- AL - Active Learning -->
+
+      <!-- Intro to Analysis and Algebra -->
+      <version include="3040 64086 S24 WAG"/>
+    </source>
+</publication>

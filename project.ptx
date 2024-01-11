@@ -5,5 +5,12 @@
     <target name="web" format="html" />
     <target name="print" format="pdf" />
     <target name="schedule" format="pdf" source="standalone-schedule.ptx"/>
+    <target name="1011" format="html" output-dir="1011" publication="1011.ptx"/>
+    <target name="1011-pdf" format="pdf" output-dir="1011-pdf" publication="1011.ptx"/>
+    <target name="1031" format="html" output-dir="1031" publication="1031.ptx"/>
+    <target name="1031-pdf" format="pdf" output-dir="1031-pdf" publication="1031.ptx"/>
+    <target name="3040" format="html" output-dir="3040" publication="3040.ptx"/>
+    <target name="3040-pdf" format="pdf" output-dir="3040-pdf" publication="3040.ptx"/>
+    
   </targets>
 </project>
