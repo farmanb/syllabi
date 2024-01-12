@@ -17,9 +17,15 @@
 	<cell>4/26</cell>
       </row>
       <row>
-	<cell><p>The Exponential Function</p></cell>
+	<cell>
+	  <p>The Exponential Function</p>
+	  <p>The Logarithm</p>
+	</cell>
 	<cell><p></p></cell>
-	<cell><p>The Logarithm</p></cell>
+	<cell>
+	  <p>Other Exponentials</p>
+	  <p>Other Logarithms</p>
+	</cell>
 	<cell><p></p></cell>
 	<cell><p></p></cell>
       </row>
