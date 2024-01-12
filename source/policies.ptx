@@ -139,7 +139,7 @@
 
 <subsection>
   <title>Late Policy</title>
-  <p component="MBT">
+  <p component="MBG">
     Late work will not be accepted.
     Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
@@ -149,10 +149,10 @@
     Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
 
-  <assemblage component="1007">
+  <assemblage component="Hawkes">
     <title>Late Homework Penalty</title>
     <p>
-      Late homework and review quizzes will be accepted with the following penalties:
+      Late homework will be accepted with the following penalties:
       <ul>
 	<li>
 	  <p>0% penalty for up to 2 day(s) late</p>
