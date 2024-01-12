@@ -12,15 +12,15 @@
   </subsection>
   
   <!-- College Algebra -->
-  <xi:include href="college_alg/schedule/2024/spring/week1.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week2.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week3.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week4.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week5.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week6.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week7.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week8.ptx"/>
-  <xi:include href="college_alg/schedule/2024/spring/week9.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week01.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week02.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week03.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week04.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week05.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week06.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week07.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week08.ptx"/>
+  <xi:include href="college_alg/schedule/2024/spring/week09.ptx"/>
   <xi:include href="college_alg/schedule/2024/spring/week10.ptx"/>
   <xi:include href="college_alg/schedule/2024/spring/week11.ptx"/>
   <xi:include href="college_alg/schedule/2024/spring/week12.ptx"/>
