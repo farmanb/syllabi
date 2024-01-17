@@ -217,29 +217,63 @@
     <table component="1011">
       <title>Grading Scale</title>
       <tabular halign="center">
-	<row header="yes" bottom="minor" >
-	  <cell>Grade</cell>
-	  <cell>Number of Standards Mastered</cell>
+	<col width="20%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<row header="yes" bottom="minor">
+	<cell><p></p></cell>
+	<cell colspan="5"><p>Homework Grade</p></cell>
+	</row>
+	<row header="yes" bottom="major" >
+	  <cell right="major"><p>Number of Standards Mastered</p></cell>
+	  <cell><p><m>[90\%,100\%]</m></p></cell>
+	  <cell><p><m>[80\%,90\%)</m></p></cell>
+	  <cell><p><m>[70\%,80\%)</m></p></cell>
+	  <cell><p><m>[60\%, 70\%)</m></p></cell>
+	  <cell><p><m>[0\%, 60\%)</m></p></cell>
 	</row>
 	<row>
-	  <cell>A</cell>
-	  <cell>30 <ndash/> 33</cell>
+	  <cell right="major"><p>18 <ndash/> 20</p></cell>
+	  <cell><p>A</p></cell>
+	  <cell><p>B</p></cell>
+	  <cell><p>B</p></cell>
+	  <cell><p>B</p></cell>
+	  <cell><p>C</p></cell>
 	</row>
 	<row>
-	  <cell>B</cell>
-	  <cell>27 <ndash/> 39</cell>
+	  <cell right="major"><p>16 <ndash/> 17</p></cell>
+	  <cell><p>B</p></cell>
+	  <cell><p>B</p></cell>
+	  <cell><p>C</p></cell>
+	  <cell><p>C</p></cell>
+	  <cell><p>D</p></cell>
 	</row>
 	<row>
-	  <cell>C</cell>
-	  <cell>24 <ndash/> 26</cell>
+	  <cell right="major"><p>14 <ndash/> 15</p></cell>
+	  <cell><p>C</p></cell>
+	  <cell><p>C</p></cell>
+	  <cell><p>C</p></cell>
+	  <cell><p>D</p></cell>
+	  <cell><p>F</p></cell>
 	</row>
 	<row>
-	  <cell>D</cell>
-	  <cell>20 <ndash/> 23</cell>
+	  <cell right="major"><p>12 <ndash/> 13</p></cell>
+	  <cell><p>D</p></cell>
+	  <cell><p>D</p></cell>
+	  <cell><p>D</p></cell>
+	  <cell><p>D</p></cell>
+	  <cell><p>F</p></cell>
 	</row>
 	<row>
-	  <cell>F</cell>
-	  <cell>0 <ndash/> 19</cell>
+	  <cell right="major"><p>0 <ndash/> 11</p></cell>
+	  <cell><p>F</p></cell>
+	  <cell><p>F</p></cell>
+	  <cell><p>F</p></cell>
+	  <cell><p>F</p></cell>
+	  <cell><p>F</p></cell>
 	</row>
       </tabular>
     </table>
