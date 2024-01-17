@@ -19,75 +19,111 @@
   <assemblage xml:id="standard-CA-PF3">
     <title>Polynomial Functions 3 (<init>PF3</init>)</title>
     <p>
-      I can identify linear functions, and use their major features to produce a graph:
+      I can work with linear functions:
       <ul>
 	<li>
-	  <p>Slope,</p>
+	  <p>Represent linear functions in the following forms:
+	  <ul>
+	    <li>
+	      <p>Slope-Intercept</p>
+	    </li>
+	    <li>
+	      <p>Point-Slope</p>
+	    </li>
+	    <li>
+	      <p>Standard</p>
+	    </li>
+	  </ul>
+	  </p>
 	</li>
 	<li>
-	  <p><m>x</m>-intercept , and</p>
+	  <p>Find the slope of a line,</p>
 	</li>
 	<li>
-	  <p><m>y</m>-intercept.</p>
+	  <p>Find the <m>x</m>- and <m>y</m>-intercepts,</p>
+	</li>
+	<li>
+	  <p>Find a line parallel or perpendicular to a given line</p>
+	</li>
+	<li>
+	  <p>Graph linear functions.</p>
 	</li>
       </ul>
     </p>
   </assemblage>
+  <!-- <assemblage xml:id="standard-CA-PF3"> -->
+  <!--   <title>Polynomial Functions 3 (<init>PF3</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can identify linear functions, and use the following features to produce a graph: -->
+  <!--     <ul> -->
+  <!-- 	<li> -->
+  <!-- 	  <p>Slope,</p> -->
+  <!-- 	</li> -->
+  <!-- 	<li> -->
+  <!-- 	  <p><m>x</m>-intercept , and</p> -->
+  <!-- 	</li> -->
+  <!-- 	<li> -->
+  <!-- 	  <p><m>y</m>-intercept.</p> -->
+  <!-- 	</li> -->
+  <!--     </ul> -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
+
+  <!-- <assemblage xml:id="standard-CA-PF4"> -->
+  <!--   <title>Polynomial Functions 4 (<init>PF4</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can represent a linear function using any of its forms: -->
+  <!--     <ul> -->
+  <!-- 	<li> -->
+  <!-- 	  <p>Slope-Intercept,</p> -->
+  <!-- 	</li> -->
+  <!-- 	<li> -->
+  <!-- 	  <p>Point-Slope,</p> -->
+  <!-- 	</li> -->
+  <!-- 	<li> -->
+  <!-- 	  <p>Standard.</p> -->
+  <!-- 	</li> -->
+  <!--     </ul> -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
+
+  <!-- <assemblage xml:id="standard-CA-PF5"> -->
+  <!--   <title>Polynomial Functions 5 (<init>PF5</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can find a line that is either perpendicular or parallel to a given line. -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
 
   <assemblage xml:id="standard-CA-PF4">
     <title>Polynomial Functions 4 (<init>PF4</init>)</title>
     <p>
-      I can represent a linear function using any of its forms:
-      <ul>
-	<li>
-	  <p>Slope-Intercept,</p>
-	</li>
-	<li>
-	  <p>Point-Slope,</p>
-	</li>
-	<li>
-	  <p>Standard.</p>
-	</li>
-      </ul>
+      I can solve linear and absolute value inequalities.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF5">
     <title>Polynomial Functions 5 (<init>PF5</init>)</title>
     <p>
-      I can find a line that is either perpendicular or parallel to a given line.
+      I can work with quadratic functions:
+      <ul>
+	<li>
+	  <p>Place a given quadratic function into vertex form,</p>
+	</li>
+	<li>
+	  <p>Find the <m>x</m>- and <m>y</m>- intercepts of a given quadratic function,</p>
+	</li>
+	<li>
+	  <p>Use the information above to sketch a graph of a given quadratic function.</p>
+	</li>
+      </ul>
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-CA-PF6">
     <title>Polynomial Functions 6 (<init>PF6</init>)</title>
     <p>
-      I can solve linear inequalities.
+      I can solve polynomial inequalities.
     </p>
   </assemblage>
-
-  <assemblage xml:id="standard-CA-PF7">
-    <title>Polynomial Functions 7 (<init>PF7</init>)</title>
-    <p>
-      I can place a given quadratic function into vertex form, then use graph transformations to graph it.
-    </p>
-  </assemblage>
-
-  <assemblage xml:id="standard-CA-PF8">
-    <title>Polynomial Functions 8 (<init>PF8</init>)</title>
-    <p>
-      I can find the roots of a quadratic function.
-    </p>
-  </assemblage>
-
-  <assemblage xml:id="standard-CA-PF9">
-    <title>Polynomial Functions 9 (<init>PF9</init>)</title>
-    <p>
-      I can find solve quadratic polynomials.
-    </p>
-  </assemblage>
-
-  
-  
 </subsection>
 

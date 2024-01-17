@@ -4,44 +4,36 @@
   <assemblage xml:id="standard-CA-CP1">
     <title>The Cartesian Plane 1 (<init>CP1</init>)</title>
     <p>
-      I can plot points in the plane.
+      I can plot a given point in the plane and determine whether it lies on the graph of an equation.
     </p>
   </assemblage>
 
+  <!-- <assemblage xml:id="standard-CA-CP2"> -->
+  <!--   <title>The Cartesian Plane 2 (<init>CP2</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can determine whether a given point lies on the graph of an equation. -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
+  
+  
   <assemblage xml:id="standard-CA-CP2">
     <title>The Cartesian Plane 2 (<init>CP2</init>)</title>
     <p>
-      I can determine whether a given point lies on the graph of an equation.
+      I can find the distance and midpoint between two points in the plane.
     </p>
   </assemblage>
-  
-  
-  <assemblage xml:id="standard-CA-CP3">
+
+  <!-- <assemblage xml:id="standard-CA-CP4"> -->
+  <!--   <title>The Cartesian Plane 4 (<init>CP4</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can find the midpoint between two points in the plane. -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
+
+    <assemblage xml:id="standard-CA-CP3">
     <title>The Cartesian Plane 3 (<init>CP3</init>)</title>
     <p>
-      I can find the distance between two points in the plane.
-    </p>
-  </assemblage>
-
-  <assemblage xml:id="standard-CA-CP4">
-    <title>The Cartesian Plane 4 (<init>CP4</init>)</title>
-    <p>
-      I can find the midpoint between two points in the plane.
-    </p>
-  </assemblage>
-
-    <assemblage xml:id="standard-CA-CP5">
-    <title>The Cartesian Plane 5 (<init>CP5</init>)</title>
-    <p>
-      I can use the standard form a circle to
-      <ul>
-	<li>
-	  <p>identify the center and radius</p>
-	</li>
-	<li>
-	  <p>graph a circle with a given center and radius.</p>
-	</li>
-      </ul>
+      I can translate between the standard form and the graph of a circle.
     </p>
   </assemblage>
 </subsection>
