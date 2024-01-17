@@ -188,23 +188,23 @@
 	    <cell>Letter Grade</cell>
 	  </row>
 	  <row>
-	    <cell><m>[90,100]</m></cell>
+	    <cell><m>[90\%,100\%]</m></cell>
 	    <cell>A</cell>
 	  </row>
 	  <row>
-	    <cell><m>[80,90)</m></cell>
+	    <cell><m>[80\%,90\%)</m></cell>
 	    <cell>B</cell>
 	  </row>
 	  <row>
-	    <cell><m>[70,80)</m></cell>
+	    <cell><m>[70\%,80\%)</m></cell>
 	    <cell>C</cell>
 	  </row>
 	  <row>
-	    <cell><m>[60,70)</m></cell>
+	    <cell><m>[60\%,70\%)</m></cell>
 	    <cell>D</cell>
 	  </row>
 	  <row>
-	    <cell><m>[0,60)</m></cell>
+	    <cell><m>[0\%,60\%)</m></cell>
 	    <cell>F</cell>
 	  </row>
 	</tabular>
@@ -214,7 +214,71 @@
       Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
     </p>
     
-    <table component="1011">
+    <!-- <table component="1011"> -->
+    <!--   <title>Grading Scale</title> -->
+    <!--   <tabular halign="center"> -->
+    <!-- 	<col width="20%"/> -->
+    <!-- 	<col width="16%"/> -->
+    <!-- 	<col width="16%"/> -->
+    <!-- 	<col width="16%"/> -->
+    <!-- 	<col width="16%"/> -->
+    <!-- 	<col width="16%"/> -->
+    <!-- 	<row header="yes" bottom="minor"> -->
+    <!-- 	<cell><p></p></cell> -->
+    <!-- 	<cell colspan="5"><p>Homework Grade</p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row header="yes" bottom="major" > -->
+    <!-- 	  <cell right="major"><p>Number of Standards Mastered</p></cell> -->
+    <!-- 	  <cell><p><m>[90\%,100\%]</m></p></cell> -->
+    <!-- 	  <cell><p><m>[80\%,90\%)</m></p></cell> -->
+    <!-- 	  <cell><p><m>[70\%,80\%)</m></p></cell> -->
+    <!-- 	  <cell><p><m>[60\%, 70\%)</m></p></cell> -->
+    <!-- 	  <cell><p><m>[0\%, 60\%)</m></p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row> -->
+    <!-- 	  <cell right="major"><p>18 <ndash/> 20</p></cell> -->
+    <!-- 	  <cell><p>A</p></cell> -->
+    <!-- 	  <cell><p>B</p></cell> -->
+    <!-- 	  <cell><p>B</p></cell> -->
+    <!-- 	  <cell><p>B</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row> -->
+    <!-- 	  <cell right="major"><p>16 <ndash/> 17</p></cell> -->
+    <!-- 	  <cell><p>B</p></cell> -->
+    <!-- 	  <cell><p>B</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row> -->
+    <!-- 	  <cell right="major"><p>14 <ndash/> 15</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	  <cell><p>C</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row> -->
+    <!-- 	  <cell right="major"><p>12 <ndash/> 13</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	  <cell><p>D</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	</row> -->
+    <!-- 	<row> -->
+    <!-- 	  <cell right="major"><p>0 <ndash/> 11</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	  <cell><p>F</p></cell> -->
+    <!-- 	</row> -->
+    <!--   </tabular> -->
+    <!-- </table> -->
+
+        <table component="1011">
       <title>Grading Scale</title>
       <tabular halign="center">
 	<col width="20%"/>
@@ -224,56 +288,56 @@
 	<col width="16%"/>
 	<col width="16%"/>
 	<row header="yes" bottom="minor">
-	<cell><p></p></cell>
-	<cell colspan="5"><p>Homework Grade</p></cell>
+	<cell></cell>
+	<cell colspan="5">Number of Standards Mastered</cell>
 	</row>
 	<row header="yes" bottom="major" >
-	  <cell right="major"><p>Number of Standards Mastered</p></cell>
+	  <cell right="major">Homework Grade</cell>
+	  <cell right="major">18 <ndash/> 20</cell>
+	  <cell right="major">16 <ndash/> 17</cell>
+	  <cell right="major">14 <ndash/> 15</cell>
+	  <cell right="major">12 <ndash/> 13</cell>
+	  <cell right="major">0 <ndash/> 11</cell>
+	</row>
+	<row>
 	  <cell><p><m>[90\%,100\%]</m></p></cell>
+	  <cell>A</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
 	  <cell><p><m>[80\%,90\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
 	  <cell><p><m>[70\%,80\%)</m></p></cell>
-	  <cell><p><m>[60\%, 70\%)</m></p></cell>
-	  <cell><p><m>[0\%, 60\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell right="major"><p>18 <ndash/> 20</p></cell>
-	  <cell><p>A</p></cell>
-	  <cell><p>B</p></cell>
-	  <cell><p>B</p></cell>
-	  <cell><p>B</p></cell>
-	  <cell><p>C</p></cell>
+	  <cell><p><m>[60\%,70\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell right="major"><p>16 <ndash/> 17</p></cell>
-	  <cell><p>B</p></cell>
-	  <cell><p>B</p></cell>
-	  <cell><p>C</p></cell>
-	  <cell><p>C</p></cell>
-	  <cell><p>D</p></cell>
-	</row>
-	<row>
-	  <cell right="major"><p>14 <ndash/> 15</p></cell>
-	  <cell><p>C</p></cell>
-	  <cell><p>C</p></cell>
-	  <cell><p>C</p></cell>
-	  <cell><p>D</p></cell>
-	  <cell><p>F</p></cell>
-	</row>
-	<row>
-	  <cell right="major"><p>12 <ndash/> 13</p></cell>
-	  <cell><p>D</p></cell>
-	  <cell><p>D</p></cell>
-	  <cell><p>D</p></cell>
-	  <cell><p>D</p></cell>
-	  <cell><p>F</p></cell>
-	</row>
-	<row>
-	  <cell right="major"><p>0 <ndash/> 11</p></cell>
-	  <cell><p>F</p></cell>
-	  <cell><p>F</p></cell>
-	  <cell><p>F</p></cell>
-	  <cell><p>F</p></cell>
-	  <cell><p>F</p></cell>
+	  <cell><p><m>[0\%,60\%)</m></p></cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
 	</row>
       </tabular>
     </table>
@@ -281,55 +345,61 @@
     <table component="1031">
       <title>Grading Scale</title>
       <tabular halign="center">
+	<col width="20%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
 	<row header="yes" bottom="minor">
 	<cell></cell>
-	<cell colspan="5">Homework Grade</cell>
+	<cell colspan="5">Number of Standards Mastered</cell>
 	</row>
 	<row header="yes" bottom="major" >
-	  <cell right="major">Number of Standards Mastered</cell>
-	  <cell>[0%, 60%)</cell>
-	  <cell>[60%, 70%)</cell>
-	  <cell>[70%,80%)</cell>
-	  <cell>[80%,90%)</cell>
-	  <cell>[90%,100%]</cell>
-	</row>
-	<row>
+	  <cell right="major">Homework Grade</cell>
 	  <cell right="major">30 <ndash/> 33</cell>
-	  <cell>F</cell>
-	  <cell>D</cell>
-	  <cell>C</cell>
-	  <cell>B</cell>
-	  <cell>A</cell>
-	</row>
-	<row>
 	  <cell right="major">27 <ndash/> 39</cell>
-	  <cell>F</cell>
-	  <cell>D</cell>
-	  <cell>C</cell>
-	  <cell>B</cell>
-	  <cell>B</cell>
-	</row>
-	<row>
 	  <cell right="major">24 <ndash/> 26</cell>
-	  <cell>F</cell>
-	  <cell>D</cell>
-	  <cell>C</cell>
-	  <cell>C</cell>
-	  <cell>C</cell>
-	</row>
-	<row>
 	  <cell right="major">20 <ndash/> 23</cell>
-	  <cell>F</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
+	  <cell right="major">0 <ndash/> 19</cell>
 	</row>
 	<row>
-	  <cell right="major">0 <ndash/> 19</cell>
+	  <cell><p><m>[90\%,100\%]</m></p></cell>
+	  <cell>A</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
 	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[80\%,90\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
 	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[70\%,80\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
 	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[60\%,70\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[0\%,60\%)</m></p></cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
 	  <cell>F</cell>
 	  <cell>F</cell>
 	</row>
