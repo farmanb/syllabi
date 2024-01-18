@@ -9,6 +9,7 @@
     <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
     <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
     <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
+    <subtitle component="64086">Math 3040 <mdash/> 64086 <mdash/> Spring 2024</subtitle>
     <xi:include href="./schedule.ptx"/>
   </article>
 </pretext>
