@@ -3,14 +3,14 @@
   <title>Derivatives (<init>D</init>)</title>
   
   <assemblage xml:id="standard-calcI-D1">
-    <title>Derivatives 1</title>
+    <title>Derivatives 1 (<init>D1</init>)</title>
     <p>
       I can compute the derivative of a function using the limit definition.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-calcI-D2">
-    <title>Derivatives 2</title>
+    <title>Derivatives 2 (<init>D2</init>)</title>
     <p>
       I can compute the derivative of a function using
       <ul>
@@ -28,7 +28,7 @@
   </assemblage>
 
   <assemblage xml:id="standard-calcI-D3">
-    <title>Derivatives 3</title>
+    <title>Derivatives 3 (<init>D3</init>)</title>
     <p>
       I can compute the derivative of a product of two or more functions.
     </p>
@@ -36,16 +36,23 @@
 
 
   <assemblage xml:id="standard-calcI-D4">
-    <title>Derivatives 4</title>
+    <title>Derivatives 4 (<init>D4</init>)</title>
     <p>
       I can compute the derivative of a composition of two or more functions.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-calcI-D5">
-    <title>Derivatives 5</title>
+    <title>Derivatives 5 (<init>D5</init>)</title>
     <p>
       I can use implicit differentiation to solve related rates problems.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcI-D6">
+    <title>Derivatives 6 (<init>D6</init>)</title>
+    <p>
+      I can compute the derivative of transcendental functions and their inverses.
     </p>
   </assemblage>
 </subsection>

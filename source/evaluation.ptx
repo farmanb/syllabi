@@ -357,11 +357,11 @@
 	</row>
 	<row header="yes" bottom="major" >
 	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">30 <ndash/> 33</cell>
-	  <cell right="major">27 <ndash/> 39</cell>
-	  <cell right="major">24 <ndash/> 26</cell>
-	  <cell right="major">20 <ndash/> 23</cell>
-	  <cell right="major">0 <ndash/> 19</cell>
+	  <cell right="major">14 <ndash/> 15</cell>
+	  <cell right="major">12 <ndash/> 13</cell>
+	  <cell right="major">10 <ndash/> 11</cell>
+	  <cell right="major">8 <ndash/> 9</cell>
+	  <cell right="major">0 <ndash/> 7</cell>
 	</row>
 	<row>
 	  <cell><p><m>[90\%,100\%]</m></p></cell>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <subsection component="1031">
-  <title>Functions (<init>FN</init>)</title>
-  <assemblage xml:id="standard-calcI-FN1">
-    <title>Functions 1</title>
+  <title>Functions (<init>F</init>)</title>
+  <assemblage xml:id="standard-calcI-F1">
+    <title>Functions 1 (<init>F1</init>)</title>
     <p>
       I can compute limits of functions.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-calcI-F2">
-    <title>Functions 2</title>
+    <title>Functions 2 (<init>F2</init>)</title>
     <p>
       I can identify whether a function has any of the following asymptotes:
       <ul>
@@ -28,7 +28,7 @@
   
   
   <assemblage xml:id="standard-calcI-F3">
-    <title>Functions 3</title>
+    <title>Functions 3 (<init>F3</init>)</title>
     <p>
       I can determine whether a function is continuous at a point.
     </p>

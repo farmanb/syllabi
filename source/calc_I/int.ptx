@@ -3,21 +3,21 @@
   <title>Integration (<init>I</init>)</title>
 
   <assemblage xml:id="standard-calcI-I1">
-    <title>Integration 1</title>
+    <title>Integration 1 (<init>I1</init>)</title>
     <p>
       I can use the definition to compute the definite integral of a continuous function.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-calcI-I2">
-    <title>Integration 2</title>
+    <title>Integration 2 (<init>I2</init>)</title>
     <p>
       I can use the Fundamental Theorem of Calculus to compute definite and indefinite integrals.
     </p>
   </assemblage>
 
   <assemblage xml:id="standard-calcI-I3">
-    <title>Integration 3</title>
+    <title>Integration 3 (<init>I3</init>)</title>
     <p>
       I can use substitution to evaluate definite and indefinite integrals.
     </p>
