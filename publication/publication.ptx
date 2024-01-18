@@ -10,10 +10,13 @@
       <!-- AL - Active Learning -->
       
       <!-- College Algebra (1011) -->
-      <version include="1011 63057 S24 MBT"/>
-      <!-- <version include="63167 1011 S24 MBT"/> -->
+      <!-- <version include="1011 63057 S24 MBT Hawkes"/> -->
+      <!-- <version include="63167 1011 S24 MBT Hawkes"/> -->
 
       <!-- Calculus (1031)-->
-       <!-- <version include="63789 1031 S24 MBT"/> -->
+      <!-- <version include="63789 1031 S24 MBT"/> -->
+
+      <!-- 3040 -->
+      <version include="3040 64086 S24 WAG"/>
     </source>
 </publication>
