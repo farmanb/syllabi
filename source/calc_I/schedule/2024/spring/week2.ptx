@@ -17,13 +17,11 @@
 	  <cell>1/26</cell>
 	</row>
 	<row>
-	  <cell>
-	    <p>Infinite Limits (<section-mark/> 2.4)</p>
-	    <p>Limits at Infinity (<section-mark/> 2.5)</p>
-	  </cell>
-	  <cell><p>Continuity (<section-mark/> 2.6)</p></cell>
-	  <cell></cell>
-	  <cell><p>Continuity (<section-mark/> 2.6)</p></cell>
+	  <cell><p>Limit Laws (<section-mark/>2.3)</p></cell>
+	  <cell><p>Infinite Limits (<section-mark/> 2.4)</p></cell>
+	  <cell><p></p></cell>
+	  <cell><p>Limits at Infinity (<section-mark/> 2.5)</p></cell>
+	  <cell><p>Limits at Infinity (<section-mark/> 2.5)</p></cell>
 	  <cell><p>Flex/Assessment</p></cell>
 	</row>
       </tabular>

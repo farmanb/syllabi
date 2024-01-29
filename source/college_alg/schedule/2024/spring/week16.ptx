@@ -24,14 +24,14 @@
 	  <cell><p><alert>No Classes (Student Study Day)</alert></p></cell>
 	  <cell><p>Final Exams</p></cell>
 	  <cell component="63057">
-	      <p><alert>Final Exam</alert></p>
+	      <p><alert>Final Reassessment</alert></p>
 	      <p><alert>Math 1011</alert></p>
-	      <p><alert>1:00 <init>PM</init> <ndash/> 2:50 <init>AM</init></alert></p>
+	      <p><alert>1:00 <init>PM</init> <ndash/> 2:50 <init>PM</init></alert></p>
 	  </cell>
 	  <cell component="63167">
 	    <p><alert>Final Exam</alert></p>
 	    <p><alert>Math 1011</alert></p>
-	    <p><alert>3:00 <init>PM</init> <ndash/> 4:50 <init>AM</init></alert></p>
+	    <p><alert>3:00 <init>PM</init> <ndash/> 4:50 <init>PM</init></alert></p>
 	  </cell>
 	</row>
       </tabular>
