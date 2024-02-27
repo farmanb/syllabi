@@ -30,7 +30,7 @@
   <assemblage xml:id="standard-calcI-D3">
     <title>Derivatives 3 (<init>D3</init>)</title>
     <p>
-      I can compute the derivative of a product of two or more functions.
+      I can compute the derivative of a product or quotient of two or more functions.
     </p>
   </assemblage>
 
