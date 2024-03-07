@@ -4,10 +4,12 @@
   <targets>
     <target name="web" format="html" />
     <target name="print" format="pdf" />
-    <target name="schedule-1011" format="html" source="standalone-schedule.ptx" publication="1011.ptx"/>
+    <target name="schedule-63057" format="html" source="standalone-schedule.ptx" publication="63057.ptx"/>
+    <target name="schedule-63167" format="html" source="standalone-schedule.ptx" publication="63167.ptx"/>
     <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031.ptx"/>
     <target name="schedule-3040" format="html" source="standalone-schedule.ptx" publication="3040.ptx"/>
-    <target name="1011" format="html" output-dir="1011" publication="1011.ptx"/>
+    <target name="63057" format="html" output-dir="63057" publication="63057.ptx"/>
+    <target name="63167" format="html" output-dir="63167" publication="63167.ptx"/>
     <target name="1011-pdf" format="pdf" output-dir="1011-pdf" publication="1011.ptx"/>
     <target name="1031" format="html" output-dir="1031" publication="1031.ptx"/>
     <target name="1031-pdf" format="pdf" output-dir="1031-pdf" publication="1031.ptx"/>
