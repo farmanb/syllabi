@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <subsection component="1011">
-    <title>April 1<ndash/> April 5</title>
-    <table>
-      <title>Week 12</title>
-      <tabular halign="center">
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<row header="yes" bottom="minor" >
-	  <cell>4/1</cell>
-	  <cell>4/2</cell>
-	  <cell>4/3</cell>
-	  <cell>4/4</cell>
-	  <cell>4/5</cell>
-	</row>
-	<row>
-	  <cell colspan="5">
-	    <alert>No Classes (Spring Break)</alert>
-	  </cell>
-	</row>
-      </tabular>
-    </table>
-  </subsection>
+<subsection component="1011">
+  <title>April 1<ndash/> April 5</title>
+  <table>
+    <title>Week 12</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>4/1</cell>
+	<cell>4/2</cell>
+	<cell>4/3</cell>
+	<cell>4/4</cell>
+	<cell>4/5</cell>
+      </row>
+      <row>
+	<cell colspan="5">
+	  <alert>No Classes (Spring Break)</alert>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

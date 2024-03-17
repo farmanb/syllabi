@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection component="1011">
-    <title>January 15 <ndash/> January 19</title>
-    <table>
-      <title>Week 1</title>
-      <tabular halign="center">
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<col width="20%"/>
-	<row header="yes" bottom="minor" >
-	  <cell>1/15</cell>
-	  <cell>1/16</cell>
-	  <cell>1/17</cell>
-	  <cell>1/18</cell>
-	  <cell>1/19</cell>
-	</row>
-	<row>
-	  <cell><p><alert>No Classes (MLK Day)</alert></p></cell>
-	  <cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
-	  <cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
-	  <cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
-	  <cell></cell>
-	</row>
-      </tabular>
-    </table>
-  </subsection>
+  <title>January 15 <ndash/> January 19</title>
+  <table>
+    <title>Week 1</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>1/15</cell>
+	<cell>1/16</cell>
+	<cell>1/17</cell>
+	<cell>1/18</cell>
+	<cell>1/19</cell>
+      </row>
+      <row>
+	<cell><p><alert>No Classes (MLK Day)</alert></p></cell>
+	<cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
+	<cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
+	<cell><p><alert>Classes Cancelled (Inclement Weather)</alert></p></cell>
+	<cell></cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>
