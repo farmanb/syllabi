@@ -5,7 +5,7 @@
   <xi:include href="college_alg/cp.ptx"/>
   <xi:include href="college_alg/fg.ptx"/>
   <xi:include href="college_alg/pf.ptx"/>
-  <xi:include href="college_alg/ls.ptx"/>
+  <!-- <xi:include href="college_alg/ls.ptx"/> -->
   <xi:include href="college_alg/cf.ptx"/>
   <xi:include href="college_alg/tf.ptx"/>
   

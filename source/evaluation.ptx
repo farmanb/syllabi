@@ -297,12 +297,20 @@
 	</row>
 	<row header="yes" bottom="major" >
 	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">18 <ndash/> 20</cell>
 	  <cell right="major">16 <ndash/> 17</cell>
 	  <cell right="major">14 <ndash/> 15</cell>
 	  <cell right="major">12 <ndash/> 13</cell>
-	  <cell right="major">0 <ndash/> 11</cell>
+	  <cell right="major">10 <ndash/> 11</cell>
+	  <cell right="major">0 <ndash/> 9</cell>
 	</row>
+	<!-- <row header="yes" bottom="major" > -->
+	<!--   <cell right="major">Homework Grade</cell> -->
+	<!--   <cell right="major">18 <ndash/> 20</cell> -->
+	<!--   <cell right="major">16 <ndash/> 17</cell> -->
+	<!--   <cell right="major">14 <ndash/> 15</cell> -->
+	<!--   <cell right="major">12 <ndash/> 13</cell> -->
+	<!--   <cell right="major">0 <ndash/> 11</cell> -->
+	<!-- </row> -->
 	<row>
 	  <cell><p><m>[90\%,100\%]</m></p></cell>
 	  <cell>A</cell>

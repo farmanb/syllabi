@@ -119,11 +119,11 @@
     </p>
   </assemblage>
 
-  <assemblage xml:id="standard-CA-PF6">
-    <title>Polynomial Functions 6 (<init>PF6</init>)</title>
-    <p>
-      I can solve polynomial inequalities.
-    </p>
-  </assemblage>
+  <!-- <assemblage xml:id="standard-CA-PF6"> -->
+  <!--   <title>Polynomial Functions 6 (<init>PF6</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can solve polynomial inequalities. -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
 </subsection>
 
