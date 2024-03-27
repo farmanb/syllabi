@@ -22,9 +22,9 @@
 	<li>
 	  <p><xref ref="standard-CA-CF" text="title"/></p>
 	</li>
-	<li>
-	  <p><xref ref="standard-CA-LS" text="title"/></p>
-	</li>
+	<!-- <li> -->
+	<!--   <p><xref ref="standard-CA-LS" text="title"/></p> -->
+	<!-- </li> -->
 	<li>
 	  <p><xref ref="standard-CA-TF" text="title"/></p>
 	</li>
