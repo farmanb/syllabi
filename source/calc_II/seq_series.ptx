@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1032">
+  <title>Sequences and Series (<init>S</init>)</title>
+  <assemblage xml:id="standard-calcII-S1">
+    <title>Sequences and Series 1 (<init>S1</init>)</title>
+    <p>
+      I can find the limit of a sequence.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S2">
+    <title>Sequences and Series 2 (<init>S2</init>)</title>
+    <p>
+      I can find the sum of a geometric series.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-calcII-S3">
+    <title>Sequences and Series 3 (<init>S3</init>)</title>
+    <p>
+      I can use the Integration Test to determine whether a series converges or diverges.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S4">
+    <title>Sequences and Series 4 (<init>S4</init>)</title>
+    <p>
+      I can use the Comparison tests to determine whether a series converges or diverges.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S5">
+    <title>Sequences and Series 5 (<init>S5</init>)</title>
+    <p>
+      I can use the Alternating Series Test.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S6">
+    <title>Sequences and Series 6 (<init>S6</init>)</title>
+    <p>
+      I can use the Ratio and Root tests to determine whether a series converges or diverges.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S7">
+    <title>Sequences and Series 7 (<init>S7</init>)</title>
+    <p>
+      I can determine the radius and interval of convergence of a power series.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-S8">
+    <title>Sequences and Series 8 (<init>S8</init>)</title>
+    <p>
+      I can find the Taylor/Maclaurin series for a given function, determine the region where the series agrees with the function, and use the Taylor series to compute limits, derivatives, and integrals.
+    </p>
+  </assemblage>
+
+  
+</subsection>

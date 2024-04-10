@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1032">
+  <title>Parameterization (<init>P</init>)</title>
+  <assemblage xml:id="standard-calcII-P1">
+    <title>Parameterization 1 (<init>P1</init>)</title>
+    <p>
+      I can parameterize and sketch a given curve.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-P2">
+    <title>Parameterization 2 (<init>P2</init>)</title>
+    <p>
+      I can convert between cartesian and polar coordinates and sketch curves in polar coordinates.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-calcII-P3">
+    <title>Parameterization 3 (<init>I3</init>)</title>
+    <p>
+      I can perform the following computations with parametric curves:
+      <ul>
+	<li>
+	  <p>
+	    tangent line,
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    arc length,
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    area of a region.
+	  </p>
+	</li>
+      </ul>
+    </p>
+  </assemblage>
+
+</subsection>

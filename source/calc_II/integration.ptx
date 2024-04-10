@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1032">
+  <title>Techniques of Integration (<init>I</init>)</title>
+  <assemblage xml:id="standard-calcII-I1">
+    <title>Techniques of Integration 1 (<init>I1</init>)</title>
+    <p>
+      I can perform Integration by Parts.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-I2">
+    <title>Techniques of Integration 2 (<init>I2</init>)</title>
+    <p>
+      I can integrate trigonometric functions.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-calcII-I3">
+    <title>Techniques of Integration 3 (<init>I3</init>)</title>
+    <p>
+      I can perform Trigonometric Substitution
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-I4">
+    <title>Techniques of Integration 4 (<init>I4</init>)</title>
+    <p>
+      I can perform Partial Fraction Decomposition
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-I5">
+    <title>Techniques of Integration 5 (<init>I5</init>)</title>
+    <p>
+      I can evaluate improper integrals.
+    </p>
+  </assemblage>
+</subsection>

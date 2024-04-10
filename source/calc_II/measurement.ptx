@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<subsection component="1032">
+  <title>Measurement (<init>M</init>)</title>
+  <assemblage xml:id="standard-calcII-M1">
+    <title>Measurement 1 (<init>M1</init>)</title>
+    <p>
+      I can use slicing and shells to find the volume of a surface of revolution.
+    </p>
+  </assemblage>
+
+  <assemblage xml:id="standard-calcII-M2">
+    <title>Measurement 2 (<init>M2</init>)</title>
+    <p>
+      I can find the length of a curve.
+    </p>
+  </assemblage>
+  
+  
+  <assemblage xml:id="standard-calcII-M3">
+    <title>Measurement 3 (<init>M3</init>)</title>p
+    <p>
+      I can find the surface area of a solid of revolution.
+    </p>
+  </assemblage>
+</subsection>
