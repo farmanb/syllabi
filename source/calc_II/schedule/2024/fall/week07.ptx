@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>October 7 <ndash/> October 11</title>
+  <table>
+    <title>Week 7</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/7</cell>
+	<cell>10/8</cell>
+	<cell>10/9</cell>
+	<cell>10/10</cell>
+	<cell>10/11</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Sequences (<section-mark/> 10.1,10.2)</p>
+	</cell>
+	<cell>
+	  <p>Sequences (<section-mark/> 10.1,10.2)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Infinite Series (<section-mark/> 10.3)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

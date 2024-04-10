@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>December 9<ndash/> December 10</title>
+  <table>
+    <title>Week 16</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>12/9</cell>
+	<cell>12/10</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Final Examinations</p>
+	</cell>
+	<cell>
+	  <p>Final Examinations</p>
+	</cell>
+	<!-- <p>Velocity/Net Change (<section-mark/> 6.1)</p> -->
+	<!-- <p>Area Between Curves (<section-mark/> 6.2)</p> -->
+      </row>
+    </tabular>
+  </table>
+</subsection>

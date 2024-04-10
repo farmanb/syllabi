@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>November 25<ndash/> November 29</title>
+  <table>
+    <title>Week 14</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>11/25</cell>
+	<cell>11/26</cell>
+	<cell>11/27</cell>
+	<cell>11/28</cell>
+	<cell>11/29</cell>
+      </row>
+      <row>
+	<cell>
+	  Flex
+	</cell>
+	<cell>
+	  Flex
+	</cell>
+	<cell colspan="3"><p><alert>No Classes (Thanksgiving Break)</alert></p></cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

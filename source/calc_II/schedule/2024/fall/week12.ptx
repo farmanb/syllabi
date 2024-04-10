@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>November 11<ndash/> November 15</title>
+  <table>
+    <title>Week 12</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>11/11</cell>
+	<cell>11/12</cell>
+	<cell>11/13</cell>
+	<cell>11/14</cell>
+	<cell>11/15</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Properties of Power Series (<section-mark/> 11.2)</p>
+	</cell>
+	<cell>
+	  <p>Taylor Series (<section-mark/> 11.3)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Taylor Series (<section-mark/> 11.3)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

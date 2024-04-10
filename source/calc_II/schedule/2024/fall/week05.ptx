@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>September 23 <ndash/> September 27</title>
+  <table>
+    <title>Week 5</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/23</cell>
+	<cell>9/24</cell>
+	<cell>9/25</cell>
+	<cell>9/26</cell>
+	<cell>9/27</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Parametric Equations (<section-mark/> 12.1)</p>
+	</cell>
+	<cell>
+	  <p>Parametric Equations (<section-mark/> 12.1)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Polar Coordinates (<section-mark/> 12.2)</p>
+	</cell>
+	<cell>
+	  Flex/Assessment
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

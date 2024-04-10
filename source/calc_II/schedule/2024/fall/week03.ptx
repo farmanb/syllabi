@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>September 9 <ndash/> February 13</title>
+  <table>
+    <title>Week 3</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/9</cell>
+	<cell>9/10</cell>
+	<cell>9/11</cell>
+	<cell>9/12</cell>
+	<cell>9/13</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Improper Integrals (<section-mark/> 8.9)</p>
+	</cell>
+	<cell>
+	  <p>Volumes by Slicing (<section-mark/> 6.3)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Volumes by Shells (<section-mark/> 6.4)</p>
+	</cell>
+	<cell>
+	  Flex/Assessment
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>
+

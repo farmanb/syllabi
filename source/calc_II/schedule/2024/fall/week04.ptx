@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>September 16 <ndash/> September 20</title>
+  <table>
+    <title>Week 4</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/16</cell>
+	<cell>9/17</cell>
+	<cell>9/18</cell>
+	<cell>9/19</cell>
+	<cell>9/20</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Length of Curves (<section-mark/> 6.5)</p>
+	</cell>
+	<cell>
+	  <p>Surface Area (<section-mark/> 6.6)</p>
+	</cell>
+	<cell>
+	  <p></p>
+	</cell>
+	<cell>
+	  <p>Review</p>
+	</cell>
+	<cell>
+	  <p><alert>Reassessment 1</alert></p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

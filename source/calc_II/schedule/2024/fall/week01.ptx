@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1032">
+  <title>August 26 <ndash/> August 30</title>
+  <table>
+    <title>Week 1</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>8/26</cell>
+	<cell>8/27</cell>
+	<cell>8/28</cell>
+	<cell>8/29</cell>
+	<cell>8/30</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Integration by Parts (<section-mark/> 8.2)</p>
+	</cell>
+	<cell>
+	  <p>Trigonometric Integrals (<section-mark/> 8.3)</p>
+	</cell>
+	<cell>
+	  <p>
+	  </p>
+	</cell>
+	<cell>
+	  <p>Trigonometric Substitutions (<section-mark/> 8.4)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>
