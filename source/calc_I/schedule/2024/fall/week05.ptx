@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>September 23 <ndash/> September 27</title>
+  <table>
+    <title>Week 5</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/23</cell>
+	<cell>9/24</cell>
+	<cell>9/25</cell>
+	<cell>9/26</cell>
+	<cell>9/27</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Related Rates (<section-mark/> 3.11)</p>
+	</cell>
+	<cell>
+	  <p>Related Rates (<section-mark/> 3.11)</p>
+	</cell>
+	<cell>
+	  <p>
+	  </p>
+	</cell>
+	<cell>
+	  <p>Related Rates (<section-mark/> 3.11)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>October 21<ndash/> October 25</title>
+  <table>
+    <title>Week 9</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/21</cell>
+	<cell>10/22</cell>
+	<cell>10/23</cell>
+	<cell>10/24</cell>
+	<cell>10/25</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Optimization (<section-mark/> 4.5)</p>
+	</cell>
+	<cell>
+	  <p>Optimization (<section-mark/> 4.5)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>L'Hôpital's Rule (<section-mark/> 4.6)</p>
+	</cell>
+	<cell><p>Flex/Assessment</p></cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

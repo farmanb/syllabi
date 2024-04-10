@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>October 28<ndash/> November 1</title>
+  <table>
+    <title>Week 10</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/28</cell>
+	<cell>10/29</cell>
+	<cell>10/30</cell>
+	<cell>10/31</cell>
+	<cell>11/1</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>L'Hôpital's Rule (<section-mark/> 4.6)</p>
+	</cell>
+	<cell>
+	  <p>Linear Approximation (<section-mark/> 4.7)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Review</p>
+	</cell>
+	<cell>
+	  <p><alert>Reassessment 3</alert></p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

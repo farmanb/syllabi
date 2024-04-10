@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>October 14<ndash/> October 18</title>
+  <table>
+    <title>Week 8</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/14</cell>
+	<cell>10/15</cell>
+	<cell>10/16</cell>
+	<cell>10/17</cell>
+	<cell>10/18</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Curve Sketching (<section-mark/> 4.4)</p>
+	</cell>
+	<cell>
+	  <p>Curve Sketching (<section-mark/> 4.4)</p>
+	</cell>
+	<cell></cell>
+	<cell colspan="2"><p><alert>No Classes (Fall Break)</alert></p></cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

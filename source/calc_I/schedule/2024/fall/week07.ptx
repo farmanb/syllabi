@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>October 7 <ndash/> October 11</title>
+  <table>
+    <title>Week 7</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/7</cell>
+	<cell>10/8</cell>
+	<cell>10/9</cell>
+	<cell>10/10</cell>
+	<cell>10/11</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Local Extrema (<section-mark/> 4.1)</p>
+	</cell>
+	<cell>
+	  <p>The Mean Value Theorem (<section-mark/> 4.2)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Derivatives and Shape (<section-mark/> 4.3)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

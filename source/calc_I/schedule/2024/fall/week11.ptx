@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>November 4<ndash/> November 8</title>
+  <table>
+    <title>Week 11</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>11/4</cell>
+	<cell>11/5</cell>
+	<cell>11/6</cell>
+	<cell>11/7</cell>
+	<cell>11/8</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Area Under the Curve (<section-mark/> 5.1)</p>
+	</cell>
+	<cell>
+	  <p>Definition of the Integral (<section-mark/> 5.1/5.2)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Definition of the Integral (<section-mark/> 5.1/5.2)</p>
+	</cell>
+        <cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

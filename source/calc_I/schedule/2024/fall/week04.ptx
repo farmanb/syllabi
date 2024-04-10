@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="1031">
+  <title>September 16 <ndash/> September 20</title>
+  <table>
+    <title>Week 4</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/16</cell>
+	<cell>9/17</cell>
+	<cell>9/18</cell>
+	<cell>9/19</cell>
+	<cell>9/20</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>The Chain Rule (<section-mark/> 3.7)</p>
+	</cell>
+	<cell>
+	  <p>Derivatives of Transcendental Functions (<section-mark/> 3.5/3.9)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Implicit Differentiation (<section-mark/> 3.8)</p>  
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>
