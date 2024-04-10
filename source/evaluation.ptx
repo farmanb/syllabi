@@ -418,6 +418,70 @@
       </tabular>
     </table>
 
+    <table component="1032">
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<col width="20%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<col width="16%"/>
+	<row header="yes" bottom="minor">
+	<cell></cell>
+	<cell colspan="5">Number of Standards Mastered</cell>
+	</row>
+	<row header="yes" bottom="major" >
+	  <cell right="major">Homework Grade</cell>
+	  <cell right="major">14 <ndash/> 15</cell>
+	  <cell right="major">12 <ndash/> 13</cell>
+	  <cell right="major">10 <ndash/> 11</cell>
+	  <cell right="major">8 <ndash/> 9</cell>
+	  <cell right="major">0 <ndash/> 7</cell>
+	</row>
+	<row>
+	  <cell><p><m>[90\%,100\%]</m></p></cell>
+	  <cell>A</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[80\%,90\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[70\%,80\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[60\%,70\%)</m></p></cell>
+	  <cell>B</cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	</row>
+	<row>
+	  <cell><p><m>[0\%,60\%)</m></p></cell>
+	  <cell>C</cell>
+	  <cell>D</cell>
+	  <cell>D</cell>
+	  <cell>F</cell>
+	  <cell>F</cell>
+	</row>
+      </tabular>
+    </table>
+
     <table component="2032">
       <title>Grading Scale</title>
       <tabular halign="center">

@@ -26,7 +26,15 @@
     </ul>
   </p>
 
+  <p component="1032">
+    A grade of C or better in MATH 1031.
+  </p>
+
+  <p component="2032">
+    A grade of C or better in MATH 1032
+  </p>
+
   <p component="3040">
-    A grade of “C” or better in MATH 2040.
+    A grade of C or better in MATH 2040.
   </p>
 </subsection>

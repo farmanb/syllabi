@@ -14,6 +14,12 @@
   <xi:include href="calc_I/derivatives.ptx"/>
   <xi:include href="calc_I/applications.ptx"/>
   <xi:include href="calc_I/int.ptx"/>
+
+  <!-- Calc II -->
+  <xi:include href="calc_II/measurement.ptx"/>
+  <xi:include href="calc_II/integration.ptx"/>
+  <xi:include href="calc_II/parametric.ptx"/>
+  <xi:include href="calc_II/seq_series.ptx"/>
   
   <!-- Linear Algbera -->
   <xi:include href="linear_alg/se.ptx" />

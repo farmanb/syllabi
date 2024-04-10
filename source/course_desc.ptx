@@ -51,9 +51,17 @@
     This course covers functions, limits, continuity, differentiation &amp; its applications, and integration.
   </p>
 
+  <p component="1032">
+    Inverse functions, techniques of integration, applications of the integral, sequences and series.
+  </p>
+
   <p component="2002">
     An introduction to the application of matrix algebra.
     Emphasis on the application of procedures and algorithms.
+  </p>
+
+  <p component="2032">
+    Vectors, lines, and planes, vector valued functions, partial derivatives, multiple integrals, calculus of vector fields.
   </p>
   
   <p component="2040">

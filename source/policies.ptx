@@ -55,6 +55,30 @@
 	You may purchase access through the ULM Bookstore or directly from Pearson.
       </p>
     </assemblage>
+
+    <assemblage component="1032">
+      <title>Required Textbook</title>
+      <p>
+	<pubtitle>
+	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
+	</pubtitle>
+      </p>
+      <p>
+	You may purchase access through the ULM Bookstore or directly from Pearson.
+      </p>
+    </assemblage>
+
+    <assemblage component="1031">
+      <title>Required Textbook</title>
+      <p>
+	<pubtitle>
+	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
+	</pubtitle>
+      </p>
+      <p>
+	You may purchase access through the ULM Bookstore or directly from Pearson.
+      </p>
+    </assemblage>
     
   </subsection>
   
@@ -153,6 +177,11 @@
 <subsection>
   <title>Late Policy</title>
   <p component="MBG">
+    Late work will not be accepted.
+    Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
+  </p>
+
+  <p component="MBT">
     Late work will not be accepted.
     Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
