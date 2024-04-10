@@ -15,6 +15,9 @@
     <target name="1031-pdf" format="pdf" output-dir="1031-pdf" publication="1031.ptx"/>
     <target name="3040" format="html" output-dir="3040" publication="3040.ptx"/>
     <target name="3040-pdf" format="pdf" output-dir="3040-pdf" publication="3040.ptx"/>
-    
+    <target name="1032" format="html" output-dir="1032" publication="1032.ptx"/>
+    <target name="1032-pdf" format="html" output-dir="1032" publication="1032.ptx"/>
+    <target name="2032" format="html" output-dir="2032" publication="2032.ptx"/>
+    <target name="2032-pdf" format="html" output-dir="2032" publication="2032.ptx"/>
   </targets>
 </project>
