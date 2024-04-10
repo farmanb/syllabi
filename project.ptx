@@ -2,8 +2,8 @@
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2">
   <targets>
-    <target name="web" format="html" />
-    <target name="print" format="pdf" />
+    <!-- <target name="web" format="html" /> -->
+    <!-- <target name="print" format="pdf" / -->>
     <target name="schedule-63057" format="html" source="standalone-schedule.ptx" publication="63057.ptx"/>
     <target name="schedule-63167" format="html" source="standalone-schedule.ptx" publication="63167.ptx"/>
     <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031.ptx"/>
