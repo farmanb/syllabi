@@ -3,21 +3,32 @@
 <project ptx-version="2">
   <targets>
     <!-- <target name="web" format="html" /> -->
-    <!-- <target name="print" format="pdf" / -->>
-    <target name="schedule-63057" format="html" source="standalone-schedule.ptx" publication="63057.ptx"/>
-    <target name="schedule-63167" format="html" source="standalone-schedule.ptx" publication="63167.ptx"/>
+    <!-- <target name="print" format="pdf" /> -->
+
+    <!-- Spring 2024 -->
+    <!-- Syllabi -->
+    <target name="63057" format="html" output-dir="syllabi/1011/S24/63057" publication="63057.ptx"/>
+    <target name="63167" format="html" output-dir="syllabi/1011/S24/63167" publication="63167.ptx"/>
+    <target name="1031-S24" format="html" output-dir="syllabi/1031/S24" publication="1031.ptx"/>
+    <target name="3040-S24" format="html" output-dir="syllabi/3040/S24" publication="3040.ptx"/>
+    
+    <!-- Schedules -->
+    <target name="schedule-63057" format="html" output-dir="schedules/1011/S24/63057" source="standalone-schedule.ptx" publication="63057.ptx"/>
+    <target name="schedule-63167" format="html" output-dir="schedules/1011/S24/63167" source="standalone-schedule.ptx" publication="63167.ptx"/>
+    <target name="schedule-1031-S24" format="html" output-dir="schedules/1031/S24" source="standalone-schedule.ptx" publication="1031.ptx"/>
+    <target name="schedule-3040-S24" format="html" output-dir="schedules/3040/S24" source="standalone-schedule.ptx" publication="3040.ptx"/>
+
+    <!-- Fall 2024 -->
+    <!-- Syllabi -->
+    <target name="1031-F24" format="html" output-dir="syllabi/1031/F24" publication="1031.ptx"/>
+    <target name="1032-F24" format="html" output-dir="syllabi/1032/F24" publication="1032.ptx"/>
+    <target name="2032-F24" format="html" output-dir="syllabi/2032/F24" publication="2032.ptx"/>
+
+    <!-- Schedules -->
     <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031.ptx"/>
-    <target name="schedule-3040" format="html" source="standalone-schedule.ptx" publication="3040.ptx"/>
-    <target name="63057" format="html" output-dir="63057" publication="63057.ptx"/>
-    <target name="63167" format="html" output-dir="63167" publication="63167.ptx"/>
-    <target name="1011-pdf" format="pdf" output-dir="1011-pdf" publication="1011.ptx"/>
-    <target name="1031" format="html" output-dir="1031" publication="1031.ptx"/>
-    <target name="1031-pdf" format="pdf" output-dir="1031-pdf" publication="1031.ptx"/>
-    <target name="3040" format="html" output-dir="3040" publication="3040.ptx"/>
-    <target name="3040-pdf" format="pdf" output-dir="3040-pdf" publication="3040.ptx"/>
-    <target name="1032" format="html" output-dir="1032" publication="1032.ptx"/>
-    <target name="1032-pdf" format="html" output-dir="1032" publication="1032.ptx"/>
-    <target name="2032" format="html" output-dir="2032" publication="2032.ptx"/>
-    <target name="2032-pdf" format="html" output-dir="2032" publication="2032.ptx"/>
+    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1032.ptx"/>
+    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="2032.ptx"/>
   </targets>
+
+
 </project>
