@@ -11,7 +11,7 @@
     <target name="63167" format="html" output-dir="syllabi/1011/S24/63167" publication="63167.ptx"/>
     <target name="1031-S24" format="html" output-dir="syllabi/1031/S24" publication="1031.ptx"/>
     <target name="3040-S24" format="html" output-dir="syllabi/3040/S24" publication="3040.ptx"/>
-    
+
     <!-- Schedules -->
     <target name="schedule-63057" format="html" output-dir="schedules/1011/S24/63057" source="standalone-schedule.ptx" publication="63057.ptx"/>
     <target name="schedule-63167" format="html" output-dir="schedules/1011/S24/63167" source="standalone-schedule.ptx" publication="63167.ptx"/>

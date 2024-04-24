@@ -23,12 +23,12 @@
     </p>
   </assemblage>
 
-  <assemblage xml:id="standard-CA-TF2">
-    <title>Transcendental Functions 2(<init>TF2</init>)</title>
-    <p>
-      I can model natural phenomena using exponential and logarithmic functions.
-    </p>
-  </assemblage>
+  <!-- <assemblage xml:id="standard-CA-TF2"> -->
+  <!--   <title>Transcendental Functions 2(<init>TF2</init>)</title> -->
+  <!--   <p> -->
+  <!--     I can model natural phenomena using exponential and logarithmic functions. -->
+  <!--   </p> -->
+  <!-- </assemblage> -->
 
 </subsection>
 

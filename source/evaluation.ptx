@@ -3,22 +3,22 @@
   <title>Evaluation</title>
   <introduction>
     <p component="MBT">
-    This course will use <alert>Mastery Based Grading</alert>.
-    The content is broken into <em>standards</em> that you are expected to master by the end of the course.
-  </p>
+      This course will use <alert>Mastery Based Grading</alert>.
+      The content is broken into <em>standards</em> that you are expected to master by the end of the course.
+    </p>
 
-  <p component="MBT">
-    This grading system is <em>iterative</em> in the sense that you will have multiple opportunities to display mastery of each standard, and <em>forgetful</em> in the sense that your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.
-  </p>
-  
-  <p component="MBG">
-    Mastering a standard is a two-step process, consisting of mastering a Lesson and a written Assessment.
-    Each week we will cover around 2 Lessons in Hawkes, followed by a written Assessment that is due by the end of the week.
-  </p>
-  
-  <p component="MBT">
-    A description of each standard can be found in <xref ref="standards"/>.
-  </p>
+    <p component="MBT">
+      This grading system is <em>iterative</em> in the sense that you will have multiple opportunities to display mastery of each standard, and <em>forgetful</em> in the sense that your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.
+    </p>
+    
+    <p component="MBG">
+      Mastering a standard is a two-step process, consisting of mastering a Lesson and a written Assessment.
+      Each week we will cover around 2 Lessons in Hawkes, followed by a written Assessment that is due by the end of the week.
+    </p>
+    
+    <p component="MBT">
+      A description of each standard can be found in <xref ref="standards"/>.
+    </p>
   </introduction>
 
   <subsection component="MBT">
@@ -282,7 +282,7 @@
     <!--   </tabular> -->
     <!-- </table> -->
 
-        <table component="1011">
+    <table component="1011">
       <title>Grading Scale</title>
       <tabular halign="center">
 	<col width="20%"/>
@@ -292,16 +292,16 @@
 	<col width="16%"/>
 	<col width="16%"/>
 	<row header="yes" bottom="minor">
-	<cell></cell>
-	<cell colspan="5">Number of Standards Mastered</cell>
+	  <cell></cell>
+	  <cell colspan="5">Number of Standards Mastered</cell>
 	</row>
 	<row header="yes" bottom="major" >
 	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">16 <ndash/> 17</cell>
-	  <cell right="major">14 <ndash/> 15</cell>
-	  <cell right="major">12 <ndash/> 13</cell>
-	  <cell right="major">10 <ndash/> 11</cell>
-	  <cell right="major">0 <ndash/> 9</cell>
+	  <cell right="major">15 <ndash/> 16</cell>
+	  <cell right="major">13 <ndash/> 14</cell>
+	  <cell right="major">11 <ndash/> 12</cell>
+	  <cell right="major">9 <ndash/> 10</cell>
+	  <cell right="major">0 <ndash/> 8</cell>
 	</row>
 	<!-- <row header="yes" bottom="major" > -->
 	<!--   <cell right="major">Homework Grade</cell> -->
@@ -364,8 +364,8 @@
 	<col width="16%"/>
 	<col width="16%"/>
 	<row header="yes" bottom="minor">
-	<cell></cell>
-	<cell colspan="5">Number of Standards Mastered</cell>
+	  <cell></cell>
+	  <cell colspan="5">Number of Standards Mastered</cell>
 	</row>
 	<row header="yes" bottom="major" >
 	  <cell right="major">Homework Grade</cell>
@@ -428,8 +428,8 @@
 	<col width="16%"/>
 	<col width="16%"/>
 	<row header="yes" bottom="minor">
-	<cell></cell>
-	<cell colspan="5">Number of Standards Mastered</cell>
+	  <cell></cell>
+	  <cell colspan="5">Number of Standards Mastered</cell>
 	</row>
 	<row header="yes" bottom="major" >
 	  <cell right="major">Homework Grade</cell>
