@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>September 23 <ndash/> September 27</title>
   <table>
     <title>Week 5</title>
@@ -18,17 +18,14 @@
       </row>
       <row>
 	<cell>
-	  <p>Related Rates (<section-mark/> 3.11)</p>
+	  <p>The Chain Rule (<section-mark/> 3.7)</p>
 	</cell>
 	<cell>
-	  <p>Related Rates (<section-mark/> 3.11)</p>
+	  <p>Derivatives of Transcendental Functions (<section-mark/> 3.5/3.9)</p>
 	</cell>
+	<cell></cell>
 	<cell>
-	  <p>
-	  </p>
-	</cell>
-	<cell>
-	  <p>Related Rates (<section-mark/> 3.11)</p>
+	  <p>Derivatives of Transcendental Functions (<section-mark/> 3.5/3.9)</p>
 	</cell>
 	<cell>
 	  <p>Flex/Assessment</p>

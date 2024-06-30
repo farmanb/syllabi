@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <subsection component="1031">
+  <subsection component="63789">
     <title>February 26 <ndash/> March 1</title>
     <table>
       <title>Week 7</title>
@@ -17,11 +17,19 @@
 	  <cell>3/1</cell>
 	</row>
 	<row>
-	  <cell><p>Related Rates (<section-mark/> 3.11)</p></cell>
-	  <cell><p>Derivatives of Inverse Functions (<section-mark/> 3.10)</p></cell>
+	  <cell>
+	    <p>Related Rates (<section-mark/> 3.11)</p>
+	  </cell>
+	  <cell>
+	    <p>Derivatives of Inverse Functions (<section-mark/> 3.10)</p>
+	  </cell>
 	  <cell></cell>
-	  <cell><p>Review</p></cell>
-	  <cell><p><alert>Reassessment 2</alert></p></cell>
+	  <cell>
+	    <p>Review</p>
+	  </cell>
+	  <cell>
+	    <p><alert>Reassessment 2</alert></p>
+	  </cell>
 	</row>
       </tabular>
     </table>

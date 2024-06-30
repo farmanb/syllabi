@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <subsection component="1031">
+  <subsection component="63789">
     <title>January 22 <ndash/> January 26</title>
     <table>
       <title>Week 2</title>
@@ -17,12 +17,22 @@
 	  <cell>1/26</cell>
 	</row>
 	<row>
-	  <cell><p>Limit Laws (<section-mark/>2.3)</p></cell>
-	  <cell><p>Infinite Limits (<section-mark/> 2.4)</p></cell>
+	  <cell>
+	    <p>Limit Laws (<section-mark/>2.3)</p>
+	  </cell>
+	  <cell>
+	    <p>Infinite Limits (<section-mark/> 2.4)</p>
+	  </cell>
 	  <cell><p></p></cell>
-	  <cell><p>Limits at Infinity (<section-mark/> 2.5)</p></cell>
-	  <cell><p>Limits at Infinity (<section-mark/> 2.5)</p></cell>
-	  <cell><p>Flex/Assessment</p></cell>
+	  <cell>
+	    <p>Limits at Infinity (<section-mark/> 2.5)</p>
+	  </cell>
+	  <cell>
+	    <p>Limits at Infinity (<section-mark/> 2.5)</p>
+	  </cell>
+	  <cell>
+	    <p>Flex/Assessment</p>
+	  </cell>
 	</row>
       </tabular>
     </table>

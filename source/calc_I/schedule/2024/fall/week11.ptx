@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>November 4<ndash/> November 8</title>
   <table>
     <title>Week 11</title>
@@ -20,14 +20,14 @@
 	<cell>
 	  <p>Area Under the Curve (<section-mark/> 5.1)</p>
 	</cell>
-	<cell>
-	  <p>Definition of the Integral (<section-mark/> 5.1/5.2)</p>
-	</cell>
 	<cell></cell>
 	<cell>
-	  <p>Definition of the Integral (<section-mark/> 5.1/5.2)</p>
+	  <p>Definition of the Integral (<section-mark/> 5.2)</p>
 	</cell>
-        <cell>
+	<cell>
+	  
+	</cell>
+	<cell>
 	  <p>Flex/Assessment</p>
 	</cell>
       </row>

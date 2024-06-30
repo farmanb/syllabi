@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <subsection component="1031">
+  <subsection component="63789">
     <title>January 29 <ndash/> February 2</title>
     <table>
       <title>Week 3</title>
@@ -17,11 +17,19 @@
 	  <cell>2/2</cell>
 	</row>
 	<row>
-	  <cell><p>Continuity (<section-mark/> 2.6)</p></cell>
-	  <cell><p>Continuity (<section-mark/> 2.6)</p></cell>
+	  <cell>
+	    <p>Continuity (<section-mark/> 2.6)</p>
+	  </cell>
+	  <cell>
+	    <p>Continuity (<section-mark/> 2.6)</p>
+	  </cell>
 	  <cell></cell>
-	  <cell><p>Review</p></cell>
-	  <cell><alert>Reassessment 1</alert></cell>
+	  <cell>
+	    <p>Review</p>
+	  </cell>
+	  <cell>
+	    <alert>Reassessment 1</alert>
+	  </cell>
 	</row>
       </tabular>
     </table>

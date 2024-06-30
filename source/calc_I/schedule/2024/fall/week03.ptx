@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
-  <title>September 9 <ndash/> February 13</title>
+<subsection component="40997">
+  <title>September 9 <ndash/> September 13</title>
   <table>
     <title>Week 3</title>
     <tabular halign="center">
@@ -18,19 +18,20 @@
       </row>
       <row>
 	<cell>
-	  <p>Definition of the Derivative (<section-mark/> 3.1/3.2)</p>
+	  <p>Continuity (<section-mark/> 2.6)</p>
 	</cell>
 	<cell>
-	  <p>Derivative Rules (<section-mark/> 3.3)</p>
+	  <p>Continuity (<section-mark/> 2.6)</p>
 	</cell>
-	<cell><p></p></cell>
+	<cell></cell>
 	<cell>
-	  <p>Product/Quotient Rules (<section-mark/> 3.4)</p>
+	  <p>Review</p>
 	</cell>
 	<cell>
-	  <p>Flex/Assessment</p>
+	  <p><alert>Reassessment 1</alert></p>
 	</cell>
       </row>
     </tabular>
   </table>
 </subsection>
+

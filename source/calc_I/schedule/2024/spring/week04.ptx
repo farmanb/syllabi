@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <subsection component="1031">
+  <subsection component="63789">
     <title>February 5 <ndash/> February 9</title>
     <table>
       <title>Week 4</title>
@@ -17,11 +17,19 @@
 	  <cell>2/9</cell>
 	</row>
 	<row>
-	  <cell><p>Definition of the Derivative (<section-mark/> 3.1/3.2)</p></cell>
-	  <cell><p>Derivative Rules (<section-mark/> 3.3)</p></cell>
+	  <cell>
+	    <p>Definition of the Derivative (<section-mark/> 3.1/3.2)</p>
+	  </cell>
+	  <cell>
+	    <p>Derivative Rules (<section-mark/> 3.3)</p>
+	  </cell>
 	  <cell></cell>
-	  <cell><p>Product/Quotient Rules (<section-mark/> 3.4)</p></cell>
-	  <cell><p>The Chain Rule (<section-mark/> 3.7)</p></cell>
+	  <cell>
+	    <p>Product/Quotient Rules (<section-mark/> 3.4)</p>
+	  </cell>
+	  <cell>
+	    <p>The Chain Rule (<section-mark/> 3.7)</p>
+	  </cell>
 	  <!-- <cell><p>Flex/Assessment</p></cell> -->
 	</row>
       </tabular>

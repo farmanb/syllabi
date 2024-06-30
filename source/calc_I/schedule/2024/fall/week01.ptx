@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>August 26 <ndash/> August 30</title>
   <table>
     <title>Week 1</title>
@@ -18,17 +18,16 @@
       </row>
       <row>
 	<cell>
+	  <p>Definition of a Limit (<section-mark/>2.1/2.2)</p>
+	</cell>
+	<cell>
 	  <p>Limit Laws (<section-mark/>2.3)</p>
 	</cell>
 	<cell>
+	  <p></p>
+	</cell>
+	<cell>
 	  <p>Infinite Limits (<section-mark/> 2.4)</p>
-	</cell>
-	<cell>
-	  <p>
-	  </p>
-	</cell>
-	<cell>
-	  <p>Limits at Infinity (<section-mark/> 2.5)</p>
 	</cell>
 	<cell>
 	  <p>Flex/Assessment</p>

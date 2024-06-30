@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>October 21<ndash/> October 25</title>
   <table>
     <title>Week 9</title>
@@ -18,7 +18,8 @@
       </row>
       <row>
 	<cell>
-	  <p>Optimization (<section-mark/> 4.5)</p>
+	  <p>Derivatives and Shape (<section-mark/> 4.3)</p>
+	  <p>Curve Sketching (<section-mark/> 4.4)</p>
 	</cell>
 	<cell>
 	  <p>Optimization (<section-mark/> 4.5)</p>
@@ -27,7 +28,9 @@
 	<cell>
 	  <p>L'Hôpital's Rule (<section-mark/> 4.6)</p>
 	</cell>
-	<cell><p>Flex/Assessment</p></cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
       </row>
     </tabular>
   </table>

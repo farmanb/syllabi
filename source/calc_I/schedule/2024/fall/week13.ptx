@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>November 18<ndash/> November 22</title>
   <table>
     <title>Week 13</title>
@@ -25,10 +25,10 @@
 	</cell>
 	<cell></cell>
 	<cell>
-	  <p>Review</p>
+	  <p>Review</p>  
 	</cell>
 	<cell>
-	  <alert>Reassessment 4</alert>
+	  <p><alert>Reassessment 4</alert></p>
 	</cell>
       </row>
     </tabular>

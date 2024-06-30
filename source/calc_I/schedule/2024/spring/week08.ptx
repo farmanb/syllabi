@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="63789">
   <title>March 4<ndash/> March 8</title>
   <table>
     <title>Week 8</title>
@@ -17,11 +17,19 @@
 	<cell>3/8</cell>
       </row>
       <row>
-	<cell><p>Local Extrema (<section-mark/> 4.1)</p></cell>
-	<cell><p>The Mean Value Theorem (<section-mark/> 4.2)</p></cell>
+	<cell>
+	  <p>Local Extrema (<section-mark/> 4.1)</p>
+	</cell>
+	<cell>
+	  <p>The Mean Value Theorem (<section-mark/> 4.2)</p>
+	</cell>
 	<cell></cell>
-	<cell><p>Derivatives and Shape (<section-mark/> 4.3)</p></cell>
-	<cell><p>Flex/Assessment</p></cell>
+	<cell>
+	  <p>Derivatives and Shape (<section-mark/> 4.3)</p>
+	</cell>
+	<cell>
+	  <p>Flex/Assessment</p>
+	</cell>
       </row>
     </tabular>
   </table>

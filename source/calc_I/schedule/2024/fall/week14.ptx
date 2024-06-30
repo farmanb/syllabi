@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="40997">
   <title>November 25<ndash/> November 29</title>
   <table>
     <title>Week 14</title>
@@ -18,16 +18,15 @@
       </row>
       <row>
 	<cell>
-	<p>Velocity/Net Change (<section-mark/> 6.1)</p>
-	</cell>
-	<cell>
 	  <p>Velocity/Net Change (<section-mark/> 6.1)</p>
 	</cell>
-	<cell colspan="3"><p><alert>No Classes (Thanksgiving Break)</alert></p></cell>
+	<cell>
+	  <p>Area Between Curves (<section-mark/> 6.2)</p>
+	</cell>
+	<cell colspan="3">
+	  <p><alert>No Classes (Thanksgiving Break)</alert></p>
+	</cell>
       </row>
     </tabular>
   </table>
 </subsection>
-
-
-

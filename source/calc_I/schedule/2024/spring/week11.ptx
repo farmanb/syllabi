@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="1031">
+<subsection component="63789">
     <title>March 25<ndash/> March 29</title>
     <table>
       <title>Week 11</title>
@@ -17,11 +17,19 @@
 	  <cell>3/29</cell>
 	</row>
 	<row>
-	  <cell><p>Linear Approximation (<section-mark/> 4.7)</p></cell>
-	  <cell><p>Review</p></cell>
+	  <cell>
+	    <p>Linear Approximation (<section-mark/> 4.7)</p>
+	  </cell>
+	  <cell>
+	    <p>Review</p>
+	  </cell>
 	  <cell></cell>
-	  <cell><p><aleert>Reassessment 3</aleert></p></cell>
-	  <cell><p><alert>No Classes (Spring Break)</alert></p></cell>
+	  <cell>
+	    <p><aleert>Reassessment 3</aleert></p>
+	  </cell>
+	  <cell>
+	    <p><alert>No Classes (Spring Break)</alert></p>
+	  </cell>
 	</row>
       </tabular>
     </table>
