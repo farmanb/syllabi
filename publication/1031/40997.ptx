@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
-    <!-- directories are relative to the main source PreTeXt file -->
-    <source>
-      <directories external="../assets" generated="../generated-assets"/>
+  <!-- directories are relative to the main source PreTeXt file -->
+  <source>
+    <directories external="../assets" generated="../generated-assets"/>
 
-      <!-- Version flags -->
-      <!-- MBG - Mastery Based Grading -->
-      <!-- MBT - Mastery Based Testing -->
-      <!-- AL - Active Learning -->
+    <!-- Version flags -->
+    <!-- MBG - Mastery Based Grading -->
+    <!-- MBT - Mastery Based Testing -->
+    <!-- AL - Active Learning -->
 
-      <!-- Calculus (1031)-->
-       <version include="40997 1031 F24 MBT"/>
-    </source>
+    <!-- Calculus (1031)-->
+    <version include="40997 1031 F24 MBT"/>
+  </source>
 </publication>
