@@ -15,10 +15,10 @@
 	  <p>Final Examinations</p>
 	</cell>
 	<cell>
-	  <p>Final Examinations</p>
+	  <p><alert>Final Reassessment</alert></p>
+	  <p><alert>Math 1032 - 40999</alert></p>
+	  <p><alert>8:00 AM - 9:50 AM</alert></p>
 	</cell>
-	<!-- <p>Velocity/Net Change (<section-mark/> 6.1)</p> -->
-	<!-- <p>Area Between Curves (<section-mark/> 6.2)</p> -->
       </row>
     </tabular>
   </table>
