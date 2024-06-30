@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2">
-  <targets>
+    <targets>
     <!-- <target name="web" format="html" /> -->
     <!-- <target name="print" format="pdf" /> -->
 
     <!-- Spring 2024 -->
     <!-- Syllabi -->
-    <target name="63057" format="html" output-dir="syllabi/1011/S24/63057" publication="63057.ptx"/>
-    <target name="63167" format="html" output-dir="syllabi/1011/S24/63167" publication="63167.ptx"/>
-    <target name="1031-S24" format="html" output-dir="syllabi/1031/S24" publication="1031.ptx"/>
-    <target name="3040-S24" format="html" output-dir="syllabi/3040/S24" publication="3040.ptx"/>
+    <target name="63057" format="html" output-dir="syllabi/1011/S24/63057" publication="1011/63057.ptx"/>
+    <target name="63167" format="html" output-dir="syllabi/1011/S24/63167" publication="1011/63167.ptx"/>
+    <target name="1031-S24" format="html" output-dir="syllabi/1031/S24" publication="1031/63789.ptx"/>
+    <target name="3040-S24" format="html" output-dir="syllabi/3040/S24" publication="3040/64086.ptx"/>
 
     <!-- Schedules -->
-    <target name="schedule-63057" format="html" output-dir="schedules/1011/S24/63057" source="standalone-schedule.ptx" publication="63057.ptx"/>
-    <target name="schedule-63167" format="html" output-dir="schedules/1011/S24/63167" source="standalone-schedule.ptx" publication="63167.ptx"/>
-    <target name="schedule-1031-S24" format="html" output-dir="schedules/1031/S24" source="standalone-schedule.ptx" publication="1031.ptx"/>
-    <target name="schedule-3040-S24" format="html" output-dir="schedules/3040/S24" source="standalone-schedule.ptx" publication="3040.ptx"/>
+    <target name="schedule-63057" format="html" output-dir="schedules/1011/S24/63057" source="standalone-schedule.ptx" publication="1011/63057.ptx"/>
+    <target name="schedule-63167" format="html" output-dir="schedules/1011/S24/63167" source="standalone-schedule.ptx" publication="1011/63167.ptx"/>
+    <target name="schedule-1031-S24" format="html" output-dir="schedules/1031/S24" source="standalone-schedule.ptx" publication="1031/63789.ptx"/>
+    <target name="schedule-3040-S24" format="html" output-dir="schedules/3040/S24" source="standalone-schedule.ptx" publication="3040/64086.ptx"/>
 
     <!-- Fall 2024 -->
     <!-- Syllabi -->
-    <target name="1031-F24" format="html" output-dir="syllabi/1031/F24" publication="1031.ptx"/>
-    <target name="1032-F24" format="html" output-dir="syllabi/1032/F24" publication="1032.ptx"/>
-    <target name="2032-F24" format="html" output-dir="syllabi/2032/F24" publication="2032.ptx"/>
+    <target name="1031-F24" format="html" output-dir="syllabi/1031/F24" publication="1031/40997.ptx"/>
+    <target name="1032-F24" format="html" output-dir="syllabi/1032/F24" publication="1032/40999.ptx"/>
+    <target name="2032-F24" format="html" output-dir="syllabi/2032/F24" publication="2032/44879.ptx"/>
 
     <!-- Schedules -->
-    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031.ptx"/>
-    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1032.ptx"/>
-    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="2032.ptx"/>
+    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031/40997.ptx"/>
+    <target name="schedule-1032" format="html" source="standalone-schedule.ptx" publication="1032/40999.ptx"/>
+    <target name="schedule-2032" format="html" source="standalone-schedule.ptx" publication="2032/44879.ptx"/>
   </targets>
-
-
 </project>
