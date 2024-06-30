@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="2032">
+  <title>September 23 <ndash/> September 27</title>
+  <table>
+    <title>Week 5</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/23</cell>
+	<cell>9/24</cell>
+	<cell>9/25</cell>
+	<cell>9/26</cell>
+	<cell>9/27</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Limits and Continuity (<section-mark/> 15.2)</p>
+	</cell>
+	<cell>
+	  <p>Partial Derivatives (<section-mark/> 15.3)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>The Chain Rule (<section-mark/> 15.4)</p>
+	</cell>
+	<cell>
+	  <p>Directional Derivatives and the Gradient (<section-mark/> 15.5)</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

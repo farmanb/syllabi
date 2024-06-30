@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="2032">
+  <title>September 9 <ndash/> September 13</title>
+  <table>
+    <title>Week 3</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/9</cell>
+	<cell>9/10</cell>
+	<cell>9/11</cell>
+	<cell>9/12</cell>
+	<cell>9/13</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Calculus of Vector-Valued Functions (<section-mark/> 14.2)</p>
+	</cell>
+	<cell>
+	  <p>Motion in Space (<section-mark/> 14.3)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Length of Curves (<section-mark/> 14.4)</p>
+	</cell>
+	<cell>
+	  <p>Curvature and Normal Vectors (<section-mark/> 14.5)</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

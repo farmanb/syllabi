@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="2032">
+  <title>September 30 <ndash/> October 4</title>
+  <table>
+    <title>Week 6</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>9/30</cell>
+	<cell>10/1</cell>
+	<cell>10/2</cell>
+	<cell>10/3</cell>
+	<cell>10/4</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Tangent Planes and Linear Approximation (<section-mark/> 15.6)</p>
+	</cell>
+	<cell>
+	  <p>Maximum/Minimum Problems (<section-mark/> 15.7)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Maximum/Minimum Problems (<section-mark/> 15.7)</p>
+	</cell>
+	<cell>
+	  <p>Lagrange Multipliers (<section-mark/> 15.8)</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

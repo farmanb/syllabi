@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="2032">
+  <title>October 21<ndash/> October 25</title>
+  <table>
+    <title>Week 9</title>
+    <tabular halign="center">
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <col width="20%"/>
+      <row header="yes" bottom="minor" >
+	<cell>10/21</cell>
+	<cell>10/22</cell>
+	<cell>10/23</cell>
+	<cell>10/24</cell>
+	<cell>10/25</cell>
+      </row>
+      <row>
+	<cell>
+	  <p>Double Integrals in Polar Coordinates (<section-mark/> 16.3)</p>
+	</cell>
+	<cell>
+	  <p>Double Integrals in Polar Coordinates (<section-mark/> 16.3)</p>
+	</cell>
+	<cell></cell>
+	<cell>
+	  <p>Triple Integrals (<section-mark/> 16.4)</p>
+	</cell>
+	<cell>
+	  <p>Triple Integrals (<section-mark/> 16.4)</p>
+	</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>
