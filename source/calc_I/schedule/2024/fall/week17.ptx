@@ -11,7 +11,9 @@
 	<cell>5/7</cell>
       </row>
       <row>
-	<cell><p><alert>Final Exams</alert></p></cell>
+	<cell>
+	  <p><alert>Final Exams</alert></p>
+	</cell>
 	<cell>
 	  <p><alert>Final Exam</alert></p>
 	  <p><alert>Math 1032</alert></p>
