@@ -6,10 +6,11 @@
     <xi:include href="./me.ptx"/>
   </subsection>
 
-  <subsection>
-    <title>Office Hours</title>
-    <xi:include href="./office_hours.ptx"/>
-  </subsection>
+  <!-- <subsection> -->
+  <!--   <title>Office Hours</title> -->
+  <!--   <xi:include href="./office_hours.ptx"/> -->
+  <!-- </subsection> -->
+  <xi:include href="./office_hours.ptx"/>
   
   <!-- College Algebra -->
   <xi:include href="college_alg/schedule/2024/spring/week01.ptx"/>

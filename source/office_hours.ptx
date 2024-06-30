@@ -1,42 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<p component="S24">
-  <!-- <dl> -->
-  <!--   <li> -->
-  <!--     <title>Mon/Wed</title> -->
-  <!--     <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p> -->
-  <!--   </li> -->
-  <!--   <li> -->
-  <!--     <title>Mon/Wed/Fri</title> -->
-  <!--     <p>9:00 AM <ndash/> 11:00 AM</p> -->
-  <!--   </li> -->
-  <!--   <li> -->
-  <!--     <title>Tue/Thu</title> -->
-  <!--     <p> 8:30 AM <ndash/> 9:30 AM</p> -->
-  <!--   </li> -->
-  <!-- </dl> -->
+<subsection>
+  <title>Office Hours</title>
+  <p component="S24">
+    <dl>
+      <li>
+	<title>Monday</title>
+	<p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
+	<p>9:00 AM <ndash/> 11:00 AM</p>
+      </li>
+      <li>
+	<title>Tuesday</title>
+	<p> 8:30 AM <ndash/> 9:30 AM</p>
+      </li>
+      <li>
+	<title>Wednesday</title>
+	<p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
+	<p>9:00 AM <ndash/> 11:00 AM</p>
+      </li>
+      <li>
+	<title>Thursday</title>
+	<p> 8:30 AM <ndash/> 9:30 AM</p>
+      </li>
+      <li>
+	<title>Friday</title>
+	<p>9:00 AM <ndash/> 11:00 AM</p>
+      </li>
+    </dl>
+  </p>
 
-  <dl>
-    <li>
-      <title>Monday</title>
-      <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
-      <p>9:00 AM <ndash/> 11:00 AM</p>
-    </li>
-    <li>
-      <title>Tuesday</title>
-      <p> 8:30 AM <ndash/> 9:30 AM</p>
-    </li>
-    <li>
-      <title>Wednesday</title>
-      <p>8:00 AM <ndash/> 9:00 AM (Virtual)</p>
-      <p>9:00 AM <ndash/> 11:00 AM</p>
-    </li>
-    <li>
-      <title>Thursday</title>
-      <p> 8:30 AM <ndash/> 9:30 AM</p>
-    </li>
-    <li>
-      <title>Friday</title>
-      <p>9:00 AM <ndash/> 11:00 AM</p>
-    </li>
-  </dl>
-</p>
+  <p component="F24">
+    <dl>
+      <li>
+	<title>Monday</title>
+	<p>8:50 AM <ndash/> 10:00 AM</p>
+	<p>10:50 AM <ndash/> 11:00 AM</p>
+	<p>1:00 PM <ndash/> 2:10 PM</p>
+      </li>
+      <li>
+	<title>Tuesday</title>
+	<p>8:50 AM <ndash/> 10:00 AM</p>
+	<p>10:50 AM <ndash/> 11:00 AM</p>
+	<p>1:00 PM <ndash/> 2:10 PM</p>
+      </li>
+      <li>
+	<title>Thursday</title>
+	<p>8:50 AM <ndash/> 10:00 AM</p>
+	<p>10:50 AM <ndash/> 11:00 AM</p>
+	<p>1:00 PM <ndash/> 1:20 PM</p>
+      </li>
+      <li>
+	<title>Friday</title>
+	<p>8:50 AM <ndash/> 10:00 AM</p>
+	<p>10:50 AM <ndash/> 11:00 AM</p>
+	<p>1:00 PM <ndash/> 3:00 PM (Virtual)</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

@@ -4,11 +4,8 @@
   <introduction>
     <xi:include href="./me.ptx"/>
   </introduction>
-
-  <subsection xml:id="office_hours">
-    <title>Office Hours</title>
-    <xi:include href="./office_hours.ptx"/>
-  </subsection>
+  
+  <xi:include href="./office_hours.ptx"/>
 
   <subsection>
     <title>Preferred Method of Communication</title>
