@@ -11,7 +11,7 @@
 	      <p> find the domain and range of a function of two real variables.</p>
 	    </li>
 	    <li>
-	      <p> sketch level curves and surfaces for functions of two real variables. (\S 15.1)</p>
+	      <p> sketch level curves and surfaces for functions of two real variables. (<section-mark/> 15.1)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -28,7 +28,7 @@
 	    <p> use the limit laws for functions of two real variables to compute limits and determine whether a function is continuous at a point in the domain.</p>
 	  </li>
 	  <li>
-	    <p>I know the definition of interior point, boundary point, open set, and closed set. (\S 15.2)</p>
+	    <p>I know the definition of interior point, boundary point, open set, and closed set. (<section-mark/> 15.2)</p>
 	  </li>
 	</ul>
       </p>
@@ -45,7 +45,7 @@
 	    <p> compute the partial derivatives for functions of two or more variables.</p>
 	  </li>
 	  <li>
-	    <p> determine whether a function of two variables is differentiable. (\S 15.3)</p>
+	    <p> determine whether a function of two variables is differentiable. (<section-mark/> 15.3)</p>
 	  </li>
 	</ul>
       </p>
@@ -65,7 +65,7 @@
 	      <p> use implicit differentiation on a function of two variables.</p>
 	    </li>
 	    <li>
-	      <p> solve application problems involving these techniques. (\S 15.4)</p>
+	      <p> solve application problems involving these techniques. (<section-mark/> 15.4)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -82,7 +82,7 @@
 	      <p> compute the gradient and directional derivatives of a function of two or more variables.</p>
 	    </li>
 	    <li>
-	      <p> use these techniques to solve application problems. (\S 15.5)</p>
+	      <p> use these techniques to solve application problems. (<section-mark/> 15.5)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -102,7 +102,7 @@
 	      <p> approximate a surface near a point using the tangent plane.</p>
 	    </li>
 	    <li>
-	      <p> work with differentials and solve application problems with these techniques. (\S 15.6)</p>
+	      <p> work with differentials and solve application problems with these techniques. (<section-mark/> 15.6)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -119,7 +119,7 @@
 	      <p> identify critical points of functions of two variables.</p>
 	    </li>
 	    <li>
-	      <p> use the second derivative test to classify critical points and find maximum/minimum values on closed bounded sets. (\S 15.7)</p>
+	      <p> use the second derivative test to classify critical points and find maximum/minimum values on closed bounded sets. (<section-mark/> 15.7)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -133,7 +133,7 @@
 	<p>
 	  <ul>
 	    <li>
-	      <p> use Lagrange Multipliers to find absolute extrema on closed and bounded constraint curves. (\S 15.8)</p>
+	      <p> use Lagrange Multipliers to find absolute extrema on closed and bounded constraint curves. (<section-mark/> 15.8)</p>
 	    </li>
 	  </ul>
 	</p>

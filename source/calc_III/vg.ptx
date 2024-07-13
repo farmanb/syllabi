@@ -14,7 +14,7 @@
 	    <p> perform the following basic operations on vectors: add, subtract, scale, find the magnitude, and find the direction.</p>
 	  </li>
 	  <li>
-	    <p> use vectors to solve application problems. (\S 13.1, 13.2)</p>
+	    <p> use vectors to solve application problems. (<section-mark/> 13.1, 13.2)</p>
 	  </li>
 	</ul>
       </p>
@@ -31,7 +31,7 @@
 	    <p>compute the dot product of two vectors and use this to compute the angle between two vectors.</p>
 	  </li>
 	  <li>
-	    <p>determine whether two vectors are orthogonal, compute the orthogonal projection of one vector onto another, and use these to solve application problems. (\S 13.3)</p>
+	    <p>determine whether two vectors are orthogonal, compute the orthogonal projection of one vector onto another, and use these to solve application problems. (<section-mark/> 13.3)</p>
 	  </li>
 	</ul>
       </p>
@@ -48,7 +48,7 @@
 	    <p> compute the cross product of two given vectors to find a third vector orthogonal to each of the given vectors.</p>
 	  </li>
 	  <li>
-	    <p> use the cross product to solve application problems. (\S 13.4)</p>
+	    <p> use the cross product to solve application problems. (<section-mark/> 13.4)</p>
 	  </li>
 	</ul>
       </p>
@@ -68,7 +68,7 @@
 	      <p> express the line as a vector equation and using parametric equations.</p>
 	    </li>
 	    <li>
-	      <p> solve application problems involving lines in space. (\S 13.5)</p>
+	      <p> solve application problems involving lines in space. (<section-mark/> 13.5)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -85,7 +85,7 @@
 	      <p> find the equation of a plane given either a point and a normal vector in space, or three points in space.</p>
 	    </li>
 	    <li>
-	      <p> express this as a vector equation and as a linear equation in three variables. (\S 13.5)</p>
+	      <p> express this as a vector equation and as a linear equation in three variables. (<section-mark/> 13.5)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -103,7 +103,7 @@
 	    </li>
 	    <li>
 	      <p>
-		place a given equation for a quadratic surface into standard form. (\S 13.6)
+		place a given equation for a quadratic surface into standard form. (<section-mark/> 13.6)
 	      </p>
 	    </li>
 	  </ul>

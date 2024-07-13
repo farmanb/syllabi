@@ -25,8 +25,8 @@
     <target name="2032-F24" format="html" output-dir="syllabi/2032/F24" publication="2032/44879.ptx"/>
 
     <!-- Schedules -->
-    <target name="schedule-1031" format="html" source="standalone-schedule.ptx" publication="1031/40997.ptx"/>
-    <target name="schedule-1032" format="html" source="standalone-schedule.ptx" publication="1032/40999.ptx"/>
-    <target name="schedule-2032" format="html" source="standalone-schedule.ptx" publication="2032/44879.ptx"/>
+    <target name="schedule-1031-40997" format="html" output-dir="schedules/1031/F24" source="standalone-schedule.ptx" publication="1031/40997.ptx"/>
+    <target name="schedule-1032-40999" format="html" output-dir="schedules/1032/F24" source="standalone-schedule.ptx" publication="1032/40999.ptx"/>
+    <target name="schedule-2032-44879" format="html" output-dir="schedules/2032/F24" source="standalone-schedule.ptx" publication="2032/44879.ptx"/>
   </targets>
 </project>

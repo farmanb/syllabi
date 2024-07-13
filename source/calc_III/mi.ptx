@@ -8,10 +8,10 @@
 	<p>
 	  <ul>
 	    <li>
-	      <p> use iterated integrals to compute double integrals over a region in \(\mathbb{R}^2\)</p>
+	      <p> use iterated integrals to compute double integrals over a region in <m>\mathbb{R}^2</m></p>
 	    </li>
 	      <li>
-		<p>identify when to use polar coordinates to simplify these iterated integrals. (\S 16.1, 16.2, 16.3)</p>
+		<p>identify when to use polar coordinates to simplify these iterated integrals. (<section-mark/> 16.1, 16.2, 16.3)</p>
 	      </li>
 	  </ul>
 	</p>
@@ -25,10 +25,10 @@
 	<p>
 	  <ul>
 	    <li>
-	      <p> use iterated integrals to compute triple integrals over a region in \(\mathbb{R}^3\)</p>
+	      <p> use iterated integrals to compute triple integrals over a region in <m>\mathbb{R}^3</m></p>
 	    </li>
 	    <li>
-	      <p> identify when to use cylindrical and spherical coordinates to simplify these iterated integrals. (\S 16.4, 16.5)</p>
+	      <p> identify when to use cylindrical and spherical coordinates to simplify these iterated integrals. (<section-mark/> 16.4, 16.5)</p>
 	    </li>
 	  </ul>
 	</p>
@@ -42,7 +42,7 @@
 	<p>
 	  <ul>
 	    <li>
-	      <p> compute the center of mass of an object (\S 16.6).</p>
+	      <p> compute the center of mass of an object (<section-mark/> 16.6).</p>
 	    </li>
 	  </ul>
 	</p>
@@ -56,7 +56,7 @@
 	<p>
 	  <ul>
 	    <li>
-	      <p> use a change of variables in two and three dimensions to simplify an interal (\S 16.7).</p>
+	      <p> use a change of variables in two and three dimensions to simplify an interal (<section-mark/> 16.7).</p>
 	    </li>
 	  </ul>
 	</p>
