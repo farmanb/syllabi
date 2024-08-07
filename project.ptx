@@ -4,29 +4,12 @@
     <targets>
     <!-- <target name="web" format="html" /> -->
     <!-- <target name="print" format="pdf" /> -->
-
-    <!-- Spring 2024 -->
-    <!-- Syllabi -->
-    <target name="63057" format="html" output-dir="syllabi/1011/S24/63057" publication="1011/63057.ptx"/>
-    <target name="63167" format="html" output-dir="syllabi/1011/S24/63167" publication="1011/63167.ptx"/>
-    <target name="1031-S24" format="html" output-dir="syllabi/1031/S24" publication="1031/63789.ptx"/>
-    <target name="3040-S24" format="html" output-dir="syllabi/3040/S24" publication="3040/64086.ptx"/>
-
-    <!-- Schedules -->
-    <target name="schedule-63057" format="html" output-dir="schedules/1011/S24/63057" source="standalone-schedule.ptx" publication="1011/63057.ptx"/>
-    <target name="schedule-63167" format="html" output-dir="schedules/1011/S24/63167" source="standalone-schedule.ptx" publication="1011/63167.ptx"/>
-    <target name="schedule-1031-S24" format="html" output-dir="schedules/1031/S24" source="standalone-schedule.ptx" publication="1031/63789.ptx"/>
-    <target name="schedule-3040-S24" format="html" output-dir="schedules/3040/S24" source="standalone-schedule.ptx" publication="3040/64086.ptx"/>
-
+    
     <!-- Fall 2024 -->
     <!-- Syllabi -->
-    <target name="1031-F24" format="html" output-dir="syllabi/1031/F24" publication="1031/40997.ptx"/>
-    <target name="1032-F24" format="html" output-dir="syllabi/1032/F24" publication="1032/40999.ptx"/>
-    <target name="2032-F24" format="html" output-dir="syllabi/2032/F24" publication="2032/44879.ptx"/>
-
+    <target name="243-F24" format="html" output-dir="syllabi/243/F24" publication="243/F24.ptx"/>
+    <target name="243-F24-print" format="pdf" output-dir="pdf" publication="243/F24.ptx"/>
     <!-- Schedules -->
-    <target name="schedule-1031-40997" format="html" output-dir="schedules/1031/F24" source="standalone-schedule.ptx" publication="1031/40997.ptx"/>
-    <target name="schedule-1032-40999" format="html" output-dir="schedules/1032/F24" source="standalone-schedule.ptx" publication="1032/40999.ptx"/>
-    <target name="schedule-2032-44879" format="html" output-dir="schedules/2032/F24" source="standalone-schedule.ptx" publication="2032/44879.ptx"/>
+    <target name="schedule-243-F24" format="html" output-dir="schedules/243/F24" source="standalone-schedule.ptx" publication="243/F24.ptx"/>
   </targets>
 </project>

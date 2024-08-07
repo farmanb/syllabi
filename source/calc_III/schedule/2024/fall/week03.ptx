@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
-  <title>September 9 <ndash/> September 13</title>
-  <table>
-    <title>Week 3</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>9/9</cell>
-	<cell>9/10</cell>
-	<cell>9/11</cell>
-	<cell>9/12</cell>
-	<cell>9/13</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Calculus of Vector-Valued Functions (<section-mark/> 14.2)</p>
-	</cell>
-	<cell>
-	  <p>Motion in Space (<section-mark/> 14.3)</p>
-	</cell>
-	<cell></cell>
-	<cell>
-	  <p>Length of Curves (<section-mark/> 14.4)</p>
-	</cell>
-	<cell>
-	  <p>Curvature and Normal Vectors (<section-mark/> 14.5)</p>
-	</cell>
-      </row>
-    </tabular>
-  </table>
+<subsection component="243">
+  <title>September 16 <ndash/> September 20</title>
+  <!-- <table> -->
+  <!--   <title>Week 3</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>9/16</cell>
+      <cell>9/17</cell>
+      <cell>9/18</cell>
+      <cell>9/19</cell>
+      <cell>9/20</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Conic Sections (<section-mark/> 10.5)</p>
+	<p>Cylinders and Quadric Surfaces (<section-mark/> 12.6)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Curves Defined by Parametric Equations (<section-mark/> 10.1)</p>
+	<p>Polar Coordinates (<section-mark/> 10.3)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

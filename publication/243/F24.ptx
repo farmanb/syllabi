@@ -10,6 +10,12 @@
       <!-- AL - Active Learning -->
 
       <!-- Calculus (1031)-->
-       <version include="44879 2032 F24 MBT"/>
+       <version include="243 F24 WAG"/>
     </source>
+
+    <latex print="no" sides="one" font-size="10" draft="no">
+      <page right-alignment="flush" bottom-alignment="ragged">
+	<geometry>margin={1in}</geometry>
+      </page>
+    </latex>
 </publication>

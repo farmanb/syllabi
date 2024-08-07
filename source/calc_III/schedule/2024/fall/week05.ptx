@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
-  <title>September 23 <ndash/> September 27</title>
-  <table>
-    <title>Week 5</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>9/23</cell>
-	<cell>9/24</cell>
-	<cell>9/25</cell>
-	<cell>9/26</cell>
-	<cell>9/27</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Limits and Continuity (<section-mark/> 15.2)</p>
-	</cell>
-	<cell>
-	  <p>Partial Derivatives (<section-mark/> 15.3)</p>
-	</cell>
-	<cell></cell>
-	<cell>
-	  <p>The Chain Rule (<section-mark/> 15.4)</p>
-	</cell>
-	<cell>
-	  <p>Directional Derivatives and the Gradient (<section-mark/> 15.5)</p>
-	</cell>
-      </row>
-    </tabular>
-  </table>
+<subsection component="243">
+  <title>September 30 <ndash/> October 4</title>
+  <!-- <table> -->
+  <!--   <title>Week 5</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>9/30</cell>
+      <cell>10/1</cell>
+      <cell>10/2</cell>
+      <cell>10/3</cell>
+      <cell>10/4</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Functions of Several Variables (<section-mark/> 14.1)</p>
+	<p>Limits and Continuity (<section-mark/> 14.2)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Double Integrals over Rectangles (<section-mark/> 15.1)</p>
+	<p>Iterated Integrals and Fubini’s Theorem (<section-mark/> 15.2)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

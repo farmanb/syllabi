@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
-  <title>August 26 <ndash/> August 30</title>
-  <table>
-    <title>Week 1</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>8/26</cell>
-	<cell>8/27</cell>
-	<cell>8/28</cell>
-	<cell>8/29</cell>
-	<cell>8/30</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Vectors in the Plane (<section-mark/> 13.1)</p>
-	</cell>
-	<cell>
-	  <p>Vectors in Three Dimensions (<section-mark/> 13.2)</p>
-	</cell>
-	<cell>
-	  <p>
-	  </p>
-	</cell>
-	<cell>
-	  <p>Dot Products (<section-mark/> 13.3)</p>
-	</cell>
-	<cell>
-	  <p>Cross Products (<section-mark/> 13.4)</p>
-	</cell>
-      </row>
-    </tabular>
-  </table>
+<subsection component="243">
+  <title>September 2 <ndash/> September 6</title>
+  <!-- <table> -->
+  <!--   <title>Week 1</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>9/2</cell>
+      <cell>9/3</cell>
+      <cell>9/4</cell>
+      <cell>9/5</cell>
+      <cell>9/6</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>
+	</p>
+      </cell>
+      <cell>
+	<p>Three-Dimensional Coordinate Systems (<section-mark/> 12.1)</p>
+	<p>Vectors (<section-mark/> 12.2)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

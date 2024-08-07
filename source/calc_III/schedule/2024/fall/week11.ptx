@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
+<subsection component="243">
   <title>November 4<ndash/> November 8</title>
-  <table>
-    <title>Week 11</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>11/4</cell>
-	<cell>11/5</cell>
-	<cell>11/6</cell>
-	<cell>11/7</cell>
-	<cell>11/8</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Change of Variables in Multiple Integrals (<section-mark/> 16.7)</p>
-	</cell>
-	<cell>
-	  <p>Review</p>
-	</cell>
-	<cell>
-	</cell>
-	<cell>
-	  <p><alert>Reassessment 3</alert></p>
-	</cell>
-	<cell>
-	  <p>Vector Fields (<section-mark/> 17.1)</p>
-	</cell>
-      </row>
-    </tabular>
-  </table>
+  <!-- <table> -->
+  <!--   <title>Week 11</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>11/4</cell>
+      <cell>11/5</cell>
+      <cell>11/6</cell>
+      <cell>11/7</cell>
+      <cell>11/8</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Review</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>
+	  <alert>Exam 3</alert>
+	</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

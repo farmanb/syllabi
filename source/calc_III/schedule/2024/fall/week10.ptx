@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
+<subsection component="243">
   <title>October 28<ndash/> November 1</title>
-  <table>
-    <title>Week 10</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>10/28</cell>
-	<cell>10/29</cell>
-	<cell>10/30</cell>
-	<cell>10/31</cell>
-	<cell>11/1</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Triple Integrals in Cylindrical and Spherical Coordinates (<section-mark/> 16.5)</p>
-	</cell>
-	<cell>
-	  <p>Triple Integrals in Cylindrical and Spherical Coordinates (<section-mark/> 16.5)</p>
-	</cell>
-	<cell></cell>
-	<cell>
-	  <p>Integrals for Mass Calculations (<section-mark/> 16.5)</p>
-	</cell>
-	<cell>
-	  <p>Change of Variables in Multiple Integrals (<section-mark/> 16.7)</p>
-	</cell>
-      </row>
-    </tabular>
-  </table>
+  <!-- <table> -->
+  <!--   <title>Week 10</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>10/28</cell>
+      <cell>10/29</cell>
+      <cell>10/30</cell>
+      <cell>10/31</cell>
+      <cell>11/1</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Vector Functions and Space Curves (<section-mark/> 13.1)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Derivatives &amp; Integrals Of Vector Functions (<section-mark/> 13.2)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

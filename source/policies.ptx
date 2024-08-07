@@ -3,217 +3,62 @@
   <title>Course Policies and Procedures</title>
   <introduction>
     <p>
-      At a minimum, all policies stated in the current ULM student policy manual &amp; organizational handbook should be followed (see <url href="https://www.ulm.edu/studenthandbook/"/>).
+      At a minimum, all policies stated in the current <url href="https://www.latech.edu/documents/2018/09/student-handbook.pdf/" visual="">Louisiana Tech University Student Handbook</url> should be followed.
       Additional class policies follow.
     </p>
   </introduction>
   
   <subsection>
     <title>Textbook</title>
-    <assemblage component="3040">
+    <assemblage component="243">
       <title>Required Textbook</title>
       <p>
-	<pubtitle>
-	  A Transition to Advanced Mathematics, <m>8^\text{th}</m> Edition, ISBN: 9781285463261
-	</pubtitle>
+	<pubtitle>Calculus: Early Transcendentals</pubtitle>, <m>9^\text{th}</m> Edition, by James Stewart, Daniel Clegg, Saleem Watson.
+	<init>ISBN</init>: 1-337-61392-4.
       </p>
     </assemblage>
-    
-    <assemblage component="1007">
-      <title>Required Textbook</title>
-      <p>
-	<pubtitle>
-	  Viewing Life Mathematically Software + eBook, <m>2^\text{nd}</m> Edition, ISBN: 978-1-64277-496-2
-	</pubtitle>
-      </p>
-      <p>
-	You may purchase access through the ULM Bookstore or directly from Hawkes Learning.
-      </p>
-    </assemblage>
-
-    <assemblage component="1011">
-      <title>Required Textbook</title>
-      <p>
-	<pubtitle>
-	  Hawkes Learning System, Precalculus <m>3^\text{rd}</m> Edition Plus Integrated Review courseware, ISBN: 9781642772852.
-	</pubtitle>
-      </p>
-      <p>
-	You may purchase access through the ULM Bookstore or directly from Hawkes Learning.
-      </p>
-    </assemblage>
-    
-    
-    <assemblage component="1031">
-      <title>Required Textbook</title>
-      <p>
-	<pubtitle>
-	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
-	</pubtitle>
-      </p>
-      <p>
-	You may purchase access through the ULM Bookstore or directly from Pearson.
-      </p>
-    </assemblage>
-
-    <assemblage component="1032">
-      <title>Required Textbook</title>
-      <p>
-	<pubtitle>
-	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
-	</pubtitle>
-      </p>
-      <p>
-	You may purchase access through the ULM Bookstore or directly from Pearson.
-      </p>
-    </assemblage>
-
-    <assemblage component="1031">
-      <title>Required Textbook</title>
-      <p>
-	<pubtitle>
-	  Calculus Early Transcendentals, <m>3^\text{rd}</m> edition by Briggs et al, ISBN: 9780138118518
-	</pubtitle>
-      </p>
-      <p>
-	You may purchase access through the ULM Bookstore or directly from Pearson.
-      </p>
-    </assemblage>
-    
   </subsection>
-  
-  <subsection component="1007">
-    <title>Calculator</title>
-    <p>
-      A scientific calculator is required, preferably one with a two-line display such as TI-30X IIS or TI-30X IIB.
-      A cell phone cannot be used as a calculator. 
-    </p>
-  </subsection>
-  
-  <subsection component="1007">
-    <title>Other Materials Needed</title>
-    <p>
-      ULM student ID, paper, writing utensils, lecture notes, Hawkes Learning user name and password.
-    </p>
-  </subsection>
-
-  <!-- <subsection> -->
-  <!-- <title>Statement on COVID-19 Protocols (all classes)</title> -->
-  <!-- <p> -->
-  <!--   Since the beginning of the COVID-19 pandemic, ULM has followed the guidance of the CDC and the ULS System regarding what measures to put in place at various stages of the outbreak. -->
-  <!--   This situation is unchanged in the coming semester, as the CDC guidance on the need for social distancing, mask wearing, and vaccinations will be followed as the outbreak continues to evolve. -->
-  <!--   Therefore, please continue to monitor university e-mails and websites (\url{https://www.ulm.edu/coronavirus/}) for any new updates on the pandemic. -->
-  <!-- </p> -->
-  <!-- </subsection> -->
 
 <subsection>
   <title>Attendance Policy</title>
   <p>
-    Students are expected to adhere to the Class Attendance Policy outlined in the ULM Student Policy Manual.
-  <ul>
-    <li>
-      <p>
-	Class attendance is regarded as an obligation and a privilege, and all students are expected to attend all required classes in which they are enrolled regularly and punctually.
-	Failure to do so may jeopardize a student’s scholastic standing and may lead to suspension from the University.
-	<alert>Students are responsible for the effect absences have on all forms of evaluating course performance.</alert>
-      </p>
-    </li>
-    <li>
-      <p>
-	In accordance with University policy, the instructor will take roll regularly.
-	It is the student’s responsibility to ensure that his/her attendance is recorded.
-      </p>
-    </li>
-    <li>
-      <p>
-	Each student is solely responsible for all class material and assignments whether or not the student is present.
-      </p>
-    </li>
-    <li>
-      <p>
-	A student accumulating absences of 25% of the class meetings regardless of the reasons (excused or unexcused) will be reported to the Dean of Arts, Education, &amp; Sciences which could result in academic withdrawal from the course or a course grade of F.
-	<ul>
-	  <li>
-	    <p>This may be avoided if the course is dropped; however, it is the responsibility of the student to drop the course.</p>
-	  </li>
-	  <li>
-	    <p> Class removal carries with it the penalties of being assigned a grade of W or F, whichever is appropriate, and no credit for the course.</p>
-	  </li>
-	  <li>
-	    <p>Academic withdrawal may negatively impact a student’s full-time status.</p>
-	  </li>
-	</ul>
-      </p>
-    </li>
-    <li>
-      <p>
-	University Excuses:  Any University-related activity requiring an absence from class will count as an absence when determining if a student has met the minimum attendance requirement.
-      </p>
-    </li>
-    <li>
-      <p component="1007">
-	Only students registered in MATH 1007 may attend the lectures.
-      </p>
-      <p component="1011">
-	Only students registered in MATH 1011 may attend the lectures.
-      </p>
-      <p component="1031">
-	Only students registered in MATH 1031 may attend the lectures.
-      </p>
-      <p component="3040">
-	Only students registered in MATH 3040 may attend the lectures.
-      </p>
-    </li>
-    <li>
-      <p>
-	Only students registered in mathematics courses may enter the Math Resource Center (MRC).
-      </p>
-    </li>
-  </ul>
+    Per <url href="https://www.latech.edu/administration/policies/p-2206/" visual="">University Policy 2206</url>:
+  </p>
+  <assemblage>
+    <blockquote>
+    <p>
+      All students are expected to attend classes in which they are enrolled regularly and punctually.
+      Failure to do so may jeopardize a student's scholastic standing and may lead to suspension from the College or University.
+    </p>
+    <p>
+      The student is responsible for making arrangements satisfactory to the instructor regarding absences including prior notification of planned absences, providing documentation if needed, and making up of examinations and work as required.
+      For other emergency absences, the student shall submit excuses for class absences to the appropriate instructor within three class days following the student's return to their respective class.
+    </p>
+    </blockquote>
+  </assemblage>
+
+  <p>
+    As noted above, students are obligated to complete all assigned work promptly, to attend class regularly, and to participate in whatever class discussion may occur.
+    Sleeping, texting, studying for other classes, or any behavior that interferes with the ability of other students to learn is unacceptable.
+    If any of these become an issue, I will ask you to leave class for the day.
+  </p>
+  
+  <p>
+    Your phone should be on silent and put away during class.
+    Texting and browsing social media during class is rude and disrespectful.
+    Please refrain from using your phone during class unless explicitly stated otherwise.
+    If you are caught with a cell phone on your desk, in your lap, or anywhere in view while taking a quiz or exam, it will be treated as a case of academic dishonesty.
+    Smart watches are also prohibited during exams; please put them away during those times.
   </p>
 </subsection>
 
 
 <subsection>
   <title>Late Policy</title>
-  <p component="MBG">
+  <p>
     Late work will not be accepted.
     Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
   </p>
-
-  <p component="MBT">
-    Late work will not be accepted.
-    Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
-  </p>
-
-  <p component="WAG">
-    Late work will not be accepted.
-    Students who cannot submit work due to a University-related activity requiring an absence from class must arrange for work to be submitted <alert>before</alert> leaving.
-  </p>
-
-  <assemblage component="Hawkes">
-    <title>Late Homework Penalty</title>
-    <p>
-      Late homework will be accepted with the following penalties:
-      <ul>
-	<li>
-	  <p>0% penalty for up to 2 day(s) late</p>
-	</li>
-	<li>
-	  <p>25% penalty for up to 3 day(s) late</p>
-	</li>
-	<li>
-	  <p>50% penalty for up to 4 day(s) late</p>
-	</li>
-	<li>
-	  <p>75% penalty for up to 5 day(s) late</p>
-	</li>
-	<li>
-	  <p>100% penalty for more than 5 day(s) late</p>
-	</li>
-      </ul>
-    </p>
-  </assemblage>
 </subsection>
 
 
@@ -230,48 +75,23 @@
     In the event of a missed assessment due to absence, students will be given the opportunity to attempt all missed standards on the next reassessment.
     The date and time of the final reassessment are determined by the registrar and cannot be made up.
   </p>
-  
-  <p component="1007">
-    <ul>
-      <li>
-	<p>
-	  Students cannot make up exams.
-	  The lowest exam grade will be dropped at the end of the semester.
-	  Any further missed exams will be recorded as a grade of 0.
-	</p>
-      </li>
-      <li>
-	<p>
-	  Since homework assignments are available well before deadlines, students cannot make-up missed homework assignments.
-	  The lowest four homework assignments will be dropped at the end of the semester.
-	</p>
-      </li>
-      <li>
-	<p>
-	  Students cannot make-up review quizzes, which are available online well in advance of the due date.
-	  The lowest review quiz will be dropped at the end of the semester
-	</p>
-      </li>
-    </ul>
-  </p>
 </subsection>
 
 <subsection>
   <title>Academic Integrity</title>
   <p>
-    Faculty and students must observe the ULM published policy on Academic Dishonesty.
-    See the ULM Student Handbook <mdash/> <url href="https://www.ulm.edu/studenthandbook/"/>
+    In accordance with the <url href="https://www.latech.edu/current-students/student-advancement-affairs/student-conduct-integrity/" visual="">Academic Honor Code</url>, students pledge the following:
   </p>
-  <p>
-    Any student caught turning in work that is not his/her own will be reported to the School of Sciences.
-    If the student is found to be responsible for such a violation, then a formal report will be made to the Office of Student Services and the student will receive <alert>a grade of F for the course</alert>.
-  </p>
-</subsection>
 
-<subsection>
-  <title>Course Evaluation Policy</title>
+  <blockquote>
+    <p>
+      <q>Being a student of higher standards, I pledge to embody the principles of academic integrity.</q>
+    </p>
+  </blockquote>
+  
   <p>
-    At a minimum, students are expected to complete the online course evaluation using the Online Course Evaluation system <url href="https://www.ulm.edu/evaluations/"/>.
+    Any suspected case of academic dishonesty will be reported.
+    If it is determined that academic misconduct has occurred, the student <alert>will receive a grade of F for the course</alert> and may be dismised from the University.
   </p>
 </subsection>
 

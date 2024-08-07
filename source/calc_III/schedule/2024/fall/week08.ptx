@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2032">
-  <title>October 14<ndash/> October 18</title>
-  <table>
-    <title>Week 8</title>
-    <tabular halign="center">
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <col width="20%"/>
-      <row header="yes" bottom="minor" >
-	<cell>10/14</cell>
-	<cell>10/15</cell>
-	<cell>10/16</cell>
-	<cell>10/17</cell>
-	<cell>10/18</cell>
-      </row>
-      <row>
-	<cell>
-	  <p>Double Integrals over General Regions (<section-mark/> 16.2)</p>
-	</cell>
-	<cell>
-	  <p>Double Integrals over General Regions (<section-mark/> 16.2)</p>
-	</cell>
-	<cell></cell>
-	<cell colspan="2"><p><alert>No Classes (Fall Break)</alert></p></cell>
-      </row>
-    </tabular>
-  </table>
+<subsection component="243">
+  <title>October 21<ndash/> October 25</title>
+  <!-- <table> -->
+  <!--   <title>Week 8</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>10/21</cell>
+      <cell>10/22</cell>
+      <cell>10/23</cell>
+      <cell>10/24</cell>
+      <cell>10/25</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Triple Integrals in Cylindrical Coordinates (<section-mark/> 15.7)</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>Triple Integrals in Spherical Coordinates (<section-mark/> 15.8)</p>
+      </cell>
+      <cell>
+	<p>
+	  <alert>Last day to drop courses or resign with <q>W</q> grades</alert>
+	</p>
+      </cell>
+    </row>
+  </tabular>
 </subsection>

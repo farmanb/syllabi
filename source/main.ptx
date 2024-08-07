@@ -1,31 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
-    <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
+    <html>
+      <favicon/>
+    </html>
+    <brandlogo url="https://latech.edu" source="images/Tech-state-t-RGB-Web-300ppi.png"/>
   </docinfo>
   <article xml:id="syllabus">
     <title>Syllabus</title>
-    <introduction>
-      <p component="1007">
-	Welcome to Math 1007 Contemporary Mathematics.
-      </p>
-
-      <p component="1011">
-	Welcome to Math 1031 College Algebra.
-      </p>
-      
-      <p component="1031">
-	Welcome to Math 1031 Calculus I.
-      </p>
-
-      <p component="3040">
-	Welcome to Math 3040 Introduction to Analysis and Algebra.
-      </p>
-    </introduction>
-    <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
-    <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
-    <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
-    <subtitle component="64086">Math 3040 <mdash/> 64086 <mdash/> Spring 2024</subtitle>
+    
+    <subtitle component="F24">Math 243 <mdash/> 004 <mdash/> Fall 2024</subtitle>
     <xi:include href="./contact.ptx" />
     <xi:include href="./course_info.ptx"/>
     <xi:include href="./evaluation.ptx"/>

@@ -45,33 +45,34 @@
   <subsection component="WAG">
     <title>Exams</title>
     <p>
-      There will be two in-class exams and a cumulative final exam.
+      There will be three in-class exams and a cumulative final exam.
       The exams are scheduled as follows:
     </p>
-    <tabular halign="center">
-      <title>Grading Scale</title>
-      <col width="50%"/>
-      <col width="50%"/>
-      <row header="yes" bottom="minor" >
-	<cell><p>Exam</p></cell>
-	<cell><p>Date</p></cell>
-      </row>
-      <row>
-	<cell><p>Exam 1</p></cell>
-	<cell><p>Tuesday, March 10, 2024</p></cell>
-      </row>
-      <row>
-	<cell><p>Exam 2</p></cell>
-	<cell><p>Thursday, April 25, 2024</p></cell>
-      </row>
-      <row>
-	<cell><p>Final Exam</p></cell>
-	<cell>
-	  <p>Friday, May 3</p>
-	  <p>10:00 AM <ndash/> 11:50 AM</p>
-	</cell>
-      </row>
-    </tabular>
+    <assemblage>
+      <tabular halign="center">
+	<row header="yes" bottom="minor" >
+	  <cell>Exam</cell>
+	  <cell>Date</cell>
+	</row>
+	<row>
+	  <cell>Exam 1</cell>
+	  <cell>Thursday, September 29, 2024</cell>
+	</row>
+	<row>
+	  <cell>Exam 2</cell>
+	  <cell>Thursday, October 17, 2024</cell>
+	</row>
+	<row>
+	  <cell>Exam 3</cell>
+	  <cell>Thursday, November 7, 2024</cell>
+	</row>
+	<row>
+	  <cell>Final Exam</cell>
+	  <cell>TBA</cell>
+	</row>
+      </tabular>
+    </assemblage>
+
     <warning>
       <p>
 	<ul>
@@ -80,7 +81,7 @@
 	  </li>
 	  <li>
 	    <p>
-	      The final exam date and time are scheduled by the registrar.
+	      The final exam date and time are scheduled in advanced.
 	      Failure to appear at the final exam will result in a grade of zero for the exam.
 	    </p>
 	  </li>
@@ -155,204 +156,77 @@
   <subsection component="WAG">
     <title>Weights</title>
     <p>
-      Grades will be calculated with the following weights:
+      Grades will be calculated using the weights below.
     </p>
-    <tabular>
-      <title>Weights</title>
-      <col width="50%"/>
-      <col width="50%"/>
-      <row header="yes" bottom="minor" >
-	<cell><p>Grade Category</p></cell>
-	<cell><p>Weight</p></cell>
-      </row>
-      <row>
-	<cell><p>Exams</p></cell>
-	<cell><p>20%</p></cell>
-      </row>
-      <row>
-	<cell><p>Homework</p></cell>
-	<cell><p>50%</p></cell>
-      </row>
-      <row>
-	<cell><p>Final Exam</p></cell>
-	<cell><p>30%</p></cell>
-      </row>
-    </tabular>
+
+    <assemblage>
+      <tabular>
+	<row header="yes" bottom="minor" >
+	  <cell>Grade Category</cell>
+	  <cell>Weight</cell>
+	</row>
+	<row>
+	  <cell>Homework</cell>
+	  <cell>10%</cell>
+	</row>
+	<row>
+	  <cell>Exam 1</cell>
+	  <cell>20%</cell>
+	</row>
+	<row>
+	  <cell>Exam 2</cell>
+	  <cell>20%</cell>
+	</row>
+	<row>
+	  <cell>Exam 3</cell>
+	  <cell>20%</cell>
+	</row>
+	<row>
+	  <cell>Final Exam</cell>
+	  <cell>30%</cell>
+	</row>
+      </tabular>
+    </assemblage>
   </subsection>
   
   <subsection>
     <title>Grading Scale</title>
     <p component="WAG">
-      Letter grades will be assigned based on the following scale.
-      <table>
-	<title>Grading Scale</title>
-	<tabular halign="center">
-	  <row header="yes" bottom="minor" >
-	    <cell>Average</cell>
-	    <cell>Letter Grade</cell>
-	  </row>
-	  <row>
-	    <cell><m>[90\%,100\%]</m></cell>
-	    <cell>A</cell>
-	  </row>
-	  <row>
-	    <cell><m>[80\%,90\%)</m></cell>
-	    <cell>B</cell>
-	  </row>
-	  <row>
-	    <cell><m>[70\%,80\%)</m></cell>
-	    <cell>C</cell>
-	  </row>
-	  <row>
-	    <cell><m>[60\%,70\%)</m></cell>
-	    <cell>D</cell>
-	  </row>
-	  <row>
-	    <cell><m>[0\%,60\%)</m></cell>
-	    <cell>F</cell>
-	  </row>
-	</tabular>
-      </table>
-    </p>
-    <p component="MBT">
-      Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
+      Letter grades will be assigned based on the scale below.
     </p>
     
-    <!-- <table component="1011"> -->
-    <!--   <title>Grading Scale</title> -->
-    <!--   <tabular halign="center"> -->
-    <!-- 	<col width="20%"/> -->
-    <!-- 	<col width="16%"/> -->
-    <!-- 	<col width="16%"/> -->
-    <!-- 	<col width="16%"/> -->
-    <!-- 	<col width="16%"/> -->
-    <!-- 	<col width="16%"/> -->
-    <!-- 	<row header="yes" bottom="minor"> -->
-    <!-- 	<cell><p></p></cell> -->
-    <!-- 	<cell colspan="5"><p>Homework Grade</p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row header="yes" bottom="major" > -->
-    <!-- 	  <cell right="major"><p>Number of Standards Mastered</p></cell> -->
-    <!-- 	  <cell><p><m>[90\%,100\%]</m></p></cell> -->
-    <!-- 	  <cell><p><m>[80\%,90\%)</m></p></cell> -->
-    <!-- 	  <cell><p><m>[70\%,80\%)</m></p></cell> -->
-    <!-- 	  <cell><p><m>[60\%, 70\%)</m></p></cell> -->
-    <!-- 	  <cell><p><m>[0\%, 60\%)</m></p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row> -->
-    <!-- 	  <cell right="major"><p>18 <ndash/> 20</p></cell> -->
-    <!-- 	  <cell><p>A</p></cell> -->
-    <!-- 	  <cell><p>B</p></cell> -->
-    <!-- 	  <cell><p>B</p></cell> -->
-    <!-- 	  <cell><p>B</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row> -->
-    <!-- 	  <cell right="major"><p>16 <ndash/> 17</p></cell> -->
-    <!-- 	  <cell><p>B</p></cell> -->
-    <!-- 	  <cell><p>B</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row> -->
-    <!-- 	  <cell right="major"><p>14 <ndash/> 15</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	  <cell><p>C</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row> -->
-    <!-- 	  <cell right="major"><p>12 <ndash/> 13</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	  <cell><p>D</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	</row> -->
-    <!-- 	<row> -->
-    <!-- 	  <cell right="major"><p>0 <ndash/> 11</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	  <cell><p>F</p></cell> -->
-    <!-- 	</row> -->
-    <!--   </tabular> -->
-    <!-- </table> -->
-
-    <table component="1011">
-      <title>Grading Scale</title>
+    <assemblage>
       <tabular halign="center">
-	<col width="20%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<row header="yes" bottom="minor">
-	  <cell></cell>
-	  <cell colspan="5">Number of Standards Mastered</cell>
+	<row header="yes" bottom="minor" >
+	  <cell>Average</cell>
+	  <cell>Letter Grade</cell>
 	</row>
-	<row header="yes" bottom="major" >
-	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">15 <ndash/> 16</cell>
-	  <cell right="major">13 <ndash/> 14</cell>
-	  <cell right="major">11 <ndash/> 12</cell>
-	  <cell right="major">9 <ndash/> 10</cell>
-	  <cell right="major">0 <ndash/> 8</cell>
-	</row>
-	<!-- <row header="yes" bottom="major" > -->
-	<!--   <cell right="major">Homework Grade</cell> -->
-	<!--   <cell right="major">18 <ndash/> 20</cell> -->
-	<!--   <cell right="major">16 <ndash/> 17</cell> -->
-	<!--   <cell right="major">14 <ndash/> 15</cell> -->
-	<!--   <cell right="major">12 <ndash/> 13</cell> -->
-	<!--   <cell right="major">0 <ndash/> 11</cell> -->
-	<!-- </row> -->
 	<row>
-	  <cell><p><m>[90\%,100\%]</m></p></cell>
+	  <cell><m>[90\%,100\%]</m></cell>
 	  <cell>A</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell><p><m>[80\%,90\%)</m></p></cell>
+	  <cell><m>[80\%,90\%)</m></cell>
 	  <cell>B</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell><p><m>[70\%,80\%)</m></p></cell>
-	  <cell>B</cell>
+	  <cell><m>[70\%,80\%)</m></cell>
 	  <cell>C</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell><p><m>[60\%,70\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
+	  <cell><m>[60\%,70\%)</m></cell>
 	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
 	</row>
 	<row>
-	  <cell><p><m>[0\%,60\%)</m></p></cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
+	  <cell><m>[0\%,60\%)</m></cell>
 	  <cell>F</cell>
 	</row>
       </tabular>
-    </table>
+    </assemblage>
+
+    <p component="MBT">
+      Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
+    </p>
 
     <table component="1031">
       <title>Grading Scale</title>
