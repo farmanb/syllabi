@@ -45,7 +45,7 @@
   <subsection component="WAG">
     <title>Exams</title>
     <p>
-      There will be three in-class exams and a cumulative final exam.
+      There will be three in-class exams and a cumulative, common final exam.
       The exams are scheduled as follows:
     </p>
     <assemblage>
@@ -68,7 +68,10 @@
 	</row>
 	<row>
 	  <cell>Final Exam</cell>
-	  <cell>TBA</cell>
+	  <cell>
+	    November 13, 2024
+	    <alert>7<init>PM</init> <ndash/> 9<init>PM</init></alert>
+	  </cell>
 	</row>
       </tabular>
     </assemblage>

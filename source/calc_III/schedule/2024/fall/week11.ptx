@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection component="243">
-  <title>November 4<ndash/> November 8</title>
+  <title>November 11<ndash/> November 15</title>
   <!-- <table> -->
-  <!--   <title>Week 11</title> -->
+  <!--   <title>Week 12</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,11 +11,11 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>11/4</cell>
-      <cell>11/5</cell>
-      <cell>11/6</cell>
-      <cell>11/7</cell>
-      <cell>11/8</cell>
+      <cell>11/11</cell>
+      <cell>11/12</cell>
+      <cell>11/13</cell>
+      <cell>11/14</cell>
+      <cell>11/15</cell>
     </row>
     <row>
       <cell>
@@ -25,11 +25,14 @@
 	<p>Review</p>
       </cell>
       <cell>
-	<p></p>
+	<p>
+	  <alert>Final Exam</alert>
+	  <alert>7 <init>PM</init> <ndash/> 8 <init>PM</init></alert>
+	</p>
       </cell>
       <cell>
 	<p>
-	  <alert>Exam 3</alert>
+	  <alert>Last Day of Classes</alert>
 	</p>
       </cell>
       <cell>

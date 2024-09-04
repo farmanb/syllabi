@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection component="243">
-  <title>October 28<ndash/> November 1</title>
+  <title>November 4<ndash/> November 8</title>
   <!-- <table> -->
-  <!--   <title>Week 10</title> -->
+  <!--   <title>Week 11</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,26 +11,26 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>10/28</cell>
-      <cell>10/29</cell>
-      <cell>10/30</cell>
-      <cell>10/31</cell>
-      <cell>11/1</cell>
+      <cell>11/4</cell>
+      <cell>11/5</cell>
+      <cell>11/6</cell>
+      <cell>11/7</cell>
+      <cell>11/8</cell>
     </row>
     <row>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>Vector Functions and Space Curves (<section-mark/> 13.1)</p>
-	<p>Derivatives &amp; Integrals Of Vector Functions (<section-mark/> 13.2)</p>
+	<p>Review</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>Arc Length and Curvature (<section-mark/>13.3)</p>
-	<p>Motion in Space: Velocity and Acceleration (<section-mark/>13.4)</p>
+	<p>
+	  <alert>Exam 3</alert>
+	</p>
       </cell>
       <cell>
 	<p></p>

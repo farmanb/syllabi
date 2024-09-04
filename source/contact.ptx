@@ -18,7 +18,7 @@
   <subsection>
     <title>Official University Email Addresses</title>
     <p>
-      The University provides each student with an email address, <email>username@email.latech.edu</email>, and all official course correspondence will <alert>only</alert> be conducted using official university email addresses.
+      The University provides each student with an email address<!-- , <email>username@email.latech.edu</email>, --> and all official course correspondence will <alert>only</alert> be conducted using official university email addresses.
     </p>
   </subsection>
   <subsection>
@@ -69,7 +69,7 @@
     <assemblage>
       <title>Sample Email</title>
       <p component="F24">
-	Subject: Meeting - Math 1011 - 63057
+	Subject: Meeting - Math 243 - 004
       </p>
 
       <p>Dear <abbr>Dr.</abbr> Farman,</p>

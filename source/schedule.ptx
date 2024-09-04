@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Schedule</title>
-  <subsection>
-    <title>Contact Information</title>
-    <xi:include href="./me.ptx"/>
-  </subsection>
+  <!-- <subsection> -->
+  <!--   <title>Contact Information</title> -->
+  <!--   <xi:include href="./me.ptx"/> -->
+  <!-- </subsection> -->
 
   <!-- <subsection> -->
   <!--   <title>Office Hours</title> -->
   <!--   <xi:include href="./office_hours.ptx"/> -->
   <!-- </subsection> -->
-  <xi:include href="./office_hours.ptx"/>
+  <!-- <xi:include href="./office_hours.ptx"/> -->
 
   <!-- Calculus -->
   <xi:include href="calc_I/schedule/2024/spring/week01.ptx"/>
@@ -78,7 +78,6 @@
   <xi:include href="calc_III/schedule/2024/fall/week09.ptx"/>
   <xi:include href="calc_III/schedule/2024/fall/week10.ptx"/>
   <xi:include href="calc_III/schedule/2024/fall/week11.ptx"/>
-  <xi:include href="calc_III/schedule/2024/fall/week12.ptx"/>
 
   <!-- 3040 -->
   <xi:include href="3040/schedule/2024/spring/week01.ptx"/>
