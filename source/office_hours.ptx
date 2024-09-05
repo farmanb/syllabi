@@ -1,58 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection>
   <title>Office Hours</title>
-  <p component="S24">
-    <dl>
-      <li>
-	<title>Monday</title>
-	<p>8:00 <init>AM</init> <ndash/> 9:00 <init>AM</init> (Virtual)</p>
-	<p>9:00 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-      </li>
-      <li>
-	<title>Tuesday</title>
-	<p> 8:30 <init>AM</init> <ndash/> 9:30 <init>AM</init></p>
-      </li>
-      <li>
-	<title>Wednesday</title>
-	<p>8:00 <init>AM</init> <ndash/> 9:00 <init>AM</init> (Virtual)</p>
-	<p>9:00 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-      </li>
-      <li>
-	<title>Thursday</title>
-	<p> 8:30 <init>AM</init> <ndash/> 9:30 <init>AM</init></p>
-      </li>
-      <li>
-	<title>Friday</title>
-	<p>9:00 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-      </li>
-    </dl>
-  </p>
-
   <p component="F24">
     <dl>
       <li>
-	<title>Monday</title>
-	<p>8:50 <init>AM</init> <ndash/> 10:00 <init>AM</init></p>
-	<p>10:50 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-	<p>1:00 <init>PM</init> <ndash/> 2:10 <init>PM</init></p>
+	<title>Mon/Wed/Fri</title>
+	<p>12:30 <init>PM</init> <ndash/> 3:00 <init>PM</init></p>
       </li>
       <li>
-	<title>Tuesday</title>
-	<p>8:50 <init>AM</init> <ndash/> 10:00 <init>AM</init></p>
-	<p>10:50 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-	<p>1:00 <init>PM</init> <ndash/> 2:10 <init>PM</init></p>
-      </li>
-      <li>
-	<title>Thursday</title>
-	<p>8:50 <init>AM</init> <ndash/> 10:00 <init>AM</init></p>
-	<p>10:50 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-	<p>1:00 <init>PM</init> <ndash/> 1:20 <init>PM</init></p>
-      </li>
-      <li>
-	<title>Friday</title>
-	<p>8:50 <init>AM</init> <ndash/> 10:00 <init>AM</init></p>
-	<p>10:50 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
-	<p>1:00 <init>PM</init> <ndash/> 3:00 <init>PM</init> (Virtual)</p>
+	<title>Tues/Thurs</title>
+	<p> 1:00 <init>PM</init> <ndash/> 2:15 <init>PM</init></p>
       </li>
     </dl>
   </p>
