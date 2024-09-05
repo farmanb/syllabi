@@ -2,7 +2,7 @@
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
-    <brandlogo url="https://ulm.edu" source="ulm_academic_maroon_white.png"/>
+        <brandlogo url="https://latech.edu" source="images/Tech-state-t-RGB-Web-300ppi.png"/>
   </docinfo>
   <article xml:id="standalone-schedule">
     <title>Course Schedule</title>
