@@ -22,6 +22,7 @@
 	<p></p>
       </cell>
       <cell>
+	<p>Iterated Integrals and Fubini’s Theorem (<section-mark/> 15.2)</p>
 	<p>Polar Coordinates (<section-mark/> 10.3)</p>
 	<p>Double Integrals in Polar Coordinates (<section-mark/> 15.3)</p>
       </cell>
@@ -29,7 +30,7 @@
 	<p></p>
       </cell>
       <cell>
-	<p>Applications of Double Integrals (<section-mark/> 15.4)</p>
+	<!-- <p>Applications of Double Integrals (<section-mark/> 15.4)</p> -->
 	<p>Triple Integrals (<section-mark/> 15.6)</p>
       </cell>
       <cell>
