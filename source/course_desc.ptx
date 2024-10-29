@@ -2,6 +2,10 @@
 <subsection xml:id="course_desc" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
 
+  <p component="308">
+    Matrices, systems of linear equatins, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
+  </p>
+    
   <p component="243">
     Vectors, three-dimensional coordinates, double and triple integrals, vector valued functions and motion in space.
   </p>

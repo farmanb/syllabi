@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="243-F24">
-  <title>November 4<ndash/> November 8</title>
+<subsection component="308-W25">
+  <title>December 16 <ndash/> December 20</title>
   <!-- <table> -->
-  <!--   <title>Week 11</title> -->
+  <!--   <title>Week 3</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,29 +11,28 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>11/4</cell>
-      <cell>11/5</cell>
-      <cell>11/6</cell>
-      <cell>11/7</cell>
-      <cell>11/8</cell>
+      <cell>12/16</cell>
+      <cell>12/17</cell>
+      <cell>12/18</cell>
+      <cell>12/19</cell>
+      <cell>12/20</cell>
     </row>
     <row>
       <cell>
-	<p></p>
-      </cell>
-      <cell>
-	<p>Review</p>
+	<p>2.3 Spanning sets and Linear Independence</p>
       </cell>
       <cell>
 	<p></p>
+      </cell>
+      <cell>
+	<p><alert>Review</alert></p>
       </cell>
       <cell>
 	<p>
-	  <alert>Exam 3</alert>
 	</p>
       </cell>
       <cell>
-	<p></p>
+	<p><alert>Exam 1</alert></p>
       </cell>
     </row>
   </tabular>

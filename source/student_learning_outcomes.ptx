@@ -2,6 +2,10 @@
 <subsection xml:id="course_obj" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Learning Outcomes</title>
 
+  <p component="308">
+    The student will demonstrate proficiency the ideas and techniques of Linear Algebra by performing adequately on a series of exams and homework exercises.
+  </p>
+  
   <p component="243">
     The student will become proficient in vectors and the geometry of space, vector functions, and multiple integration.
     This proficiency will be demonstrated by satisfactorily completing a series of exams and homework assignments.

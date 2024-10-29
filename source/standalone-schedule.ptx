@@ -6,13 +6,8 @@
   </docinfo>
   <article xml:id="standalone-schedule">
     <title>Course Schedule</title>
-    <subtitle component="63057">Math 1011 <mdash/> 63057 <mdash/> Spring 2024</subtitle>
-    <subtitle component="63167">Math 1011 <mdash/> 63167 <mdash/> Spring 2024</subtitle>
-    <subtitle component="63789">Math 1031 <mdash/> 63789 <mdash/> Spring 2024</subtitle>
-    <subtitle component="64086">Math 3040 <mdash/> 64086 <mdash/> Spring 2024</subtitle>
-    <subtitle component="40997">Math 1031 <mdash/> 40997 <mdash/> Fall 2024</subtitle>
-    <subtitle component="40999">Math 1032 <mdash/> 40999 <mdash/> Fall 2024</subtitle>
-    <subtitle component="44879">Math 2032 <mdash/> 44879 <mdash/> Fall 2024</subtitle>
+    <subtitle component="243-F24">Math 243 <mdash/> 004 <mdash/> Fall 2024</subtitle>
+    <subtitle component="308-W25">Math 308 <mdash/> 001 <mdash/> Winter 2025</subtitle>
     <xi:include href="./schedule.ptx"/>
   </article>
 </pretext>

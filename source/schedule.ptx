@@ -11,7 +11,7 @@
   <!--   <xi:include href="./office_hours.ptx"/> -->
   <!-- </subsection> -->
   <!-- <xi:include href="./office_hours.ptx"/> -->
-
+  
   <!-- Calculus -->
   <xi:include href="calc_I/schedule/2024/spring/week01.ptx"/>
   <xi:include href="calc_I/schedule/2024/spring/week02.ptx"/>
@@ -79,6 +79,19 @@
   <xi:include href="calc_III/schedule/2024/fall/week10.ptx"/>
   <xi:include href="calc_III/schedule/2024/fall/week11.ptx"/>
 
+  <!-- Linear Algebra -->
+  <xi:include href="linear_alg/schedule/2025/winter/week01.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week02.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week03.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week04.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week05.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week06.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week07.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week08.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week09.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week10.ptx"/>
+  <xi:include href="linear_alg/schedule/2025/winter/week11.ptx"/>
+  
   <!-- 3040 -->
   <xi:include href="3040/schedule/2024/spring/week01.ptx"/>
   <xi:include href="3040/schedule/2024/spring/week02.ptx"/>

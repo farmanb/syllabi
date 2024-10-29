@@ -48,7 +48,33 @@
       There will be three in-class exams and a cumulative, common final exam.
       The exams are scheduled as follows:
     </p>
-    <assemblage>
+    <assemblage component="W25">
+      <tabular halign="center">
+	<row header="yes" bottom="minor" >
+	  <cell>Exam</cell>
+	  <cell>Date</cell>
+	</row>
+	<row>
+	  <cell>Exam 1</cell>
+	  <cell>TBA</cell>
+	</row>
+	<row>
+	  <cell>Exam 2</cell>
+	  <cell>TBA</cell>
+	</row>
+	<row>
+	  <cell>Exam 3</cell>
+	  <cell>TBA</cell>
+	</row>
+	<row>
+	  <cell>Final Exam</cell>
+	  <cell>
+	    TBA
+	  </cell>
+	</row>
+      </tabular>
+    </assemblage>
+    <assemblage component="F24">
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
 	  <cell>Exam</cell>

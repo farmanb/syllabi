@@ -4,7 +4,15 @@
   <targets>
     <!-- <target name="web" format="html" /> -->
     <!-- <target name="print" format="pdf" /> -->
-        <!-- Fall 2024 -->
+
+    <!-- Winter 2025 -->
+    <!-- Syllabus -->
+    <target name="308-W25" format="html" output-dir="syllabi/308/W25" publication="308/W25.ptx" deploy-dir="syllabi/308/W25"/>
+    <target name="308-W25-print" format="pdf" output-dir="pdf" publication="308/W25.ptx"/>
+    <!-- Schedule -->
+    <target name="schedule-308-W25" format="html" output-dir="schedules/308/W25" source="standalone-schedule.ptx" publication="308/W25.ptx" deploy-dir="schedules/308/W25"/>
+    
+    <!-- Fall 2024 -->
     <!-- Syllabi -->
     <target name="243-F24" format="html" output-dir="syllabi/243/F24" publication="243/F24.ptx" deploy-dir="syllabi/243/F24"/>
     <target name="243-F24-print" format="pdf" output-dir="pdf" publication="243/F24.ptx"/>
@@ -12,3 +20,64 @@
     <target name="schedule-243-F24" format="html" output-dir="schedules/243/F24" source="standalone-schedule.ptx" publication="243/F24.ptx" deploy-dir="schedules/243/F24"/>
   </targets>
 </project>
+
+
+<!-- SAMPLE MANIFEST illustrating all options. Defaults are given (mostly).              -->
+
+<!-- <project
+        ptx-version="2"
+        source="source"
+        publication="publication"
+        output-dir="output"
+        site="site"
+        stage="output/stage"
+        xsl="xsl"
+        asy-method="server"
+     >
+       <targets>
+          <target
+            name="web"
+            format="html"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="web"
+            deploy-dir="interactive"
+            xsl="custom-html.xsl"
+            asy-method="server"
+          />
+          <target
+            name="web-zipped"
+            format="html"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="web"
+            compression="zip"
+            asy-method="server"
+          />
+          <target
+            name="runestone"
+            format="html"
+            platform="runestone"
+          />
+          <target
+            name="print"
+            format="pdf"
+            source="main.ptx"
+            publication="publication.ptx"
+            output-dir="print"
+            output-filename="mybook.pdf"
+            latex-engine="pdflatex"
+            deploy-dir="pdf"
+          />
+          <target
+            name="latex"
+            format="latex"
+          />
+          <target
+            name="braille"
+            format="braille"
+            braille-mode="emboss"
+          />
+        </targets>
+</project>
+-->

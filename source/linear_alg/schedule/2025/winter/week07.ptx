@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="243-F24">
-  <title>November 4<ndash/> November 8</title>
+<subsection component="308-W25">
+  <title>January 27<ndash/> January 31</title>
   <!-- <table> -->
-  <!--   <title>Week 11</title> -->
+  <!--   <title>Week 7</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,26 +11,24 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>11/4</cell>
-      <cell>11/5</cell>
-      <cell>11/6</cell>
-      <cell>11/7</cell>
-      <cell>11/8</cell>
+      <cell>1/27</cell>
+      <cell>1/28</cell>
+      <cell>1/29</cell>
+      <cell>1/30</cell>
+      <cell>1/31</cell>
     </row>
     <row>
       <cell>
-	<p></p>
-      </cell>
-      <cell>
-	<p>Review</p>
+	<p>4.1 Introduction to Eigenvalues and Eigenvectors</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>
-	  <alert>Exam 3</alert>
-	</p>
+	<p>4.2 Determinants</p>
+      </cell>
+      <cell>
+	<p></p>
       </cell>
       <cell>
 	<p></p>

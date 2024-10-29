@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="243-F24">
-  <title>November 4<ndash/> November 8</title>
+<subsection component="308-W25">
+  <title>January 20 <ndash/> January 24</title>
   <!-- <table> -->
-  <!--   <title>Week 11</title> -->
+  <!--   <title>Week 6</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,29 +11,28 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>11/4</cell>
-      <cell>11/5</cell>
-      <cell>11/6</cell>
-      <cell>11/7</cell>
-      <cell>11/8</cell>
+      <cell>1/20</cell>
+      <cell>1/21</cell>
+      <cell>1/22</cell>
+      <cell>1/23</cell>
+      <cell>1/24</cell>
     </row>
     <row>
       <cell>
-	<p></p>
-      </cell>
-      <cell>
-	<p>Review</p>
-      </cell>
-      <cell>
-	<p></p>
-      </cell>
-      <cell>
-	<p>
-	  <alert>Exam 3</alert>
-	</p>
+	<p><alert>Martin Luther King Jr. Day</alert></p>
+	<p><alert>No Classes</alert></p>
       </cell>
       <cell>
 	<p></p>
+      </cell>
+      <cell>
+	<p><alert>Review</alert></p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p><alert>Exam 2</alert></p>
       </cell>
     </row>
   </tabular>

@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_top" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
+  <p component="308">
+    Topics include
+    <ul>
+      <li>
+	<p>
+	  The Geometry and Algebra of <m>\mathbb{R}^n</m>
+	</p>
+      </li>
+      <li>
+	<p>
+	  Systems of Linear Equations
+	</p>
+      </li>
+      <li>
+	<p>
+	  Spanning sets and Linear Independence
+	</p>
+      </li>
+      <li>
+	<p>
+	  Matrix Operations
+	</p>
+      </li>
+      <li>
+	<p>
+	  Matrix Algebra
+	</p>
+      </li>
+      <li>
+	<p>
+	  The LU Factorization
+	</p>
+      </li>
+      <li>
+	<p>
+	  Subspaces, Basis, Dimension, and Rank
+	</p>
+      </li>
+      <li>
+	<p>
+	  Linear Transformations
+	</p>
+      </li>
+      <li>
+	<p>
+	  Eigenvalues and Eigenvectors
+	</p>
+      </li>
+      <li>
+	<p>
+	  Determinants
+	</p>
+      </li>
+    </ul>
+  </p>
   <p component="243">
     Topics include
     <ul>

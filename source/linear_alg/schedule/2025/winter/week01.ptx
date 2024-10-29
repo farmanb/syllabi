@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="243-F24">
-  <title>November 4<ndash/> November 8</title>
+<subsection component="308-W25">
+  <title>December 2 <ndash/> December 6</title>
   <!-- <table> -->
-  <!--   <title>Week 11</title> -->
+  <!--   <title>Week 1</title> -->
   <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
@@ -11,29 +11,28 @@
     <col width="20%"/>
     <col width="20%"/>
     <row header="yes" bottom="minor" >
-      <cell>11/4</cell>
-      <cell>11/5</cell>
-      <cell>11/6</cell>
-      <cell>11/7</cell>
-      <cell>11/8</cell>
+      <cell>12/2</cell>
+      <cell>12/3</cell>
+      <cell>12/4</cell>
+      <cell>12/5</cell>
+      <cell>12/6</cell>
     </row>
     <row>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>Review</p>
+	<p></p>
+      </cell>
+      <cell>
+	<!-- <p>First Day of Classes</p> -->
+	<p>1.1 The Geometry and Algebra Vectors</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>
-	  <alert>Exam 3</alert>
-	</p>
-      </cell>
-      <cell>
-	<p></p>
+	<p>1.2 Length and Angle: The Dot Product</p>
       </cell>
     </row>
   </tabular>
