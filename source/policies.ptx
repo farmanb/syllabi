@@ -13,7 +13,7 @@
     <assemblage component="308">
       <title>Required Textbook</title>
       <p>
-	<pubtitle>Linear Algebra: A Modern Introduction</pubtitle>, <m>4\^\text{th}</m> Edition,  by David Poole.
+	<pubtitle>Linear Algebra: A Modern Introduction</pubtitle>, <m>4^\text{th}</m> Edition, by David Poole.
 	<init>ISBN</init>: 978-1285463247.
       </p>
     </assemblage>
