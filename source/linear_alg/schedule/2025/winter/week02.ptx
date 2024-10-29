@@ -19,14 +19,8 @@
     </row>
     <row>
       <cell>
-	<p>1.3 Lines and Planes</p>
-      </cell>
-      <cell>
-	<p>
-	</p>
-      </cell>
-      <cell>
 	<p>2.1 Introduction to Systems of Linear Equations</p>
+	<p>2.2 Direct Methods for Solving Linear Systems</p>
       </cell>
       <cell>
 	<p>
@@ -34,6 +28,14 @@
       </cell>
       <cell>
 	<p>2.2 Direct Methods for Solving Linear Systems</p>
+	<p>Computations with Sage</p>
+      </cell>
+      <cell>
+	<p>
+	</p>
+      </cell>
+      <cell>
+	<p>2.3 Spanning Sets and Linear Independence</p>
       </cell>
     </row>
   </tabular>
