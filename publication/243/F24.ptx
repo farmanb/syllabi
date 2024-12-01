@@ -18,4 +18,6 @@
 	<geometry>margin={1in}</geometry>
       </page>
     </latex>
+
+    <html favicon="simple"/>
 </publication>

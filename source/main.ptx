@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
-    <html>
-      <favicon/>
-    </html>
+    <!-- <html> -->
+    <!--   <favicon/> -->
+    <!-- </html> -->
     <brandlogo url="https://latech.edu" source="images/Tech-state-t-RGB-Web-300ppi.png"/>
   </docinfo>
   <article xml:id="syllabus">

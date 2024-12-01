@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
-    <!-- directories are relative to the main source PreTeXt file -->
-    <source>
-      <directories external="../assets" generated="../generated-assets"/>
+  <!-- directories are relative to the main source PreTeXt file -->
+  <source>
+    <directories external="../assets" generated="../generated-assets"/>
 
-      <!-- Version flags -->
-      <!-- MBG - Mastery Based Grading -->
-      <!-- MBT - Mastery Based Testing -->
-      <!-- AL - Active Learning -->
+    <!-- Version flags -->
+    <!-- MBG - Mastery Based Grading -->
+    <!-- MBT - Mastery Based Testing -->
+    <!-- AL - Active Learning -->
+    <version include="308 W25 WAG 308-W25"/>
+  </source>
+  
+  <latex print="no" sides="one" font-size="10" draft="no">
+    <page right-alignment="flush" bottom-alignment="ragged">
+      <geometry>margin={1in}</geometry>
+    </page>
+  </latex>
 
-      <!-- Calculus 3-->
-      <version include="308 W25 WAG 308-W25"/>
-    </source>
-    
-    <latex print="no" sides="one" font-size="10" draft="no">
-      <page right-alignment="flush" bottom-alignment="ragged">
-	<geometry>margin={1in}</geometry>
-      </page>
-    </latex>
+  <html favicon="simple">
+  </html>
 </publication>
