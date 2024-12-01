@@ -12,12 +12,12 @@
     </p>
     
     <p component="MBG">
-      Mastering a standard is a two-step process, consisting of mastering a Lesson and a written Assessment.
-      Each week we will cover around 2 Lessons in Hawkes, followed by a written Assessment that is due by the end of the week.
+      Mastering a standard is a two-step process.
+      You will need to earn a score of <alert>M</alert> on the Homework that goes with the standard <em>and</em> an in-class Assessment.
     </p>
     
     <p component="MBT">
-      A description of each standard can be found in <xref ref="standards"/>.
+      A description of each standard can be found in the <xref ref="standards" text="title"/> section.
     </p>
   </introduction>
 
@@ -25,19 +25,20 @@
     <title>Assessments</title>
     <p>
       This course will have in-class, written assessments.
-      You may not use the text, your notes, or any devices except a scientific calculator.
+      You may not use the text, your notes, or any devices.
     </p>
     <p>
       Each assessment will contain problems corresponding to one or more standards.
-      The standards are graded <em>independently</em> and, unlike quizzes or tests that you may have had in the past, there is no partial credit.
-      To master a standard, you must master <alert>all</alert> of the problems that go with the standard.
+      The standards are scored <em>independently</em> using the scale in the <xref ref="MBT-scoring" text="title"/> section.
+      To master a standard, you must earn a score of <alert>M</alert> on <alert>all</alert> of the problems that go with the standard.
+      <!-- <alert>Note:</alert> There is no partial credit in this grading system. -->
     </p>
 
     <assemblage>
       <title>Reassessment</title>
       <p>
 	There are scheduled Reassessment days for this course (see the <xref ref="schedule" text="title"/>) where you will be given problems for <em>every</em> standard that you have <em>not yet mastered</em>.
-	You may attempt as many as time allows.
+	You may attempt as many standards as time allows.
       </p>
     </assemblage>
   </subsection>
@@ -133,15 +134,15 @@
       <title>Reassessment</title>
       <p>
 	You may resubmit <alert>one</alert> homework set that you have not mastered each week.
-	When reassessing, you only need to correct and resubmit the exercises with mistakes.
+	You only need to correct and resubmit the exercises with mistakes.
       </p>
     </assemblage>
   </subsection>
   
-  <subsection component="MBT">
+  <subsection component="MBT" xml:id="MBT-scoring">
     <title>Scoring</title>
     <p>
-      Written work in this course will be scored on the following scale.
+      All written work in this course will be scored on the following scale.
     </p>
     <assemblage>
       <title>Scale</title>
@@ -225,7 +226,7 @@
       Letter grades will be assigned based on the scale below.
     </p>
     
-    <assemblage>
+    <assemblage component="WAG">
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
 	  <cell>Average</cell>
@@ -258,6 +259,36 @@
       Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
     </p>
 
+    <table component="308">
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<row header="yes" bottom="major">
+	  <cell>Letter Grade</cell>
+	  <cell>Number of Standards Mastered</cell>
+	</row>
+	<row>
+	  <cell right="minor">A</cell>
+	  <cell>17<ndash/>18</cell>
+	</row>
+	<row>
+	  <cell right="minor">B</cell>
+	  <cell>15<ndash/>17</cell>
+	</row>
+	<row>
+	  <cell right="minor">C</cell>
+	  <cell>13<ndash/>14</cell>
+	</row>
+	<row>
+	  <cell right="minor">D</cell>
+	  <cell>11<ndash/>12</cell>
+	</row>
+	<row>
+	  <cell right="minor">F</cell>
+	  <cell>0-10</cell>
+	</row>
+	</tabular>
+    </table>
+    
     <table component="1031">
       <title>Grading Scale</title>
       <tabular halign="center">
@@ -385,35 +416,6 @@
 	</row>
       </tabular>
     </table>
-
-    <table component="2032">
-      <title>Grading Scale</title>
-      <tabular halign="center">
-	<row header="yes" bottom="minor" >
-	  <cell>Grade</cell>
-	  <cell>Number of Standards Mastered</cell>
-	</row>
-	<row>
-	  <cell>A</cell>
-	  <cell>30 <ndash/> 33</cell>
-	</row>
-	<row>
-	  <cell>B</cell>
-	  <cell>27 <ndash/> 39</cell>
-	</row>
-	<row>
-	  <cell>C</cell>
-	  <cell>24 <ndash/> 26</cell>
-	</row>
-	<row>
-	  <cell>D</cell>
-	  <cell>20 <ndash/> 23</cell>
-	</row>
-	<row>
-	  <cell>F</cell>
-	  <cell>0 <ndash/> 19</cell>
-	</row>
-      </tabular>
-    </table>
+    
   </subsection>
 </section>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308-W25">
+<subsection component="W25" xml:id="week-10">
   <title>February 17<ndash/> February 21</title>
   <!-- <table> -->
   <!--   <title>Week 11</title> -->
@@ -19,19 +19,28 @@
     </row>
     <row>
       <cell>
-	<p>5.4 Orthogonal Diagonalization of Symmetric Matrices</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-gram-schmidt.html" visual="">6.4 Finding orthogonal bases</url>
+	</p>
+	<p component="Poole">5.4 Orthogonal Diagonalization of Symmetric Matrices</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>6.1 Vector Spaces and Subspaces</p>
+	<p component="ULA">
+	  <alert>Review</alert>
+	</p>
+	<p component="Poole">6.1 Vector Spaces and Subspaces</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>6.2 Linear Independence, Basis, and Dimension</p>
+	<p component="ULA">
+	  <alert>Reassessment 3</alert>
+	</p>
+	<p component="Poole">6.2 Linear Independence, Basis, and Dimension</p>
       </cell>
     </row>
   </tabular>

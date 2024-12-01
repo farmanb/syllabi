@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308-W25">
+<subsection component="W25" xml:id="week-01">
   <title>December 2 <ndash/> December 6</title>
-  <!-- <table> -->
-  <!--   <title>Week 1</title> -->
-  <!-- </table> -->
   <tabular halign="center">
     <col width="20%"/>
     <col width="20%"/>
@@ -26,15 +23,21 @@
       </cell>
       <cell>
 	<!-- <p>First Day of Classes</p> -->
-	<p>1.1 The Geometry and Algebra of Vectors</p>
-	<p>1.2 Length and Angle: The Dot Product</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-expect.html" visual="">1.1 What we can expect</url>
+	</p>
+	<p component="Poole">1.1 The Geometry and Algebra of Vectors</p>
+	<p component="Poole">1.2 Length and Angle: The Dot Product</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>1.2 Length and Angle: The Dot Product</p>
-	<p>1.3 Lines and Planes</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-finding-solutions.html" visual="">1.2 Finding solutions to linear systems</url>
+	</p>
+	<p component="Poole">1.2 Length and Angle: The Dot Product</p>
+	<p component="Poole">1.3 Lines and Planes</p>
       </cell>
     </row>
   </tabular>

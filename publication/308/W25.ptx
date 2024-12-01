@@ -8,7 +8,9 @@
     <!-- MBG - Mastery Based Grading -->
     <!-- MBT - Mastery Based Testing -->
     <!-- AL - Active Learning -->
-    <version include="308 W25 WAG 308-W25"/>
+    <!-- Poole - Gregory Poole LA book -->
+    <!-- ULA - David Austin -->
+    <version include="308 W25 MBG MBT ULA"/>
   </source>
   
   <latex print="no" sides="one" font-size="10" draft="no">

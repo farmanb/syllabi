@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308-W25">
-  <title>January 13 <ndash/> October 17</title>
+<subsection component="W25" xml:id="week-05">
+  <title>January 13 <ndash/> January 17</title>
   <!-- <table> -->
   <!--   <title>Week 5</title> -->
   <!-- </table> -->
@@ -19,19 +19,28 @@
     </row>
     <row>
       <cell>
-	<p>3.4 The LU Factorization</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-matrix-inverse.html" visual="">3.1 Invertibility</url>
+	</p>
+	<p component="Poole">3.4 The LU Factorization</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>3.5 Subspaces, Basis, Dimension, and Rank</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-bases.html" visual="">3.2 Bases and coordinate systems</url>
+	</p>
+	<p component="Poole">3.5 Subspaces, Basis, Dimension, and Rank</p>
       </cell>
       <cell>
 	<p></p>
       </cell>
       <cell>
-	<p>3.6 Introduction to Linear Transformations</p>
+	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-determinants.html" visual="">Section 3.4 Determinants</url>
+	</p>
+	<p component="Poole">3.6 Introduction to Linear Transformations</p>
       </cell>
     </row>
   </tabular>

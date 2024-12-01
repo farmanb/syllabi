@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="2002">
+<subsection component="308">
   <title>Vectors and Matrices (VM)</title>
   <subsubsection>
     <title>Vectors and Matrices 1</title>
@@ -19,7 +19,7 @@
 	</ul>
       </p>
       <p>
-	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-vectors-lin-combs.html">2.1.4</url> Exercises 1, 2, 3, 5.
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-vectors-lin-combs.html" visual="">2.1.4</url> Exercises 1, 2, 3, 5.
       </p>
     </assemblage>
   </subsubsection>
@@ -50,7 +50,7 @@
 	</ul>
       </p>
       <p>
-	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-matrices-lin-combs.html">2.2.6</url> Exercises 1 - 6.
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-matrices-lin-combs.html" visual="">2.2.6</url> Exercises 1 - 6.
       </p>
     </assemblage>
   </subsubsection>
@@ -73,7 +73,7 @@
 	</ul>
       </p>
       <p>
-	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-span.html">2.3.4</url> Exercises 1 - 5, 10.
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-span.html" visual="">2.3.4</url> Exercises 1 - 5, 10.
       </p>
     </assemblage>
   </subsubsection>
@@ -90,7 +90,7 @@
 	</ul>
       </p>
       <p>
-	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-dep.html">2.4.5</url> Exercises 1, 2, 5.
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-dep.html" visual="">2.4.5</url> Exercises 1, 2, 5.
       </p>
     </assemblage>
   </subsubsection>
@@ -116,7 +116,7 @@
 	</ul>
       </p>
       <p>
-	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-trans.html">2.5.4</url> Exercises 1 - 4.
+	<alert>Homework:</alert> Section <url href="https://davidaustinm.github.io/ula/sec-linear-trans.html" visual="">2.5.4</url> Exercises 1 - 4.
       </p>
     </assemblage>
   </subsubsection>
