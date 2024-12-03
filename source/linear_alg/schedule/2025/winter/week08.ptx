@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="W25">
+<subsection component="W25" xml:id="week-08">
   <title>February 3<ndash/> February 7</title>
   <!-- <table> -->
   <!--   <title>Week 8</title> -->

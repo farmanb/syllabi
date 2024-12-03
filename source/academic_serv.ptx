@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="academic_serv" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="academic_services" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Academic Services</title>
-  <subsection>
+  <subsection xml:id="BARC">
     <title>BARC</title>
 
     <p>
@@ -11,7 +11,7 @@
     </p>
   </subsection>
 
-  <subsection>
+  <subsection xml:id="math_club">
     <title>Math Club</title>
     <p>
       The math club hosts free, weekly <term>Math &amp; Music</term> tutoring sessions.

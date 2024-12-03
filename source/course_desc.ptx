@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="course_desc" xmlns:xi="http://www.w3.org/2001/XInclude">
+<subsection xml:id="course_description" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
 
   <p component="308">
-    Matrices, systems of linear equatins, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
+    Matrices, systems of linear equations, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
   </p>
     
   <p component="243">

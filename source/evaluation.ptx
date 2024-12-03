@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Evaluation</title>
-  <introduction>
+  <introduction xml:id="evaluation_introduction">
     <p component="MBT">
       This course will use <alert>Mastery Based Grading</alert>.
       The content is broken into <em>standards</em> that you are expected to master by the end of the course.
@@ -21,7 +21,7 @@
     </p>
   </introduction>
 
-  <subsection component="MBT">
+  <subsection component="MBT" xml:id="assessments">
     <title>Assessments</title>
     <p>
       This course will have in-class, written assessments.
@@ -29,9 +29,8 @@
     </p>
     <p>
       Each assessment will contain problems corresponding to one or more standards.
-      The standards are scored <em>independently</em> using the scale in the <xref ref="MBT-scoring" text="title"/> section.
+      The standards are scored <em>independently</em> using the scale in the <xref ref="scoring" text="title"/> section.
       To master a standard, you must earn a score of <alert>M</alert> on <alert>all</alert> of the problems that go with the standard.
-      <!-- <alert>Note:</alert> There is no partial credit in this grading system. -->
     </p>
 
     <assemblage>
@@ -43,7 +42,7 @@
     </assemblage>
   </subsection>
 
-  <subsection component="WAG">
+  <subsection component="WAG" xml:id="exams">
     <title>Exams</title>
     <p>
       There will be three in-class exams and a cumulative, common final exam.
@@ -121,7 +120,7 @@
     </warning>
   </subsection>
   
-  <subsection>
+  <subsection xml:id="homework">
     <title>Homework</title>
     <p>
       Homework will be assigned regularly.
@@ -139,7 +138,7 @@
     </assemblage>
   </subsection>
   
-  <subsection component="MBT" xml:id="MBT-scoring">
+  <subsection component="MBT" xml:id="scoring">
     <title>Scoring</title>
     <p>
       All written work in this course will be scored on the following scale.
@@ -172,19 +171,7 @@
     </assemblage>
   </subsection>
 
-  <!-- <subsection component="MBT" xml:id="subsec-reassessment"> -->
-  <!--   <title>Reassessment</title> -->
-  <!--   <assemblage component="MBG"> -->
-  <!--     <title>Homework</title> -->
-  <!--     <p> -->
-  <!-- 	You may resubmit <alert>one</alert> homework set that you have not mastered each week. -->
-  <!-- 	When reassessing, you only need to correct and resubmit the exercises with mistakes. -->
-  <!--     </p> -->
-  <!--   </assemblage> -->
-
-  <!-- </subsection> -->
-
-  <subsection component="WAG">
+  <subsection component="WAG" xml:id="weights">
     <title>Weights</title>
     <p>
       Grades will be calculated using the weights below.
@@ -220,7 +207,7 @@
     </assemblage>
   </subsection>
   
-  <subsection>
+  <subsection xml:id="grading_scale">
     <title>Grading Scale</title>
     <p component="WAG">
       Letter grades will be assigned based on the scale below.

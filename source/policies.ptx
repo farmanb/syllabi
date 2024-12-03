@@ -8,11 +8,19 @@
     </p>
   </introduction>
   
-  <subsection>
+  <subsection xml:id="textbook">
     <title>Textbook</title>
     <assemblage component="308">
       <title>Required Textbook</title>
-      <p>
+      <p component="ULA">
+	The required text for this course is
+	<pubtitle>Understanding Linear Algebra</pubtitle> by David Austin.
+	This textbook is freely available in 
+	<url href="https://understandinglinearalgebra.org/ula.html" visual="understandinglinearalgebra.org/ula.html"><init>HTML</init> format</url>
+	and in <url href="https://scholarworks.gvsu.edu/books/26/"><init>PDF</init> format.</url>
+	If you so desire, you may also obtain a <url href="https://www.619wreath.com/ula.html">low-cost print version.</url>
+      </p>
+      <p component="Poole">
 	<pubtitle>Linear Algebra: A Modern Introduction</pubtitle>, <m>4^\text{th}</m> Edition, by David Poole.
 	<init>ISBN</init>: 978-1285463247.
       </p>
@@ -26,7 +34,7 @@
     </assemblage>
   </subsection>
 
-<subsection>
+<subsection xml:id="attendance_policy">
   <title>Attendance Policy</title>
   <p>
     Per <url href="https://www.latech.edu/administration/policies/p-2206/" visual="">University Policy 2206</url>:
@@ -61,7 +69,7 @@
 </subsection>
 
 
-<subsection>
+<subsection xml:id="late_policy">
   <title>Late Policy</title>
   <p>
     Late work will not be accepted.
@@ -71,7 +79,7 @@
 
 
 
-<subsection>
+<subsection xml:id="make-up_policy">
   <title>Make-up Policy</title>
   <p component="WAG">
     In the event of one missed exam due to absence, the Final Exam can be used to replace the missing exam.
@@ -85,7 +93,7 @@
   </p>
 </subsection>
 
-<subsection>
+<subsection xml:id="academic_honor_code">
   <title>Academic Honor Code</title>
   <p>
     In accordance with the <url href="https://www.latech.edu/current-students/student-advancement-affairs/student-conduct-integrity/" visual="">Academic Honor Code</url>, students pledge the following:

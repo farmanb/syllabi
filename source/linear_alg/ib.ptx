@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308">
+<subsection component="308" xml:id="invertibility_and_bases">
   <title>Invertibility and Bases (IB)</title>
-  <subsubsection>
+  <subsubsection xml:id="invertibility_and_bases_1">
     <title>Invertibility and Bases 1</title>
     <assemblage>
       <title>I can..</title>
@@ -21,7 +21,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="invertibility_and_bases_2">
     <title>Invertibility and Bases 2</title>
     <assemblage>
       <title>I can..</title>
@@ -41,7 +41,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="invertibility_and_bases_3">
     <title>Invertibility and Bases 3</title>
     <assemblage>
       <title>I can..</title>
@@ -61,7 +61,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="invertibility_and_bases_4">
     <title>Invertibility and Bases 4</title>
     <assemblage>
       <title>I can..</title>

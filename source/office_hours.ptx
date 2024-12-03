@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection>
+<subsection xml:id="office_hours">
   <title>Office Hours</title>
   <p component="W25">
     <dl>
       <li>
-	<title>TBA</title>
-	<p>
-	</p>
+	<title>Mon/Wed/Fri</title>
+	<p>12:30 <init>PM</init> <ndash/> 3:00 <init>PM</init></p>
+      </li>
+      <li>
+	<title>Tues/Thurs</title>
+	<p> 1:00 <init>PM</init> <ndash/> 2:15 <init>PM</init></p>
       </li>
     </dl>
   </p>

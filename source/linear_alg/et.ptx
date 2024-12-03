@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308">
+<subsection component="308" xml:id="eigentheory">
   <title>Eigentheory (ET)</title>
-  <subsubsection>
+  <subsubsection xml:id="eigentheory_1">
     <title>Eigentheory 1</title>
     <assemblage>
       <title>I can..</title>
@@ -21,7 +21,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="eigentheory_2">
     <title>Eigentheory 2</title>
     <assemblage>
       <title>I can..</title>
@@ -44,7 +44,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="eigentheory_3">
     <title>Eigentheory 3</title>
     <assemblage>
       <title>I can..</title>

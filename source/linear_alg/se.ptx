@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308">
+<subsection component="308" xml:id="systems_of_equations">
   <title>Systems of Equations (SE)</title>
-  <subsubsection>
+  <subsubsection xml:id="systems_of_equations_1">
     <title>Systems of Equations 1</title>
     <assemblage>
       <title>I can..</title>
@@ -24,7 +24,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="systems_of_equations_2">
     <title>Systems of Equations 2</title>
     <assemblage>
       <title>I can..</title>

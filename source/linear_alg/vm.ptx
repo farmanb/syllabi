@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection component="308">
+<subsection component="308" xml:id="vectors-and_matrices">
   <title>Vectors and Matrices (VM)</title>
-  <subsubsection>
+  <subsubsection xml:id="vectors-and_matrices_1">
     <title>Vectors and Matrices 1</title>
     <assemblage>
       <title>I can..</title>
@@ -24,7 +24,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="vectors-and_matrices_2">
     <title>Vectors and Matrices 2</title>
     <assemblage>
       <title>I can..</title>
@@ -55,7 +55,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="vectors-and_matrices_3">
     <title>Vectors and Matrices 3</title>
     <assemblage>
       <title>I can..</title>
@@ -78,7 +78,7 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection>
+  <subsubsection xml:id="vectors-and_matrices_4">
     <title>Vectors and Matrices 4</title>
     <assemblage>
       <title>I can..</title>
@@ -95,7 +95,7 @@
     </assemblage>
   </subsubsection>
   
-  <subsubsection>
+  <subsubsection xml:id="vectors-and_matrices_5">
     <title>Vectors and Matrices 5</title>
     <assemblage>
       <title>I can..</title>

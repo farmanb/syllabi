@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
+  <common>
+    <!-- Level at which are html files generated (chapter/section/etc): -->
+    <chunking level="1" />
+    <!-- Depth for table of contents.  0 means no TOC -->
+    <tableofcontents level="2" />
+  </common>
+
   <!-- directories are relative to the main source PreTeXt file -->
   <source>
     <directories external="../assets" generated="../generated-assets"/>

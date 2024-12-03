@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="student_serv" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="student_services" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Services</title>
 
-  <subsection>
-    <title>Disability Accommodations</title>
+  <subsection xml:id="accommodations_for_students_with_disabilities">
+    <title>Accommodations for Students with Disabilities</title>
     <p>
-      Students needing testing or classroom accommodations based on a disability are encouraged to discuss those needs with me as soon as possible.
-      Please see <url href="https://www.latech.edu/ods" visual="">Office of Disability Services</url> website for more information.
+      Students needing testing or classroom accommodations based on a disability must be registered with the Louisiana Tech University Office of Testing &amp; Disability Services. Students are encouraged to discuss those needs with the instructor as soon as possible. If you do not have a current accommodation memo, visit the <url href="https://www.latech.edu/current-students/student-advancement-affairs/disability-services/">Office of Testing &amp; Disability Services for assistance.</url>
     </p>
   </subsection>
 
-  <subsection>
-    <title>Counseling</title>
+  <subsection xml:id="counseling_services">
+    <title>Counseling Services</title>
     <p>
-      Information, contact numbers, and sites for Louisiana Tech Counseling Services are located on their <url href="https://www.latech.edu/current-students/student-advancement-affairs/counseling-services/" visual="">website</url>.
+      Students have access confidential counseling services at no additional cost.
+      Visit the <url href="https://www.latech.edu/current-students/student-advancement affairs/counseling-services/">Louisiana Tech Counseling Services</url> website to learn more. 
     </p>
   </subsection>
 
-  <subsection>
-    <title>Title IX and Discrimination Concerns</title>
+  <subsection xml:id="non-discrimination">
+    <title>Non-Discrimination</title>
     <p>
-      Louisiana Tech University adheres to the equal opportunity provisions of federal and civil rights laws, and does not discriminate on the basis of race, color, national origin, religion, age, sex, sexual orientation, marital status, or disability.
+      Louisiana Tech University is committed to the principle of providing the opportunity for learning and development of all qualified citizens without regard to race, color, national origin, religion, age, sex, sexual orientation, marital status, or disability.
+      Persons with concerns may contact the Louisiana Tech Director of Title IX Compliance:
     </p>
     
     <assemblage>
       <p>
       <dl>
 	<li>
-	  <title>Director of Title IX Compliance, President’s Office</title>
+	  <title/>
+	  <!-- <title>Director of Title IX Compliance, President’s Office</title> -->
 	  <p>Mortissa D. Harvey</p>
 	</li>
 	<li>
@@ -40,19 +42,24 @@
  	</li>
 	<li>
 	  <title>Email</title>
-	  <p><email>mharvey@latech.</email></p>
+	  <p><url href="mailto:mharvey@latech.edu"><email>mharvey@latech.edu</email></url></p>
 	</li>
       </dl>
     </p>
     </assemblage>
 
+    <p>
+      Section 504 is a federal law designed to protect the rights of individuals with disabilities in programs and activities that receive Federal financial assistance from the U.S. Department of Education.
+      Persons with concerns may contact the Section 504 Coordinator:
+    </p>
 
     <assemblage>
 
       <p>
 	<dl>
 	  <li>
-	    <title>Section 504 Coordinator</title>
+	    <title/>
+	    <!-- <title>Section 504 Coordinator</title> -->
 	    <p>Annie Jantz</p>
 	  </li>
 	  <li>
@@ -65,33 +72,32 @@
 	  </li>
  	  <li>
 	    <title>Email:</title>
-	    <p>ajantz@latech.edu</p>
+	    <p><url href="mailto:ajantz@latech.edu"><email>ajantz@latech.edu</email></url></p>
 	  </li>
 	</dl>
       </p>
     </assemblage>
   </subsection>
 
-  <!-- <subsection> -->
-  <!--   <title>Title IX</title> -->
-  <!--   <assemblage> -->
-  <!--     <title>Title IX</title> -->
-  <!--     <p> -->
-  <!-- 	<em>Title IX of the Education Amendments of 1972 prohibits sex discrimination against any participant in an educational program or activity that receives federal funds, including federal loans and grants. -->
-  <!-- 	Furthermore, Title IX prohibits sex discrimination to include sexual misconduct, sexual violence, sexual harassment and retaliation. -->
-  <!-- 	If you encounter unlawful sexual harassment or gender-based discrimination, please contact the Title IX coordinate at 318.257.5911 or to file a complaint, visit <url href="https://titleix.latech.edu"/>. </em> -->
-  <!--     </p> -->
-  <!--   </assemblage> -->
-
-  <!--   <p>Remember that all services are offered free to students, and all are strictly confidential. </p> -->
-  <!-- </subsection> -->
-
-  <subsection>
-    <title>Emergency Notification System</title>
+  <subsection xml:id="emergency_notification_system">
+    <title>Emergency Notification System (<init>ENS</init>)</title>
     <p>
-      Emergency Notification System: All Louisiana Tech students are strongly encouraged to enroll and update their contact information in the Emergency Notification System.
-      It takes just a few seconds to ensure you’re able to receive important text and voice alerts in the event of a campus emergency.
-      For more information visit the <url href="https://www.latech.edu/current-students/student-advancement affairs/university-police/emergency-notification-system/" visual="">Emergency Notification System</url> page.
+      All Louisiana Tech students are strongly encouraged to enroll and update their contact information in the <url href="https://www.latech.edu/current-students/student-advancement affairs/university-police/emergency-notification-system/">Emergency Notification System.</url> It takes just a few seconds to ensure you’re able to receive important text and voice alerts in the event of a campus emergency.
     </p>
   </subsection>
+
+  <subsection xml:id="withdraw_deadline">
+    <title>Drop with a <q>W</q> date</title>
+    <p>
+      The latest date a student may drop a course (or resign his/her entire schedule) with a <q>W</q> grade for Winter 2024 <ndash/> 25 is Friday, February 7, 2025.
+    </p>
+  </subsection>
+
+  <subsection xml:id="canvas_and_workday_help">
+    <title>Canvas and Workday Help</title>
+    <p>
+      Direct questions/problems to the <url href="https://helpdesk.latech.edu/">Computing Center Help Desk</url> (<url href="helpdesk@latech.edu"><email>helpdesk@latech.edu</email></url> or 318-257-5300).
+    </p>
+  </subsection>
+
 </section>

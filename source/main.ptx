@@ -9,8 +9,8 @@
   <article xml:id="syllabus">
     <title>Syllabus</title>
 
-    <subtitle component="W25">Math 308 <mdash/> 001 <mdash/> Winter 2025</subtitle>
-    <subtitle component="F24">Math 243 <mdash/> 004 <mdash/> Fall 2024</subtitle>
+    <subtitle component="W25">Math 308 <ndash/> 001 <ndash/> Winter 2025</subtitle>
+    <subtitle component="F24">Math 243 <ndash/> 004 <ndash/> Fall 2024</subtitle>
     <xi:include href="./contact.ptx" />
     <xi:include href="./course_info.ptx"/>
     <xi:include href="./evaluation.ptx"/>
