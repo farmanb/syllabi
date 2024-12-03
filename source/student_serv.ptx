@@ -42,7 +42,7 @@
  	</li>
 	<li>
 	  <title>Email</title>
-	  <p><url href="mailto:mharvey@latech.edu"><email>mharvey@latech.edu</email></url></p>
+	  <p><email>mharvey@latech.edu</email></p>
 	</li>
       </dl>
     </p>
@@ -72,7 +72,7 @@
 	  </li>
  	  <li>
 	    <title>Email:</title>
-	    <p><url href="mailto:ajantz@latech.edu"><email>ajantz@latech.edu</email></url></p>
+	    <p><email>ajantz@latech.edu</email></p>
 	  </li>
 	</dl>
       </p>
@@ -96,7 +96,7 @@
   <subsection xml:id="canvas_and_workday_help">
     <title>Canvas and Workday Help</title>
     <p>
-      Direct questions/problems to the <url href="https://helpdesk.latech.edu/">Computing Center Help Desk</url> (<url href="helpdesk@latech.edu"><email>helpdesk@latech.edu</email></url> or 318-257-5300).
+      Direct questions/problems to the <url href="https://helpdesk.latech.edu/">Computing Center Help Desk</url> (<email>helpdesk@latech.edu</email> or 318-257-5300).
     </p>
   </subsection>
 
