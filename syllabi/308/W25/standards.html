@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Standards</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta xmlns:pf="https://prefigure.org" property="og:type" content="article">
+<link rel="icon" type="image/png" sizes="32x32" href="external/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="external/favicon/favicon-16x16.png">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><link href="_static/pretext/css/pretext_search.css" rel="stylesheet" type="text/css">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link xmlns:pf="https://prefigure.org" rel="preconnect" href="https://fonts.googleapis.com">
+<link xmlns:pf="https://prefigure.org" rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link xmlns:pf="https://prefigure.org" href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link xmlns:pf="https://prefigure.org" href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link xmlns:pf="https://prefigure.org" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link xmlns:pf="https://prefigure.org" href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link xmlns:pf="https://prefigure.org" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+<link href="_static/pretext/css/pretext.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/shell_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/banner_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/toc_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/style_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/colors_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/setcolors.css" rel="stylesheet" type="text/css">
+<style>
+</style>
+</head>
+<body class="pretext article ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
+<a xmlns:pf="https://prefigure.org" id="logo-link" class="logo-link" target="_blank" href="https://latech.edu"><img src="external/images/Tech-state-t-RGB-Web-300ppi.png" alt="Logo image"></a><div class="title-container">
+<h1 class="heading"><a href="syllabus.html"><span class="title">Syllabus:</span> <span class="subtitle">Math 308 – 001 – Winter 2025</span></a></h1>
+<p class="byline"></p>
+</div>
+</div></header><nav xmlns:pf="https://prefigure.org" id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"></span><span class="treebuttons"><a class="previous-button button" href="evaluation.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="syllabus.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="policies.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span></nav><div xmlns:pf="https://prefigure.org" id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div xmlns:pf="https://prefigure.org" id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2"><ul class="structural contains-active toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="contact_information.html" class="internal"><span class="codenumber">1</span> <span class="title">Contact Information</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="contact_information.html#office_hours" class="internal"><span class="codenumber">1.1</span> <span class="title">Office Hours</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="contact_information.html#preferred_method_of_communication" class="internal"><span class="codenumber">1.2</span> <span class="title">Preferred Method of Communication</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="contact_information.html#official_university_email_addresses" class="internal"><span class="codenumber">1.3</span> <span class="title">Official University Email Addresses</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="contact_information.html#email_etiquette" class="internal"><span class="codenumber">1.4</span> <span class="title">Email Etiquette</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="course_information.html" class="internal"><span class="codenumber">2</span> <span class="title">Course Information</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="course_information.html#course_description" class="internal"><span class="codenumber">2.1</span> <span class="title">Course Description</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="course_information.html#course_prerequisites" class="internal"><span class="codenumber">2.2</span> <span class="title">Course Prerequisites</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="course_information.html#student_learning_outcomes" class="internal"><span class="codenumber">2.3</span> <span class="title">Student Learning Outcomes</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="course_information.html#course_topics" class="internal"><span class="codenumber">2.4</span> <span class="title">Course Topics</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="course_information.html#instructional_methods" class="internal"><span class="codenumber">2.5</span> <span class="title">Instructional Methods</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="evaluation.html" class="internal"><span class="codenumber">3</span> <span class="title">Evaluation</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="evaluation.html#assessments" class="internal"><span class="codenumber">3.1</span> <span class="title">Assessments</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="evaluation.html#homework" class="internal"><span class="codenumber">3.2</span> <span class="title">Homework</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="evaluation.html#scoring" class="internal"><span class="codenumber">3.3</span> <span class="title">Scoring</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="evaluation.html#grading_scale" class="internal"><span class="codenumber">3.4</span> <span class="title">Grading Scale</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section active">
+<div class="toc-title-box"><a href="standards.html" class="internal"><span class="codenumber">4</span> <span class="title">Standards</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="standards.html#systems_of_equations" class="internal"><span class="codenumber">4.1</span> <span class="title">Systems of Equations (SE)</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#systems_of_equations_1" class="internal"><span class="codenumber">4.1.1</span> <span class="title">Systems of Equations 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#systems_of_equations_2" class="internal"><span class="codenumber">4.1.2</span> <span class="title">Systems of Equations 2</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="standards.html#vectors-and_matrices" class="internal"><span class="codenumber">4.2</span> <span class="title">Vectors and Matrices (VM)</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#vectors-and_matrices_1" class="internal"><span class="codenumber">4.2.1</span> <span class="title">Vectors and Matrices 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#vectors-and_matrices_2" class="internal"><span class="codenumber">4.2.2</span> <span class="title">Vectors and Matrices 2</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#vectors-and_matrices_3" class="internal"><span class="codenumber">4.2.3</span> <span class="title">Vectors and Matrices 3</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#vectors-and_matrices_4" class="internal"><span class="codenumber">4.2.4</span> <span class="title">Vectors and Matrices 4</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#vectors-and_matrices_5" class="internal"><span class="codenumber">4.2.5</span> <span class="title">Vectors and Matrices 5</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="standards.html#invertibility_and_bases" class="internal"><span class="codenumber">4.3</span> <span class="title">Invertibility and Bases (IB)</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#invertibility_and_bases_1" class="internal"><span class="codenumber">4.3.1</span> <span class="title">Invertibility and Bases 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#invertibility_and_bases_2" class="internal"><span class="codenumber">4.3.2</span> <span class="title">Invertibility and Bases 2</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#invertibility_and_bases_3" class="internal"><span class="codenumber">4.3.3</span> <span class="title">Invertibility and Bases 3</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#invertibility_and_bases_4" class="internal"><span class="codenumber">4.3.4</span> <span class="title">Invertibility and Bases 4</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="standards.html#eigentheory" class="internal"><span class="codenumber">4.4</span> <span class="title">Eigentheory (ET)</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#eigentheory_1" class="internal"><span class="codenumber">4.4.1</span> <span class="title">Eigentheory 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#eigentheory_2" class="internal"><span class="codenumber">4.4.2</span> <span class="title">Eigentheory 2</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#eigentheory_3" class="internal"><span class="codenumber">4.4.3</span> <span class="title">Eigentheory 3</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="standards.html#orthogonality" class="internal"><span class="codenumber">4.5</span> <span class="title">Orthogonality (OR)</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#orthogonality_1" class="internal"><span class="codenumber">4.5.1</span> <span class="title">Orthogonality 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#orthogonality_2" class="internal"><span class="codenumber">4.5.2</span> <span class="title">Orthogonality 2</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#orthogonality_3" class="internal"><span class="codenumber">4.5.3</span> <span class="title">Orthogonality 3</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="standards.html#orthogonality_4" class="internal"><span class="codenumber">4.5.4</span> <span class="title">Orthogonality 4</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="policies.html" class="internal"><span class="codenumber">5</span> <span class="title">Course Policies and Procedures</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies.html#textbook" class="internal"><span class="codenumber">5.1</span> <span class="title">Textbook</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies.html#attendance_policy" class="internal"><span class="codenumber">5.2</span> <span class="title">Attendance Policy</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies.html#late_policy" class="internal"><span class="codenumber">5.3</span> <span class="title">Late Policy</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies.html#make-up_policy" class="internal"><span class="codenumber">5.4</span> <span class="title">Make-up Policy</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="policies.html#academic_honor_code" class="internal"><span class="codenumber">5.5</span> <span class="title">Academic Honor Code</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="academic_services.html" class="internal"><span class="codenumber">6</span> <span class="title">Academic Services</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="academic_services.html#BARC" class="internal"><span class="codenumber">6.1</span> <span class="title">BARC</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="academic_services.html#math_club" class="internal"><span class="codenumber">6.2</span> <span class="title">Math Club</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="student_services.html" class="internal"><span class="codenumber">7</span> <span class="title">Student Services</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#accommodations_for_students_with_disabilities" class="internal"><span class="codenumber">7.1</span> <span class="title">Accommodations for Students with Disabilities</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#counseling_services" class="internal"><span class="codenumber">7.2</span> <span class="title">Counseling Services</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#non-discrimination" class="internal"><span class="codenumber">7.3</span> <span class="title">Non-Discrimination</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#emergency_notification_system" class="internal"><span class="codenumber">7.4</span> <span class="title">Emergency Notification System (<abbr class="initialism">ENS</abbr>)</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#withdraw_deadline" class="internal"><span class="codenumber">7.5</span> <span class="title">Drop with a “W” date</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="student_services.html#canvas_and_workday_help" class="internal"><span class="codenumber">7.6</span> <span class="title">Canvas and Workday Help</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="schedule.html" class="internal"><span class="codenumber">8</span> <span class="title">Schedule</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-01" class="internal"><span class="codenumber">8.1</span> <span class="title">December 2 – December 6</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-02" class="internal"><span class="codenumber">8.2</span> <span class="title">December 9 – December 13</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-03" class="internal"><span class="codenumber">8.3</span> <span class="title">December 16 – December 20</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-04" class="internal"><span class="codenumber">8.4</span> <span class="title">January 6 – January 10</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-05" class="internal"><span class="codenumber">8.5</span> <span class="title">January 13 – January 17</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-06" class="internal"><span class="codenumber">8.6</span> <span class="title">January 20 – January 24</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-07" class="internal"><span class="codenumber">8.7</span> <span class="title">January 27– January 31</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-08" class="internal"><span class="codenumber">8.8</span> <span class="title">February 3– February 7</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-09" class="internal"><span class="codenumber">8.9</span> <span class="title">February 10 – February 14</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-10" class="internal"><span class="codenumber">8.10</span> <span class="title">February 17– February 21</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="schedule.html#week-11" class="internal"><span class="codenumber">8.11</span> <span class="title">February 24– February 28</span></a></div></li>
+</ul>
+</li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section xmlns:pf="https://prefigure.org" class="section" id="standards"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space"> </span><span class="codenumber">4</span><span class="space"> </span><span class="title">Standards</span>
+</h2>
+<section class="subsection" id="systems_of_equations"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">4.1</span><span class="space"> </span><span class="title">Systems of Equations (SE)</span>
+</h3>
+<section class="subsubsection" id="systems_of_equations_1"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.1.1</span><span class="space"> </span><span class="title">Systems of Equations 1</span>
+</h4>
+<article class="assemblage assemblage-like" id="systems_of_equations_1-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="systems_of_equations_1-2-2"><ul class="disc" id="systems_of_equations_1-2-2-1">
+<li id="systems_of_equations_1-2-2-1-1"><div class="para" id="systems_of_equations_1-2-2-1-1-1">identify whether or not a matrix is in Reduced Row Echelon Form,</div></li>
+<li id="systems_of_equations_1-2-2-1-2"><div class="para" id="systems_of_equations_1-2-2-1-2-1">use Gaussian Elimination to put a matrix into Reduced Row Echelon Form,</div></li>
+<li id="systems_of_equations_1-2-2-1-3"><div class="para" id="systems_of_equations_1-2-2-1-3-1">use the Reduced Row Echelon Form of an augmented matrix to describe the solution space to a system of linear equations using appropriate notation.</div></li>
+</ul></div>
+<div class="para" id="systems_of_equations_1-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-finding-solutions.html" target="_blank">1.2.5</a>, Exercises 1 - 2.</div></article></section><section class="subsubsection" id="systems_of_equations_2"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.1.2</span><span class="space"> </span><span class="title">Systems of Equations 2</span>
+</h4>
+<article class="assemblage assemblage-like" id="systems_of_equations_2-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="systems_of_equations_2-2-2"><ul class="disc" id="systems_of_equations_2-2-2-1"><li id="systems_of_equations_2-2-2-1-1">
+<div class="para" id="systems_of_equations_2-2-2-1-1-1">use Pivot Positions to determine whether a linear system is consistent,</div>
+<div class="para" id="systems_of_equations_2-2-2-1-1-2">determine whether the solution to a consistent linear system is unique.</div>
+</li></ul></div>
+<div class="para" id="systems_of_equations_2-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-pivots.html" target="_blank">1.4.4</a>, Exercises 1 - 3.</div></article></section></section><section class="subsection" id="vectors-and_matrices"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">4.2</span><span class="space"> </span><span class="title">Vectors and Matrices (VM)</span>
+</h3>
+<section class="subsubsection" id="vectors-and_matrices_1"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.2.1</span><span class="space"> </span><span class="title">Vectors and Matrices 1</span>
+</h4>
+<article class="assemblage assemblage-like" id="vectors-and_matrices_1-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="vectors-and_matrices_1-2-2"><ul class="disc" id="vectors-and_matrices_1-2-2-1">
+<li id="vectors-and_matrices_1-2-2-1-1"><div class="para" id="vectors-and_matrices_1-2-2-1-1-1">add vectors,</div></li>
+<li id="vectors-and_matrices_1-2-2-1-2"><div class="para" id="vectors-and_matrices_1-2-2-1-2-1">scale vectors by a real number,</div></li>
+<li id="vectors-and_matrices_1-2-2-1-3"><div class="para" id="vectors-and_matrices_1-2-2-1-3-1">determine whether a vector can be expressed as a linear combination of a set of given vectors.</div></li>
+</ul></div>
+<div class="para" id="vectors-and_matrices_1-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-vectors-lin-combs.html" target="_blank">2.1.4</a> Exercises 1, 2, 3, 5.</div></article></section><section class="subsubsection" id="vectors-and_matrices_2"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.2.2</span><span class="space"> </span><span class="title">Vectors and Matrices 2</span>
+</h4>
+<article class="assemblage assemblage-like" id="vectors-and_matrices_2-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="vectors-and_matrices_2-2-2"><ul class="disc" id="vectors-and_matrices_2-2-2-1">
+<li id="vectors-and_matrices_2-2-2-1-1"><div class="para" id="vectors-and_matrices_2-2-2-1-1-1">add matrices,</div></li>
+<li id="vectors-and_matrices_2-2-2-1-2"><div class="para" id="vectors-and_matrices_2-2-2-1-2-1">scale matrices by a real number,</div></li>
+<li id="vectors-and_matrices_2-2-2-1-3"><div class="para" id="vectors-and_matrices_2-2-2-1-3-1">perform matrix-vector multiplication,</div></li>
+<li id="vectors-and_matrices_2-2-2-1-4"><div class="para" id="vectors-and_matrices_2-2-2-1-4-1">perform matrix-matrix multiplication,</div></li>
+<li id="vectors-and_matrices_2-2-2-1-5"><div class="para" id="vectors-and_matrices_2-2-2-1-5-1">translate a system of equations into a matrix equation of the form <span class="process-math">\(A\mathbf{x} = \mathbf{b}\text{.}\)</span>
+</div></li>
+</ul></div>
+<div class="para" id="vectors-and_matrices_2-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-matrices-lin-combs.html" target="_blank">2.2.6</a> Exercises 1 - 6.</div></article></section><section class="subsubsection" id="vectors-and_matrices_3"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.2.3</span><span class="space"> </span><span class="title">Vectors and Matrices 3</span>
+</h4>
+<article class="assemblage assemblage-like" id="vectors-and_matrices_3-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="vectors-and_matrices_3-2-2"><ul class="disc" id="vectors-and_matrices_3-2-2-1">
+<li id="vectors-and_matrices_3-2-2-1-1"><div class="para" id="vectors-and_matrices_3-2-2-1-1-1">determine whether a vector is in the span of a given set of vectors,</div></li>
+<li id="vectors-and_matrices_3-2-2-1-2"><div class="para" id="vectors-and_matrices_3-2-2-1-2-1">describe the span of a set of vectors as a set,</div></li>
+<li id="vectors-and_matrices_3-2-2-1-3"><div class="para" id="vectors-and_matrices_3-2-2-1-3-1">use the span to determine whether a linear system is consistent.</div></li>
+</ul></div>
+<div class="para" id="vectors-and_matrices_3-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-span.html" target="_blank">2.3.4</a> Exercises 1 - 5, 10.</div></article></section><section class="subsubsection" id="vectors-and_matrices_4"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.2.4</span><span class="space"> </span><span class="title">Vectors and Matrices 4</span>
+</h4>
+<article class="assemblage assemblage-like" id="vectors-and_matrices_4-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="vectors-and_matrices_4-2-2"><ul class="disc" id="vectors-and_matrices_4-2-2-1"><li id="vectors-and_matrices_4-2-2-1-1"><div class="para" id="vectors-and_matrices_4-2-2-1-1-1">I can determine whether a given set of vectors is linearly independent.</div></li></ul></div>
+<div class="para" id="vectors-and_matrices_4-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-linear-dep.html" target="_blank">2.4.5</a> Exercises 1, 2, 5.</div></article></section><section class="subsubsection" id="vectors-and_matrices_5"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.2.5</span><span class="space"> </span><span class="title">Vectors and Matrices 5</span>
+</h4>
+<article class="assemblage assemblage-like" id="vectors-and_matrices_5-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="vectors-and_matrices_5-2-2"><ul class="disc" id="vectors-and_matrices_5-2-2-1">
+<li id="vectors-and_matrices_5-2-2-1-1"><div class="para" id="vectors-and_matrices_5-2-2-1-1-1">define a matrix transformation,</div></li>
+<li id="vectors-and_matrices_5-2-2-1-2"><div class="para" id="vectors-and_matrices_5-2-2-1-2-1">find the domain and range of a matrix transformation,</div></li>
+<li id="vectors-and_matrices_5-2-2-1-3"><div class="para" id="vectors-and_matrices_5-2-2-1-3-1">compose matrix transformations,</div></li>
+<li id="vectors-and_matrices_5-2-2-1-4"><div class="para" id="vectors-and_matrices_5-2-2-1-4-1">determine whether a given function is a matrix transformation.</div></li>
+</ul></div>
+<div class="para" id="vectors-and_matrices_5-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-linear-trans.html" target="_blank">2.5.4</a> Exercises 1 - 4.</div></article></section></section><section class="subsection" id="invertibility_and_bases"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">4.3</span><span class="space"> </span><span class="title">Invertibility and Bases (IB)</span>
+</h3>
+<section class="subsubsection" id="invertibility_and_bases_1"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.3.1</span><span class="space"> </span><span class="title">Invertibility and Bases 1</span>
+</h4>
+<article class="assemblage assemblage-like" id="invertibility_and_bases_1-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="invertibility_and_bases_1-2-2"><ul class="disc" id="invertibility_and_bases_1-2-2-1">
+<li id="invertibility_and_bases_1-2-2-1-1"><div class="para" id="invertibility_and_bases_1-2-2-1-1-1">use Gaussian Elimination to determine whether a matrix is invertible,</div></li>
+<li id="invertibility_and_bases_1-2-2-1-2"><div class="para" id="invertibility_and_bases_1-2-2-1-2-1">find the inverse of an invertible matrix.</div></li>
+</ul></div>
+<div class="para" id="invertibility_and_bases_1-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-matrix-inverse.html" target="_blank">3.1.5</a> Exercises 1 - 4.</div></article></section><section class="subsubsection" id="invertibility_and_bases_2"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.3.2</span><span class="space"> </span><span class="title">Invertibility and Bases 2</span>
+</h4>
+<article class="assemblage assemblage-like" id="invertibility_and_bases_2-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="invertibility_and_bases_2-2-2"><ul class="disc" id="invertibility_and_bases_2-2-2-1">
+<li id="invertibility_and_bases_2-2-2-1-1"><div class="para" id="invertibility_and_bases_2-2-2-1-1-1">find a basis for a space,</div></li>
+<li id="invertibility_and_bases_2-2-2-1-2"><div class="para" id="invertibility_and_bases_2-2-2-1-2-1">translate between the coordinate systems for different bases.</div></li>
+</ul></div>
+<div class="para" id="invertibility_and_bases_2-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-bases.html" target="_blank">3.2.5</a> Exercises 1 - 4.</div></article></section><section class="subsubsection" id="invertibility_and_bases_3"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.3.3</span><span class="space"> </span><span class="title">Invertibility and Bases 3</span>
+</h4>
+<article class="assemblage assemblage-like" id="invertibility_and_bases_3-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="invertibility_and_bases_3-2-2"><ul class="disc" id="invertibility_and_bases_3-2-2-1">
+<li id="invertibility_and_bases_3-2-2-1-1"><div class="para" id="invertibility_and_bases_3-2-2-1-1-1">compute the determinant of a given matrix,</div></li>
+<li id="invertibility_and_bases_3-2-2-1-2"><div class="para" id="invertibility_and_bases_3-2-2-1-2-1">use the determinant to determine whether a matrix is invertible.</div></li>
+</ul></div>
+<div class="para" id="invertibility_and_bases_3-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-determinants.html" target="_blank">3.4.5</a> Exercises 1, 3, 4, 6.</div></article></section><section class="subsubsection" id="invertibility_and_bases_4"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.3.4</span><span class="space"> </span><span class="title">Invertibility and Bases 4</span>
+</h4>
+<article class="assemblage assemblage-like" id="invertibility_and_bases_4-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="invertibility_and_bases_4-2-2"><ul class="disc" id="invertibility_and_bases_4-2-2-1">
+<li id="invertibility_and_bases_4-2-2-1-1"><div class="para" id="invertibility_and_bases_4-2-2-1-1-1">find a basis for the null space of a given matrix,</div></li>
+<li id="invertibility_and_bases_4-2-2-1-2"><div class="para" id="invertibility_and_bases_4-2-2-1-2-1">find a basis for the column space of a given matrix,</div></li>
+<li id="invertibility_and_bases_4-2-2-1-3"><div class="para" id="invertibility_and_bases_4-2-2-1-3-1">determine whether a given set satisfies the definition of a vector space.</div></li>
+</ul></div>
+<div class="para" id="invertibility_and_bases_4-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-subspaces.html" target="_blank">3.5.5</a> Exercises 1, 2, 5.</div></article></section></section><section class="subsection" id="eigentheory"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">4.4</span><span class="space"> </span><span class="title">Eigentheory (ET)</span>
+</h3>
+<section class="subsubsection" id="eigentheory_1"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.4.1</span><span class="space"> </span><span class="title">Eigentheory 1</span>
+</h4>
+<article class="assemblage assemblage-like" id="eigentheory_1-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="eigentheory_1-2-2"><ul class="disc" id="eigentheory_1-2-2-1">
+<li id="eigentheory_1-2-2-1-1"><div class="para" id="eigentheory_1-2-2-1-1-1">determine whether a vector is an eigenvector of a given matrix,</div></li>
+<li id="eigentheory_1-2-2-1-2"><div class="para" id="eigentheory_1-2-2-1-2-1">find the eigenvalue associated to an eigenvector.</div></li>
+</ul></div>
+<div class="para" id="eigentheory_1-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-eigen-intro.html" target="_blank">4.1.4</a> Exercises 1, 2, 5, 6.</div></article></section><section class="subsubsection" id="eigentheory_2"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.4.2</span><span class="space"> </span><span class="title">Eigentheory 2</span>
+</h4>
+<article class="assemblage assemblage-like" id="eigentheory_2-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="eigentheory_2-2-2"><ul class="disc" id="eigentheory_2-2-2-1">
+<li id="eigentheory_2-2-2-1-1"><div class="para" id="eigentheory_2-2-2-1-1-1">use the characteristic polynomial to find the eigenvalues of a given matrix,</div></li>
+<li id="eigentheory_2-2-2-1-2"><div class="para" id="eigentheory_2-2-2-1-2-1">find the algebraic and geometric multiplicities of eigenvalues,</div></li>
+<li id="eigentheory_2-2-2-1-3"><div class="para" id="eigentheory_2-2-2-1-3-1">find a basis for the eigenspace associated to an eigenvalue.</div></li>
+</ul></div>
+<div class="para" id="eigentheory_2-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-eigen-find.html" target="_blank">4.2.6</a> Exercises 1, 2, 5.</div></article></section><section class="subsubsection" id="eigentheory_3"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.4.3</span><span class="space"> </span><span class="title">Eigentheory 3</span>
+</h4>
+<article class="assemblage assemblage-like" id="eigentheory_3-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="eigentheory_3-2-2"><ul class="disc" id="eigentheory_3-2-2-1">
+<li id="eigentheory_3-2-2-1-1"><div class="para" id="eigentheory_3-2-2-1-1-1">determine whether a given matrix is diagonalizable,</div></li>
+<li id="eigentheory_3-2-2-1-2"><div class="para" id="eigentheory_3-2-2-1-2-1">diagonalize a diagonalizable matrix.</div></li>
+</ul></div>
+<div class="para" id="eigentheory_3-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-eigen-diag.html" target="_blank">4.3.5</a> Exercises 1, 2, 7.</div></article></section></section><section class="subsection" id="orthogonality"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">4.5</span><span class="space"> </span><span class="title">Orthogonality (OR)</span>
+</h3>
+<section class="subsubsection" id="orthogonality_1"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.5.1</span><span class="space"> </span><span class="title">Orthogonality 1</span>
+</h4>
+<article class="assemblage assemblage-like" id="orthogonality_1-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="orthogonality_1-2-2"><ul class="disc" id="orthogonality_1-2-2-1">
+<li id="orthogonality_1-2-2-1-1"><div class="para" id="orthogonality_1-2-2-1-1-1">compute the dot product of two vectors,</div></li>
+<li id="orthogonality_1-2-2-1-2"><div class="para" id="orthogonality_1-2-2-1-2-1">use the dot product to find the angle between two vectors,</div></li>
+<li id="orthogonality_1-2-2-1-3"><div class="para" id="orthogonality_1-2-2-1-3-1">determine whether two vectors are orthogonal.</div></li>
+</ul></div>
+<div class="para" id="orthogonality_1-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-dot-product.html" target="_blank">6.1.4</a> Exercises 1 - 4.</div></article></section><section class="subsubsection" id="orthogonality_2"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.5.2</span><span class="space"> </span><span class="title">Orthogonality 2</span>
+</h4>
+<article class="assemblage assemblage-like" id="orthogonality_2-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="orthogonality_2-2-2"><ul class="disc" id="orthogonality_2-2-2-1">
+<li id="orthogonality_2-2-2-1-1"><div class="para" id="orthogonality_2-2-2-1-1-1">compute the transpose of a matrix,</div></li>
+<li id="orthogonality_2-2-2-1-2"><div class="para" id="orthogonality_2-2-2-1-2-1">use the transpose to find a basis for the orthogonal complement of a given vector space.</div></li>
+</ul></div>
+<div class="para" id="orthogonality_2-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-transpose.html" target="_blank">6.2.4</a> Exercises 1 - 3.</div></article></section><section class="subsubsection" id="orthogonality_3"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.5.3</span><span class="space"> </span><span class="title">Orthogonality 3</span>
+</h4>
+<article class="assemblage assemblage-like" id="orthogonality_3-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="orthogonality_3-2-2"><ul class="disc" id="orthogonality_3-2-2-1"><li id="orthogonality_3-2-2-1-1"><div class="para" id="orthogonality_3-2-2-1-1-1">I can perform Orthogonal Decomposition.</div></li></ul></div>
+<div class="para" id="orthogonality_3-2-3">
+<em class="alert">Homework:</em>  Section <a class="external" href="https://davidaustinm.github.io/ula/sec-orthogonal-bases.html" target="_blank">6.3.4</a> Exercises 1 - 6.</div></article></section><section class="subsubsection" id="orthogonality_4"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">4.5.4</span><span class="space"> </span><span class="title">Orthogonality 4</span>
+</h4>
+<article class="assemblage assemblage-like" id="orthogonality_4-2"><h5 class="heading"><span class="title">I can...</span></h5>
+<div class="para logical" id="orthogonality_4-2-2"><ul class="disc" id="orthogonality_4-2-2-1">
+<li id="orthogonality_4-2-2-1-1"><div class="para" id="orthogonality_4-2-2-1-1-1">use Gram-Schmidt Orthogonalization to find an orthogonal basis for a given vector space,</div></li>
+<li id="orthogonality_4-2-2-1-2"><div class="para" id="orthogonality_4-2-2-1-2-1">find an orthonormal basis from an orthogonal basis for a given vector space.</div></li>
+</ul></div>
+<div class="para" id="orthogonality_4-2-3">
+<em class="alert">Homework:</em> Section <a class="external" href="https://davidaustinm.github.io/ula/sec-gram-schmidt.html" target="_blank">6.4.4</a> Exercises 1 - 5.</div></article></section></section></section></div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="evaluation.html" title="Previous"><span xmlns:pf="https://prefigure.org" class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span xmlns:pf="https://prefigure.org" class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="policies.html" title="Next"><span class="name">Next</span><span xmlns:pf="https://prefigure.org" class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a xmlns:pf="https://prefigure.org" class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a xmlns:pf="https://prefigure.org" class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a xmlns:pf="https://prefigure.org" class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+</div>
+</body>
+</html>
