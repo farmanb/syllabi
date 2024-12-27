@@ -27,5 +27,7 @@
   </latex>
 
   <html favicon="simple">
+    <css theme="denver">
+    </css>
   </html>
 </publication>
