@@ -29,6 +29,7 @@
       </cell>
       <cell>
 	<p component="ULA">
+	  <url href="https://understandinglinearalgebra.org/sec-matrices-lin-combs.html" visual="">2.2 Matrix multiplication and linear combinations </url>
 	  <url href="https://understandinglinearalgebra.org/sec-span.html" visual="">2.3 The span of a set of vectors </url>
 	</p>
 	<p component="Poole"><alert>Review</alert></p>
@@ -39,7 +40,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-linear-dep.html" visual="">2.4 Linear independence</url>
+	  <url href="https://understandinglinearalgebra.org/sec-span.html" visual="">2.3 The span of a set of vectors </url>
 	</p>
 	<p component="Poole"><alert>Exam 1</alert></p>
       </cell>

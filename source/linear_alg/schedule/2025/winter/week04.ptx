@@ -20,7 +20,7 @@
     <row>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-linear-trans.html" visual="">2.5 Matrix transformations</url>
+	  <url href="https://understandinglinearalgebra.org/sec-linear-dep.html" visual="">2.4 Linear independence</url>
 	</p>
 	<p component="Poole">3.1 Matrix Operations</p>
       </cell>
@@ -29,7 +29,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <alert>Review</alert>
+	  <url href="https://understandinglinearalgebra.org/sec-linear-trans.html" visual="">2.5 Matrix transformations</url><!-- <alert>Review</alert> -->
 	</p>
 	<p component="Poole">3.2 Matrix Algebra</p>
       </cell>
