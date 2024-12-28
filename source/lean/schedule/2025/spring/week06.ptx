@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-06">
+  <title>April 14 <ndash/> April 18</title>
+  <p>
+    <pubtitle>Mathematics in Lean</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  3 Logic
+	  <ul>
+	    <li>
+	      <p>3.1 Implication and the Universal Quantifier</p>
+	    </li>
+	    <li>
+	      <p>3.2 The Existential Quantifier</p>
+	    </li>
+	    <li>
+	      <p>3.3 Negation</p>
+	    </li>
+	    <li>
+	      <p>3.4 Conjunction and Iff</p>
+	    </li>
+	    <li>
+	      <p>3.5 Disjunction</p>
+	    </li>
+	    <li>
+	      <p>3.6 Sequences and Convergence</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <p> -->
+  <!--   <ul> -->
+  <!--     <li> -->
+  <!-- 	<p> -->
+  <!-- 	  12 Logical Foundations of Mathematics -->
+  <!-- 	  <ul> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>12.1 Universes</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>12.2 The Peculiarities of Prop</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p> -->
+  <!-- 		12.3 The Axiom of Choice -->
+  <!-- 	      </p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>12.4 Subtypes</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>12.5 Quotient Types</p> -->
+  <!-- 	    </li> -->
+  <!-- 	  </ul> -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--     <li> -->
+  <!-- 	<p> -->
+  <!-- 	  13 Basic Mathematical Structures -->
+  <!-- 	  <ul> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.1 Type Classes over a Single Binary Operator</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.2 Type Classes over two Binary Operators</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.3 Coercions</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.4 Normalization Tactics</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.5 Lists, Multisets, and Finite Sets</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.6 Order Type Classes</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>13.7 Decision Tactic</p> -->
+  <!-- 	    </li> -->
+  <!-- 	  </ul> -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--     <li> -->
+  <!-- 	<p> -->
+  <!-- 	  14 Rational and Real Numberss -->
+  <!-- 	  <ul> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>14.1 Rational Numbers</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>14.2 Real Numbers</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>14.3 FInal Exhortation</p> -->
+  <!-- 	    </li> -->
+  <!-- 	  </ul> -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--   </ul> -->
+  <!-- </p> -->
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>1/20</cell> -->
+  <!--     <cell>1/21</cell> -->
+  <!--     <cell>1/22</cell> -->
+  <!--     <cell>1/23</cell> -->
+  <!--     <cell>1/24</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p> -->
+  <!-- 	  <alert>No Classes</alert> -->
+  <!-- 	</p> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

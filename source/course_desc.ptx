@@ -2,11 +2,24 @@
 <subsection xml:id="course_description" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
 
+  <p component="S25">
+    This course provides a hands<ndash/>on introduction to formal verification and computer<ndash/>assisted proof development using the Lean theorem prover.
+    Bringing together students from both Mathematics and Computer Science, the course will show how to represent mathematical concepts in a precise formal language, construct and verify proofs interactively, and leverage automated techniques to eliminate logical errors.
+    Along the way, you’ll explore core ideas from logic, type theory, and proof strategies, that can be applied to create robust formalizations of everything from classical theorems to complex software specifications.
+  </p>
+
+  <p component="S25">
+    Mathematics students will see how formalizing arguments in Lean can reveal hidden assumptions, refine logical thinking, and spark fresh insights<emdash/>even for well<ndash/>known theorems.
+    Lean also serves as a platform for cutting<ndash/>edge mathematical research, with extensive libraries of verified results that encourage meaningful contributions.
+    Computer Science students will discover how Lean’s type<ndash/>theoretic foundations apply to verifying algorithms, cryptographic protocols, and large<ndash/>scale software systems, reinforcing a correctness<ndash/>first mindset essential to modern development.
+    By the end of the course, you will be prepared to produce fully machine<ndash/>checked proofs, apply formal methods to real<ndash/>world challenges, and collaborate effectively with mathematicians and software engineers alike—bridging the gap between theoretical vision and practical reliability.
+  </p>
+
   <p component="308">
     Matrices, systems of linear equations, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
   </p>
     
   <p component="243">
-    Vectors, three-dimensional coordinates, double and triple integrals, vector valued functions and motion in space.
+    Vectors, three<ndash/>dimensional coordinates, double and triple integrals, vector valued functions and motion in space.
   </p>
 </subsection>

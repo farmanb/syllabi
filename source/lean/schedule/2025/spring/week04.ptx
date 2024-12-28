@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-04">
+  <title>March 31 <ndash/> April 4</title>
+  <p>
+    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  4 Forward Proofs
+	  <ul>
+	    <li>
+	      <p>4.1 Structured Proofs</p>
+	    </li>
+	    <li>
+	      <p>4.2 Structured Constructs</p>
+	    </li>
+	    <li>
+	      <p>4.3 Forward Reasoning about Connectives and Quantifiers</p>
+	    </li>
+	    <li>
+	      <p>4.4 Calculational Proofs</p>
+	    </li>
+	    <li>
+	      <p>4.5 Forward Reasoning with Tactics</p>
+	    </li>
+	    <!-- <li> -->
+	    <!--   <p>4.6 Dependent Types</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>4.7 The <init>PAT</init> Principle</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>4.8 Induction by Pattern Matching and Recursion</p> -->
+	    <!-- </li> -->
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <table> -->
+  <!--   <title>Week 4</title> -->
+  <!-- </table> -->
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>1/6</cell> -->
+  <!--     <cell>1/7</cell> -->
+  <!--     <cell>1/8</cell> -->
+  <!--     <cell>1/9</cell> -->
+  <!--     <cell>1/10</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

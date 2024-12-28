@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+  <common>
+    <!-- Level at which are html files generated (chapter/section/etc): -->
+    <chunking level="1" />
+    <!-- Depth for table of contents.  0 means no TOC -->
+    <tableofcontents level="2" />
+  </common>
+
+  <!-- directories are relative to the main source PreTeXt file -->
+  <source>
+    <directories external="../assets" generated="../generated-assets"/>
+
+    <!-- Version flags -->
+    <!-- WAG - Weighted Average Grading -->
+    <!-- MBG - Mastery Based Grading -->
+    <!-- MBT - Mastery Based Testing -->
+    <!-- AL - Active Learning -->
+    <!-- Poole - Gregory Poole LA book -->
+    <!-- ULA - David Austin -->
+    <version include="490 S25 WAG"/>
+  </source>
+  
+  <latex print="no" sides="one" font-size="10" draft="no">
+    <page right-alignment="flush" bottom-alignment="ragged">
+      <geometry>margin={1in}</geometry>
+    </page>
+  </latex>
+
+  <html favicon="simple">
+    <css theme="denver">
+    </css>
+  </html>
+</publication>

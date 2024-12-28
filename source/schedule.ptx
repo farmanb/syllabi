@@ -111,6 +111,18 @@
   <xi:include href="3040/schedule/2024/spring/week16.ptx"/>
   <xi:include href="3040/schedule/2024/spring/week17.ptx"/>
 
+  <!-- Lean -->
+  <xi:include href="lean/schedule/2025/spring/week01.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week02.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week03.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week04.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week05.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week06.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week07.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week08.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week09.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week10.ptx"/>
+  <xi:include href="lean/schedule/2025/spring/week11.ptx"/>
   <conclusion>
     <warning>
       <p>

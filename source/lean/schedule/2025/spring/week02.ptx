@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-02">
+  <title>March 17 <ndash/> March 21</title>
+  <p>
+    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  2 Programs and Theorems
+	  <ul>
+	    <li>
+	      <p>2.1 Type Definitions</p>
+	    </li>
+	    <li>
+	      <p>2.2 Function Definitions</p>
+	    </li>
+	    <li>
+	      <p>2.3 Theorem Statements</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>12/9</cell> -->
+  <!--     <cell>12/10</cell> -->
+  <!--     <cell>12/11</cell> -->
+  <!--     <cell>12/12</cell> -->
+  <!--     <cell>12/13</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p> -->
+  <!-- 	</p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p> -->
+  <!-- 	</p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

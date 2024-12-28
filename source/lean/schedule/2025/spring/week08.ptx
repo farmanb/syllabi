@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-08">
+  <title>April 28<ndash/> May 2</title>
+  <p>
+    <pubtitle>Mathematics in Lean</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  5. Elementary Number Theory
+	  <ul>
+	    <li>
+	      <p>5.1. Irrational Roots</p>
+	    </li>
+	    <li>
+	      <p>5.2. Induction and Recursion</p>
+	    </li>
+	    <li>
+	      <p>5.3. Infinitely Many Primes</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>2/3</cell> -->
+  <!--     <cell>2/4</cell> -->
+  <!--     <cell>2/5</cell> -->
+  <!--     <cell>2/6</cell> -->
+  <!--     <cell>2/7</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

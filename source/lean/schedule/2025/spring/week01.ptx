@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-01">
+  <title>March 12 <ndash/> March 14</title>
+  <p>
+    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  1 Types and Terms
+	  <ul>
+	    <li>
+	      <p>
+		1.1 Types
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		1.2 Terms
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		1.3 Type Checking and Type Inference
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		1.4 Type Inhabitation
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>12/2</cell> -->
+  <!--     <cell>12/3</cell> -->
+  <!--     <cell>12/4</cell> -->
+  <!--     <cell>12/5</cell> -->
+  <!--     <cell>12/6</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<!-\- <p>First Day of Classes</p> -\-> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

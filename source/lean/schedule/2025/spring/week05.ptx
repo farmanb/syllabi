@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-05">
+  <title>April 7 <ndash/> April 11</title>
+  <p>
+    <pubtitle>Mathematics in Lean</pubtitle>
+    <ul>
+      <li>
+	<p>
+	  2 Basics
+	  <ul>
+	    <li>
+	      <p>2.1 Calculating</p>
+	    </li>
+	    <li>
+	      <p>2.2. Proving Identities in Algebraic Structures</p>
+	    </li>
+	    <li>
+	      <p>
+		2.3. Using Theorems and Lemmas
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		2.4. More examples using apply and rw
+	      </p>
+	    </li>
+	    <li>
+	      <p>2.5. Proving Facts about Algebraic Structures</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
+  </p>
+  <!-- <p> -->
+  <!--   <ul> -->
+  <!--     <li> -->
+  <!-- 	<p> -->
+  <!-- 	  6 Inductive Predicates -->
+  <!-- 	  <ul> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.1 Introductory Examples</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.2 Logical Symbols</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.3 Rule Induction</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.4 Lienar Arithmetic Tactic</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.5 Elimination</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.6 Elimination</p> -->
+  <!-- 	    </li> -->
+  <!-- 	    <li> -->
+  <!-- 	      <p>6.7 Induction Pitfalls</p> -->
+  <!-- 	    </li> -->
+  <!-- 	  </ul> -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--   </ul> -->
+  <!-- </p> -->
+  <!-- <table> -->
+  <!--   <title>Week 5</title> -->
+  <!-- </table> -->
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>1/13</cell> -->
+  <!--     <cell>1/14</cell> -->
+  <!--     <cell>1/15</cell> -->
+  <!--     <cell>1/16</cell> -->
+  <!--     <cell>1/17</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>

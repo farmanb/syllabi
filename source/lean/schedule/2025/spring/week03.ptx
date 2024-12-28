@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="S25" xml:id="week-03">
+  <title>March 24 <ndash/> March 28</title>
+  <p>
+    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
+    <ul>
+      <li>
+	<p>3 Backward Proofs</p>
+	<ul>
+	  <li>
+	    <p>3.1 Tactic Mode</p>
+	  </li>
+	  <li>
+	    <p>3.2 Basic Tactics</p>
+	  </li>
+	  <li>
+	    <p>3.3 Reasoning about Connectives and Quantifiers</p>
+	  </li>
+	  <li>
+	    <p>3.4 Reasoning about Equality</p>
+	  </li>
+	  <li>
+	    <p>3.5 Rewriting Tactics</p>
+	  </li>
+	  <li>
+	    <p>3.6 Proofs by Mathematical Induction</p>
+	  </li>
+	  <li>
+	    <p>3.7 Induction Tactic</p>
+	  </li>
+	  <li>
+	    <p>3.8 Cleanup Tactics</p>
+	  </li>
+	</ul>
+      </li>
+    </ul>
+  </p>
+  <!-- <table> -->
+  <!--   <title>Week 3</title> -->
+  <!-- </table> -->
+  <!-- <tabular halign="center"> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <col width="20%"/> -->
+  <!--   <row header="yes" bottom="minor" > -->
+  <!--     <cell>12/16</cell> -->
+  <!--     <cell>12/17</cell> -->
+  <!--     <cell>12/18</cell> -->
+  <!--     <cell>12/19</cell> -->
+  <!--     <cell>12/20</cell> -->
+  <!--   </row> -->
+  <!--   <row> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p></p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!-- 	<p> -->
+  <!-- 	</p> -->
+  <!--     </cell> -->
+  <!--     <cell> -->
+  <!--     </cell> -->
+  <!--   </row> -->
+  <!-- </tabular> -->
+</subsection>
