@@ -15,8 +15,12 @@
     Mathematics students will see how formalizing arguments in Lean can reveal hidden assumptions, refine logical thinking, and spark fresh insights, even for well<ndash/>known theorems.
     Lean also serves as a platform for cutting<ndash/>edge mathematical research, with extensive libraries of verified results that encourage meaningful contributions.
     </p>
-    <p>
+
+    <p component="S25">
       Computer Science students will discover how Lean’s type<ndash/>theoretic foundations apply to verifying algorithms, cryptographic protocols, and large<ndash/>scale software systems, reinforcing a correctness<ndash/>first mindset essential to modern development.
-    By the end of the course, you will be prepared to produce fully machine<ndash/>checked proofs, apply formal methods to real<ndash/>world challenges, and collaborate effectively with mathematicians and software engineers alike, bridging the gap between theoretical vision and practical reliability.
+    </p>
+
+    <p component="S25">
+      By the end of the course, you will be prepared to produce fully machine<ndash/>checked proofs, apply formal methods to real<ndash/>world challenges, and collaborate effectively with mathematicians and software engineers alike, bridging the gap between theoretical vision and practical reliability.
   </p>
 </subsection>
