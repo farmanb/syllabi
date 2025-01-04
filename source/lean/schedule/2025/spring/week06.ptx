@@ -2,30 +2,35 @@
 <subsection component="S25" xml:id="week-06">
   <title>April 14 <ndash/> April 18</title>
   <p>
-    <pubtitle>Mathematics in Lean</pubtitle>
     <ul>
       <li>
 	<p>
-	  3 Logic
+	  4 Forward Proofs
 	  <ul>
 	    <li>
-	      <p>3.1 Implication and the Universal Quantifier</p>
+	      <p>4.1 Structured Proofs</p>
 	    </li>
 	    <li>
-	      <p>3.2 The Existential Quantifier</p>
+	      <p>4.2 Structured Constructs</p>
 	    </li>
 	    <li>
-	      <p>3.3 Negation</p>
+	      <p>4.3 Forward Reasoning about Connectives and Quantifiers</p>
 	    </li>
 	    <li>
-	      <p>3.4 Conjunction and Iff</p>
+	      <p>4.4 Calculational Proofs</p>
 	    </li>
-	    <li>
-	      <p>3.5 Disjunction</p>
-	    </li>
-	    <li>
-	      <p>3.6 Sequences and Convergence</p>
-	    </li>
+	    <!-- <li> -->
+	    <!--   <p>4.5 Forward Reasoning with Tactics</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>4.6 Dependent Types</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>4.7 The <init>PAT</init> Principle</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>4.8 Induction by Pattern Matching and Recursion</p> -->
+	    <!-- </li> -->
 	  </ul>
 	</p>
       </li>

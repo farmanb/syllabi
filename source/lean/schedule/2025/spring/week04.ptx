@@ -2,38 +2,35 @@
 <subsection component="S25" xml:id="week-04">
   <title>March 31 <ndash/> April 4</title>
   <p>
-    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
     <ul>
       <li>
-	<p>
-	  4 Forward Proofs
-	  <ul>
-	    <li>
-	      <p>4.1 Structured Proofs</p>
-	    </li>
-	    <li>
-	      <p>4.2 Structured Constructs</p>
-	    </li>
-	    <li>
-	      <p>4.3 Forward Reasoning about Connectives and Quantifiers</p>
-	    </li>
-	    <li>
-	      <p>4.4 Calculational Proofs</p>
-	    </li>
-	    <li>
-	      <p>4.5 Forward Reasoning with Tactics</p>
-	    </li>
-	    <!-- <li> -->
-	    <!--   <p>4.6 Dependent Types</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>4.7 The <init>PAT</init> Principle</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>4.8 Induction by Pattern Matching and Recursion</p> -->
-	    <!-- </li> -->
-	  </ul>
-	</p>
+	<p>3 Backward Proofs</p>
+	<ul>
+	  <li>
+	    <p>3.1 Tactic Mode</p>
+	  </li>
+	  <li>
+	    <p>3.2 Basic Tactics</p>
+	  </li>
+	  <li>
+	    <p>3.3 Reasoning about Connectives and Quantifiers</p>
+	  </li>
+	  <!-- <li> -->
+	  <!--   <p>3.4 Reasoning about Equality</p> -->
+	  <!-- </li> -->
+	  <!-- <li> -->
+	  <!--   <p>3.5 Rewriting Tactics</p> -->
+	  <!-- </li> -->
+	  <!-- <li> -->
+	  <!--   <p>3.6 Proofs by Mathematical Induction</p> -->
+	  <!-- </li> -->
+	  <!-- <li> -->
+	  <!--   <p>3.7 Induction Tactic</p> -->
+	  <!-- </li> -->
+	  <!-- <li> -->
+	  <!--   <p>3.8 Cleanup Tactics</p> -->
+	  <!-- </li> -->
+	</ul>
       </li>
     </ul>
   </p>

@@ -2,36 +2,22 @@
 <subsection component="S25" xml:id="week-03">
   <title>March 24 <ndash/> March 28</title>
   <p>
-    <pubtitle>Hitchhiker's Guide to Logical Verification</pubtitle>
     <ul>
       <li>
-	<p>3 Backward Proofs</p>
-	<ul>
-	  <li>
-	    <p>3.1 Tactic Mode</p>
-	  </li>
-	  <li>
-	    <p>3.2 Basic Tactics</p>
-	  </li>
-	  <li>
-	    <p>3.3 Reasoning about Connectives and Quantifiers</p>
-	  </li>
-	  <li>
-	    <p>3.4 Reasoning about Equality</p>
-	  </li>
-	  <li>
-	    <p>3.5 Rewriting Tactics</p>
-	  </li>
-	  <li>
-	    <p>3.6 Proofs by Mathematical Induction</p>
-	  </li>
-	  <li>
-	    <p>3.7 Induction Tactic</p>
-	  </li>
-	  <li>
-	    <p>3.8 Cleanup Tactics</p>
-	  </li>
-	</ul>
+	<p>
+	  2 Programs and Theorems
+	  <ul>
+	    <li>
+	      <p>2.1 Type Definitions</p>
+	    </li>
+	    <li>
+	      <p>2.2 Function Definitions</p>
+	    </li>
+	    <li>
+	      <p>2.3 Theorem Statements</p>
+	    </li>
+	  </ul>
+	</p>
       </li>
     </ul>
   </p>

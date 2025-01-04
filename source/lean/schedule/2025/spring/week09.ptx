@@ -2,7 +2,42 @@
 <subsection component="S25" xml:id="week-09">
   <title>May 5 <ndash/> May 9</title>
   <p>
-    Capstone Project
+    <ul>
+      <li>
+	<p>
+	  7 Effectful Programming
+	  <ul>
+	    <li>
+	      <p>7.1 Introductory Example</p>
+	    </li>
+	    <li>
+	      <p>7.2 Two Operations and Three Laws</p>
+	    </li>
+	    <li>
+	      <p>7.3 A Type Class</p>
+	    </li>
+	    <!-- <li> -->
+	    <!--   <p>7.4 No Effects</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>7.5 Basic Exceptions</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>7.6 Mutable State</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>7.7 Nondeterminism</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>7.8 Aesop Tactic</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>7.9 A Generic Algorithm: Iteration over a List</p> -->
+	    <!-- </li> -->
+	  </ul>
+	</p>
+      </li>
+    </ul>
   </p>
   <!-- <tabular halign="center"> -->
   <!--   <col width="20%"/> -->

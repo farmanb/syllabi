@@ -2,7 +2,30 @@
 <subsection component="S25" xml:id="week-10">
   <title>May 12<ndash/> May 16</title>
   <p>
-    Capstone Project
+    <ul>
+      <li>
+	<p>
+	  12 Logical Foundations of Mathematics
+	  <ul>
+	    <li>
+	      <p>12.1 Universes</p>
+	    </li>
+	    <li>
+	      <p>12.2 The Peculiarities of Prop</p>
+	    </li>
+	    <li>
+	      <p>12.3 The Axiom of Choice</p>
+	    </li>
+	    <!-- <li> -->
+	    <!--   <p>12.4 Subtypes</p> -->
+	    <!-- </li> -->
+	    <!-- <li> -->
+	    <!--   <p>12.5 Quotient Types</p> -->
+	    <!-- </li> -->
+	  </ul>
+	</p>
+      </li>
+    </ul>
   </p>
   <!-- <tabular halign="center"> -->
   <!--   <col width="20%"/> -->
