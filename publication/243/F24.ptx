@@ -10,7 +10,7 @@
       <!-- AL - Active Learning -->
 
       <!-- Calculus 3-->
-      <version include="243 F24 WAG 243-F24"/>
+      <version include="243 F24 WAG 243-F24 AS"/>
     </source>
     
     <latex print="no" sides="one" font-size="10" draft="no">

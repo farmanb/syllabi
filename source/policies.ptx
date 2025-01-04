@@ -10,6 +10,14 @@
   
   <subsection xml:id="textbook">
     <title>Textbook</title>
+    <assemblage component="S25">
+      <title>Required Textbook</title>
+      <p>
+	The required text for this course is <pubtitle>The Hitchhiker's Guide to Logical Verification</pubtitle> by Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg.
+	This textbook is freely available in <url href="https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf"><init>PDF</init> format</url>.
+      </p>
+    </assemblage>
+    
     <assemblage component="308">
       <title>Required Textbook</title>
       <p component="ULA">
@@ -90,6 +98,12 @@
   <p component="MBT">
     In the event of a missed assessment due to absence, students will be given the opportunity to attempt all missed standards on the next reassessment.
     The date and time of the final reassessment are determined by the registrar and cannot be made up.
+  </p>
+
+  <p component="S25">
+    Make-up opportunities will only be granted in cases of documented emergencies or university-approved absences (e.g., illness, family emergencies, or official university activities).
+    Except in extraordinary circumstances, students must notify the instructor before the missed deadline or class.
+    Students who need to make up work due to a University-related activity requiring an absence from class must arrange for work to be completed <alert>before</alert> leaving.
   </p>
 </subsection>
 

@@ -91,4 +91,75 @@
       </li>
     </ul>
   </p>
+
+  <p component="S25">
+    This course provides an introduction to formal verification and computer-assisted proof development using Lean.
+    Students will explore the following topics
+    <ul>
+      <li>
+	<p>
+	  <term>Understanding Mathematical Statements:</term>
+	  Learning how to write and check logical statements and rules in Lean.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Building Proofs Step by Step:</term>
+	  Using tools and techniques to create clear and logical arguments.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Defining and Working with Data:</term>
+	  Exploring how to represent data like numbers, lists, and trees in Lean.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Writing and Reasoning About Programs:</term>
+	  Understanding how to write small programs and prove they work correctly.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Handling Complex Computations with Monads:</term>
+	  Simplifying advanced programming tasks using special tools in Lean.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Checking Algorithms:</term>
+	  Ensuring common algorithms, like sorting, are correct and reliable through formal proofs.
+	</p>
+      </li>
+      <li>
+	<p>
+	  <term>Foundations of Logic and Mathematics:</term>
+	  Exploring the deeper structure of logic, types, and mathematical rules.
+	</p>
+      </li>
+    </ul>
+
+    <!-- <ul> -->
+    <!--   <li> -->
+    <!-- 	<p>Terms, types, and type-checking.</p> -->
+    <!--   </li> -->
+    <!--   <li> -->
+    <!-- 	<p>Proofs and tactics (basic logic, quantifiers, equality, induction, advanced tactics).</p> -->
+    <!--   </li> -->
+    <!--   <li> -->
+    <!-- 	<p>Programming constructs in Lean (structures, classes, instances, categories).</p> -->
+    <!--   </li> -->
+    <!--   <li> -->
+    <!-- 	<p>Monads and effectful programming.</p> -->
+    <!--   </li> -->
+    <!--   <li> -->
+    <!-- 	<p>Verification and specification (inductive predicates, sorting algorithms, correctness proofs).</p> -->
+    <!--   </li> -->
+    <!--   <li> -->
+    <!-- 	<p>Logical foundations of Mathematics (type universes, Prop, subtypes, quotient types).</p> -->
+    <!--   </li> -->
+    <!-- </ul> -->
+  </p>
+
 </subsection>

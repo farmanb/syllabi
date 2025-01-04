@@ -16,7 +16,7 @@
     <!-- MBG - Mastery Based Grading -->
     <!-- MBT - Mastery Based Testing -->
     <!-- AL - Active Learning -->
-    <version include="490 S25"/>
+    <version include="587 S25"/>
   </source>
   
   <latex print="no" sides="one" font-size="10" draft="no">

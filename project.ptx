@@ -9,8 +9,11 @@
     <!-- Syllabus -->
     <target name="490-S25" format="html" output-dir="syllabi/490/S25" publication="490/S25.ptx" deploy-dir="syllabi/490/S25"/>
     <target name="490-S25-print" format="pdf" output-dir="pdf" publication="490/S25.ptx"/>
+    <target name="587-S25" format="html" output-dir="syllabi/587/S25" publication="587/S25.ptx" deploy-dir="syllabi/587/S25"/>
+    <target name="587-S25-print" format="pdf" output-dir="pdf" publication="587/S25.ptx"/>
     <!-- Schedule -->
     <target name="schedule-490-S25" format="html" output-dir="schedules/490/S25" source="standalone-schedule.ptx" publication="490/S25.ptx" deploy-dir="schedules/490/S25"/>
+    <target name="schedule-587-S25" format="html" output-dir="schedules/587/S25" source="standalone-schedule.ptx" publication="587/S25.ptx" deploy-dir="schedules/587/S25"/>
     
     <!-- Winter 2025 -->
     <!-- Syllabus -->

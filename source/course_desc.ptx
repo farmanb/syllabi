@@ -8,13 +8,6 @@
     Along the way, you’ll explore core ideas from logic, type theory, and proof strategies, that can be applied to create robust formalizations of everything from classical theorems to complex software specifications.
   </p>
 
-  <p component="S25">
-    Mathematics students will see how formalizing arguments in Lean can reveal hidden assumptions, refine logical thinking, and spark fresh insights<emdash/>even for well<ndash/>known theorems.
-    Lean also serves as a platform for cutting<ndash/>edge mathematical research, with extensive libraries of verified results that encourage meaningful contributions.
-    Computer Science students will discover how Lean’s type<ndash/>theoretic foundations apply to verifying algorithms, cryptographic protocols, and large<ndash/>scale software systems, reinforcing a correctness<ndash/>first mindset essential to modern development.
-    By the end of the course, you will be prepared to produce fully machine<ndash/>checked proofs, apply formal methods to real<ndash/>world challenges, and collaborate effectively with mathematicians and software engineers alike—bridging the gap between theoretical vision and practical reliability.
-  </p>
-
   <p component="308">
     Matrices, systems of linear equations, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
   </p>

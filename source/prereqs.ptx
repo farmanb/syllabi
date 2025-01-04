@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_prerequisites" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Prerequisites</title>
+  <p component="S25">
+    A grade of C or better in MATH 307, MATH 311, or CSC 220.
+  </p>
   <p component="308">
     A grade of C or better in MATH 243 or MATH 311.
   </p>
