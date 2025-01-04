@@ -3,7 +3,7 @@
   <title>Course Description</title>
 
   <p component="S25">
-    This course provides a hands<ndash/>on introduction to formal verification and computer<ndash/>assisted proof development using the Lean theorem prover.
+    This course provides a hands-on introduction to formal verification and computer-assisted proof development using the Lean theorem prover.
     Bringing together students from both Mathematics and Computer Science, the course will show how to represent mathematical concepts in a precise formal language, construct and verify proofs interactively, and leverage automated techniques to eliminate logical errors.
     Along the way, you’ll explore core ideas from logic, type theory, and proof strategies, that can be applied to create robust formalizations of everything from classical theorems to complex software specifications.
   </p>
@@ -13,6 +13,6 @@
   </p>
     
   <p component="243">
-    Vectors, three<ndash/>dimensional coordinates, double and triple integrals, vector valued functions and motion in space.
+    Vectors, three-dimensional coordinates, double and triple integrals, vector valued functions and motion in space.
   </p>
 </subsection>
