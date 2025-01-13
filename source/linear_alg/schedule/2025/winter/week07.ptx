@@ -20,7 +20,7 @@
     <row>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-eigen-find.html" visual="">4.2 Finding eigenvalues and eigenvectors</url>
+	  <url href="https://understandinglinearalgebra.org/sec-eigen-intro.html" visual="">4.1 An introduction to eigenvalues and eigenvectors</url>
 	</p>
 	<p component="Poole">4.1 Introduction to Eigenvalues and Eigenvectors</p>
       </cell>
@@ -29,7 +29,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-eigen-diag.html" visual="">4.3 Diagonalization, similarity, and powers of a matrix</url>
+	    <url href="https://understandinglinearalgebra.org/sec-eigen-find.html" visual="">4.2 Finding eigenvalues and eigenvectors</url>
 	</p>	
 	<p component="Poole">4.2 Determinants</p>
       </cell>
@@ -38,7 +38,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <alert>Review</alert>
+	  <url href="https://understandinglinearalgebra.org/sec-eigen-diag.html" visual="">4.3 Diagonalization, similarity, and powers of a matrix</url>
 	</p>
 	<p component="Poole">4.3 Eigenvalues and Eigenvectors of <m>n \times n</m> Matrices</p>
       </cell>

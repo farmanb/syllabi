@@ -20,7 +20,7 @@
     <row>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-matrix-inverse.html" visual="">3.1 Invertibility</url>
+	  <alert>Reassessment 1</alert>
 	</p>
 	<p component="Poole">3.4 The LU Factorization</p>
       </cell>
@@ -29,7 +29,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-bases.html" visual="">3.2 Bases and coordinate systems</url>
+	  <url href="https://understandinglinearalgebra.org/sec-matrix-inverse.html" visual="">3.1 Invertibility</url>
 	</p>
 	<p component="Poole">3.5 Subspaces, Basis, Dimension, and Rank</p>
       </cell>
@@ -38,7 +38,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-determinants.html" visual="">Section 3.4 Determinants</url>
+	  <url href="https://understandinglinearalgebra.org/sec-bases.html" visual="">3.2 Bases and coordinate systems</url>
 	</p>
 	<p component="Poole">3.6 Introduction to Linear Transformations</p>
       </cell>

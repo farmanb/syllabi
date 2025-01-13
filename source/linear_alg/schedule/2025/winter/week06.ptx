@@ -27,7 +27,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-subspaces.html" visual="">3.5 Subspaces</url>
+	  <url href="https://understandinglinearalgebra.org/sec-determinants.html" visual="">Section 3.4 Determinants</url>
 	</p>
 	<p component="Poole"><alert>Review</alert></p>
       </cell>
@@ -36,7 +36,7 @@
       </cell>
       <cell>
 	<p component="ULA">
-	  <url href="https://understandinglinearalgebra.org/sec-eigen-intro.html" visual="">4.1 An introduction to eigenvalues and eigenvectors</url>
+	  <url href="https://understandinglinearalgebra.org/sec-subspaces.html" visual="">3.5 Subspaces</url>
 	</p>
 	<p component="Poole"><alert>Exam 2</alert></p>
       </cell>
