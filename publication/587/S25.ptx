@@ -26,7 +26,6 @@
   </latex>
 
   <html favicon="simple">
-    <css theme="denver">
-    </css>
+    <css theme="denver" color-main="#003087"/> <!-- Tech blue main color -->
   </html>
 </publication>
