@@ -3,7 +3,7 @@
   <title>Course Policies and Procedures</title>
   <introduction>
     <p>
-      At a minimum, all policies stated in the current <url href="https://www.latech.edu/documents/2018/09/student-handbook.pdf/" visual="">Louisiana Tech University Student Handbook</url> should be followed.
+      At a minimum, all policies stated in the current <url href="https://www.latech.edu/documents/2018/09/student-handbook.pdf/" >Louisiana Tech University Student Handbook</url> should be followed.
       Additional class policies follow.
     </p>
   </introduction>
@@ -13,8 +13,29 @@
     <assemblage component="S25">
       <title>Required Textbook</title>
       <p>
-	The required text for this course is <pubtitle>The Hitchhiker's Guide to Logical Verification</pubtitle> by Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg.
-	This textbook is freely available in <url href="https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf"><init>PDF</init> format</url>.
+	The required texts for this course are
+	<ol>
+	  <li>
+	    <p>
+	      <pubtitle>The Hitchhiker's Guide to Logical Verification</pubtitle> by Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg.
+	      This text is freely available in <url href="https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf"><init>PDF</init> format</url>.
+	    </p>
+	  </li>
+	  <li>
+	    <p>
+	      <pubtitle>Theorem Proving in Lean 4</pubtitle> by Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich, with contributions from the Lean Community.
+	      This text is freely available from <url href="https://lean-lang.org/theorem_proving_in_lean4/title_page.html"><init>HTML</init> format</url>.
+	    </p>
+	  </li>
+	  <li>
+	    <p>
+	      <pubtitle>Mathematics in lean</pubtitle> by Jeremy Avigad and Patrick Massot.
+	      This text is freely available from <url href="https://leanprover-community.github.io/mathematics_in_lean/"><init>HTML</init> format</url> and <url href="https://leanprover-community.github.io/mathematics_in_lean/mathematics_in_lean.pdf"><init>PDF</init> format</url>.
+	    </p>
+	  </li>
+	</ol>
+	  
+	  
       </p>
     </assemblage>
     
@@ -45,7 +66,7 @@
 <subsection xml:id="attendance_policy">
   <title>Attendance Policy</title>
   <p>
-    Per <url href="https://www.latech.edu/administration/policies/p-2206/" visual="">University Policy 2206</url>:
+    Per <url href="https://www.latech.edu/administration/policies/p-2206/" >University Policy 2206</url>:
   </p>
   <assemblage>
     <blockquote>
@@ -110,7 +131,7 @@
 <subsection xml:id="academic_honor_code">
   <title>Academic Honor Code</title>
   <p>
-    In accordance with the <url href="https://www.latech.edu/current-students/student-advancement-affairs/student-conduct-integrity/" visual="">Academic Honor Code</url>, students pledge the following:
+    In accordance with the <url href="https://www.latech.edu/current-students/student-advancement-affairs/student-conduct-integrity/" >Academic Honor Code</url>, students pledge the following:
   </p>
 
   <blockquote>
