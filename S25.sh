@@ -8,5 +8,4 @@ pretext build 587-S25-print
 
 # Schedules
 
-pretext build schedule-490-S25
-pretext build schedule-587-S25
+pretext build lean-S25
