@@ -24,7 +24,13 @@
       </li>
       <li>
 	<title>March 21</title>
-	<p></p>
+	<p>
+	  Classical Logic
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/propositions_and_proofs.html">Theorem Proving in Lean, Ch. 3</url></p> </li>
+	    <li><p>Hitchhiker's Guide to Logical Verification, <section-mark/>4.1, <section-mark/>4.2 </p></li>
+	  </ul>
+	</p>
       </li>
     </dl>
   </p>

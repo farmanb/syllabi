@@ -2,24 +2,52 @@
 <subsection component="S25" xml:id="week-03">
   <title>March 24 <ndash/> March 28</title>
   <p>
-    <ul>
+    <dl>
       <li>
-	<p>
-	  2 Programs and Theorems
+	<title>March 24</title>
+      	<p>
+	  Universal Quantifiers
 	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/quantifiers_and_equality.html">Theorem Proving in Lean, Ch. 4</url></p> </li>
 	    <li>
-	      <p>2.1 Type Definitions</p>
-	    </li>
-	    <li>
-	      <p>2.2 Function Definitions</p>
-	    </li>
-	    <li>
-	      <p>2.3 Theorem Statements</p>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>4.3
+	      </p>
 	    </li>
 	  </ul>
 	</p>
       </li>
-    </ul>
+      <li>
+	<title>March 26</title>
+      	<p>
+	  Existential Quantifiers
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/quantifiers_and_equality.html">Theorem Proving in Lean, Ch. 4</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>4.3
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <!-- <li> -->
+      <!-- 	<p> -->
+      <!-- 	  2 Programs and Theorems -->
+      <!-- 	  <ul> -->
+      <!-- 	    <li> -->
+      <!-- 	      <p>2.1 Type Definitions</p> -->
+      <!-- 	    </li> -->
+      <!-- 	    <li> -->
+      <!-- 	      <p>2.2 Function Definitions</p> -->
+      <!-- 	    </li> -->
+      <!-- 	    <li> -->
+      <!-- 	      <p>2.3 Theorem Statements</p> -->
+      <!-- 	    </li> -->
+      <!-- 	  </ul> -->
+      <!-- 	</p> -->
+      <!-- </li> -->
+    </dl>
   </p>
   <!-- <table> -->
   <!--   <title>Week 3</title> -->
