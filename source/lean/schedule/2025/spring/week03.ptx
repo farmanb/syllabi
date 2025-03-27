@@ -31,6 +31,20 @@
 	  </ul>
 	</p>
       </li>
+      <li>
+	<title>March 28</title>
+      	<p>
+	  Tactics
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/tactics.html">Theorem Proving in Lean, Ch. 5</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>3.1 <ndash/> 3.8
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
       <!-- <li> -->
       <!-- 	<p> -->
       <!-- 	  2 Programs and Theorems -->
