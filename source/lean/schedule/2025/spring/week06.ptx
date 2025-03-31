@@ -2,141 +2,35 @@
 <subsection component="S25" xml:id="week-06">
   <title>April 14 <ndash/> April 18</title>
   <p>
-    <ul>
+    <dl>
       <li>
+	<title>April 14</title>
 	<p>
-	  4 Forward Proofs
 	  <ul>
 	    <li>
-	      <p>4.1 Structured Proofs</p>
+	      <p>
+	      </p>
 	    </li>
-	    <li>
-	      <p>4.2 Structured Constructs</p>
-	    </li>
-	    <li>
-	      <p>4.3 Forward Reasoning about Connectives and Quantifiers</p>
-	    </li>
-	    <li>
-	      <p>4.4 Calculational Proofs</p>
-	    </li>
-	    <!-- <li> -->
-	    <!--   <p>4.5 Forward Reasoning with Tactics</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>4.6 Dependent Types</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>4.7 The <init>PAT</init> Principle</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>4.8 Induction by Pattern Matching and Recursion</p> -->
-	    <!-- </li> -->
 	  </ul>
 	</p>
       </li>
-    </ul>
+      <li>
+	<title>April 16</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>April 18</title>
+	<p>
+	  No Classes (University Closed for Easter)
+	</p>
+      </li>
+    </dl>
   </p>
-  <!-- <p> -->
-  <!--   <ul> -->
-  <!--     <li> -->
-  <!-- 	<p> -->
-  <!-- 	  12 Logical Foundations of Mathematics -->
-  <!-- 	  <ul> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>12.1 Universes</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>12.2 The Peculiarities of Prop</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p> -->
-  <!-- 		12.3 The Axiom of Choice -->
-  <!-- 	      </p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>12.4 Subtypes</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>12.5 Quotient Types</p> -->
-  <!-- 	    </li> -->
-  <!-- 	  </ul> -->
-  <!-- 	</p> -->
-  <!--     </li> -->
-  <!--     <li> -->
-  <!-- 	<p> -->
-  <!-- 	  13 Basic Mathematical Structures -->
-  <!-- 	  <ul> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.1 Type Classes over a Single Binary Operator</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.2 Type Classes over two Binary Operators</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.3 Coercions</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.4 Normalization Tactics</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.5 Lists, Multisets, and Finite Sets</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.6 Order Type Classes</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>13.7 Decision Tactic</p> -->
-  <!-- 	    </li> -->
-  <!-- 	  </ul> -->
-  <!-- 	</p> -->
-  <!--     </li> -->
-  <!--     <li> -->
-  <!-- 	<p> -->
-  <!-- 	  14 Rational and Real Numberss -->
-  <!-- 	  <ul> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>14.1 Rational Numbers</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>14.2 Real Numbers</p> -->
-  <!-- 	    </li> -->
-  <!-- 	    <li> -->
-  <!-- 	      <p>14.3 FInal Exhortation</p> -->
-  <!-- 	    </li> -->
-  <!-- 	  </ul> -->
-  <!-- 	</p> -->
-  <!--     </li> -->
-  <!--   </ul> -->
-  <!-- </p> -->
-  <!-- <tabular halign="center"> -->
-  <!--   <col width="20%"/> -->
-  <!--   <col width="20%"/> -->
-  <!--   <col width="20%"/> -->
-  <!--   <col width="20%"/> -->
-  <!--   <col width="20%"/> -->
-  <!--   <row header="yes" bottom="minor" > -->
-  <!--     <cell>1/20</cell> -->
-  <!--     <cell>1/21</cell> -->
-  <!--     <cell>1/22</cell> -->
-  <!--     <cell>1/23</cell> -->
-  <!--     <cell>1/24</cell> -->
-  <!--   </row> -->
-  <!--   <row> -->
-  <!--     <cell> -->
-  <!--     </cell> -->
-  <!--     <cell> -->
-  <!-- 	<p></p> -->
-  <!--     </cell> -->
-  <!--     <cell> -->
-  <!--     </cell> -->
-  <!--     <cell> -->
-  <!-- 	<p></p> -->
-  <!--     </cell> -->
-  <!--     <cell> -->
-  <!-- 	<p> -->
-  <!-- 	  <alert>No Classes</alert> -->
-  <!-- 	</p> -->
-  <!--     </cell> -->
-  <!--   </row> -->
-  <!-- </tabular> -->
 </subsection>

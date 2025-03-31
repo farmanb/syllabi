@@ -2,37 +2,53 @@
 <subsection component="S25" xml:id="week-04">
   <title>March 31 <ndash/> April 4</title>
   <p>
-    <ul>
+    <dl>
       <li>
-	<p>3 Backward Proofs</p>
-	<ul>
-	  <li>
-	    <p>3.1 Tactic Mode</p>
-	  </li>
-	  <li>
-	    <p>3.2 Basic Tactics</p>
-	  </li>
-	  <li>
-	    <p>3.3 Reasoning about Connectives and Quantifiers</p>
-	  </li>
-	  <!-- <li> -->
-	  <!--   <p>3.4 Reasoning about Equality</p> -->
-	  <!-- </li> -->
-	  <!-- <li> -->
-	  <!--   <p>3.5 Rewriting Tactics</p> -->
-	  <!-- </li> -->
-	  <!-- <li> -->
-	  <!--   <p>3.6 Proofs by Mathematical Induction</p> -->
-	  <!-- </li> -->
-	  <!-- <li> -->
-	  <!--   <p>3.7 Induction Tactic</p> -->
-	  <!-- </li> -->
-	  <!-- <li> -->
-	  <!--   <p>3.8 Cleanup Tactics</p> -->
-	  <!-- </li> -->
-	</ul>
+	<title>March 31</title>
+	<p>
+	  Basic Inductive Types
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>5.1 <ndash/> <section-mark/>5.4
+	      </p>
+	    </li>
+	  </ul>
+	</p>
       </li>
-    </ul>
+      <li>
+	<title>April 2</title>
+	<p>Constructing the Natural Numbers
+	<ul>
+	  <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url></p> </li>
+	  <li>
+	    <p>
+	      <url href="https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#induction-and-recursion">Mathematics in Lean, <section-mark/>5.2</url>
+	    </p>
+	  </li>
+	</ul>
+	</p>
+      </li>
+      <li>
+	<title>April 4</title>
+	<p>
+	  Lists
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url>
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>5.1 <ndash/> <section-mark/>5.4
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
   </p>
   <!-- <table> -->
   <!--   <title>Week 4</title> -->
