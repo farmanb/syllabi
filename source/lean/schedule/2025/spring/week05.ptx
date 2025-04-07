@@ -9,6 +9,30 @@
 	  <ul>
 	    <li>
 	      <p>
+		Structures
+		<ul>
+		  <li>
+		    <p><url href="https://lean-lang.org/theorem_proving_in_lean4/structures_and_records.html">Theorem Proving in Lean, Ch. 9</url></p>
+		  </li>
+		  <li>
+		    <p>Hitchhiker's Guide to Logical Verification, <section-mark/>5.5</p>
+		  </li>
+		</ul>
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		Type Classes
+		<ul>
+		  <li>
+		    <p>
+		      <url href="https://lean-lang.org/theorem_proving_in_lean4/type_classes.html">Theorem Proving in Lean, Ch. 10</url>
+		    </p>
+		  </li>
+		  <li>
+		    <p>Hitchhiker's Guide to Logical Verification, <section-mark/>5.6</p>
+		  </li>
+		</ul>
 	      </p>
 	    </li>
 	  </ul>
