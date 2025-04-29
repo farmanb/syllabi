@@ -2,45 +2,31 @@
 <subsection component="S25" xml:id="week-07">
   <title>April 21 <ndash/> April 25</title>
   <p>
-    <ul>
+    <dl>
       <li>
+	<title>April 21</title>
+	<p>No Classes (University Closed for Easter)</p>
+      </li>
+      <li>
+	<title>April 23</title>
 	<p>
-	  5 Functional Programming
+	  <dataurl source="pdf/algebraic_structures.pdf">Algebraic Structures</dataurl>
+	</p>
+      </li>
+      <li>
+	<title>April 23</title>
+	<p>
+	  Algebraic Structures in Lean I (Monoids and Groups)
 	  <ul>
-	    <!-- <li> -->
-	    <!--   <p>5.1 Inductive Types</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.2 Structural Induction</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.3 Structural Recursion</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.4 Pattern Matching Expressions</p> -->
-	    <!-- </li> -->
 	    <li>
-	      <p>5.5 Structures</p>
+	      <p>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C06_Structures.html#algebraic-structures">Mathematics in Lean, <section-mark/> 6.2 </url>
+	      </p>
 	    </li>
-	    <!-- <li> -->
-	    <!--   <p>5.6 Type Classes</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.7 Lists</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.8 Binary Trees</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.9 Cases Tactic</p> -->
-	    <!-- </li> -->
-	    <!-- <li> -->
-	    <!--   <p>5.10 Dependent Inductive Types</p> -->
-	    <!-- </li> -->
 	  </ul>
 	</p>
       </li>
-    </ul>
+    </dl>
   </p>
   <!-- <tabular halign="center"> -->
   <!--   <col width="20%"/> -->
