@@ -6,6 +6,19 @@
       <li>
 	<title>May 5</title>
 	<p>
+	  Algebraic Structures in Lean II (Rings and Fields)
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C06_Structures.html#algebraic-structures">Mathematics in Lean, <section-mark/> 6.2 </url>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>May 7</title>
+	<p>
 	  Morphisms
 	  <ul>
 	    <li>
@@ -17,10 +30,17 @@
 	</p>
       </li>
       <li>
-	<title>May 7</title>
-      </li>
-      <li>
 	<title>May 9</title>
+	<p>
+	  Subobjects
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C07_Hierarchies.html#sub-objects">Mathematics in Lean, <section-mark/> 7.3</url>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
       </li>
     </dl>
   </p>
