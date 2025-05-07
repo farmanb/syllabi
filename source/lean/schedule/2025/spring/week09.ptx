@@ -19,11 +19,12 @@
       <li>
 	<title>May 7</title>
 	<p>
-	  Morphisms
+	  Morphisms (Monoids and Groups)
 	  <ul>
 	    <li>
 	      <p>
-		<url href="https://leanprover-community.github.io/mathematics_in_lean/C07_Hierarchies.html#morphisms">Mathematics in Lean, <section-mark/> 7.2</url>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html#monoids-and-their-morphisms">Mathematics in Lean, <section-mark/> 8.1.1</url>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html#groups-and-their-morphisms">Mathematics in Lean, <section-mark/> 8.1.2</url>
 	      </p>
 	    </li>
 	  </ul>
