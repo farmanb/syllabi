@@ -33,11 +33,11 @@
       <li>
 	<title>May 9</title>
 	<p>
-	  Subobjects
+	  Morphisms (Rings)
 	  <ul>
 	    <li>
 	      <p>
-		<url href="https://leanprover-community.github.io/mathematics_in_lean/C07_Hierarchies.html#sub-objects">Mathematics in Lean, <section-mark/> 7.3</url>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html#rings-their-units-morphisms-and-subrings">Mathematics in Lean, <section-mark/> 8.2.1</url>
 	      </p>
 	    </li>
 	  </ul>
