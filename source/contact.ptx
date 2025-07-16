@@ -29,6 +29,9 @@
       <dl>
 	<li>
 	  <title>Subject</title>
+	  <p component="4083">
+	    A few words that describe the content of your email along with the course identifier (Math 4083 - 001).
+	  </p>
 	  <p component="490">
 	    A few words that describe the content of your email along with the course identifier (Math 490 - 002).
 	  </p>
@@ -78,6 +81,9 @@
     </p>
     <assemblage>
       <title>Sample Email</title>
+      <p component="4083">
+	Subject: Meeting - Math 4083 - 001
+      </p>
       <p component="490">
 	Subject: Meeting - Math 490 - 002
       </p>
