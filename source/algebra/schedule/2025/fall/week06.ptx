@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-06">
+  <title>October 6 <ndash/> October 10</title>
+  <p>
+    <dl>
+      <li>
+	<title>October 6</title>
+	<p>
+	  <section-mark/> 22 Rings and Fields
+	  <ul>
+	    <li>Rng Axioms</li>
+	    <li>Ring Axioms</li>
+	    <li>Examples</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 8</title>
+	<p>
+	  <section-mark/> 22 Rings and Fields
+	  <ul>
+	    <li>Homomorphisms</li>
+	    <li>Fields</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 10</title>
+	<p>
+	  <section-mark/>23 Integral Domains
+	  <ul>
+	    <li>Definition</li>
+	    <li>Zero Divisors</li>
+	    <li>Cancellation</li>
+	    <li>Characteristic</li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

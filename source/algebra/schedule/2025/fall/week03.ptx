@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-03">
+  <title>September 15 <ndash/> September 19</title>
+  <p>
+    <dl>
+      <li>
+	<title>September 15</title>
+	<p>
+	  <section-mark/> 5 Subgroups
+	  <ul>
+	    <li>Definition</li>
+	    <li>Subgroup Criterion</li>
+	    <li>Cyclic and Subgroups</li>
+	  </ul>
+	  </p>	
+      </li>
+      <li>
+	<title>September 17</title>
+	<p>
+	  <section-mark/> 6 Cyclic Groups
+	  <ul>
+	    <li>Division Algorithm</li>
+	    <li>Greatest Common Divisors</li>
+	    <li>Classification</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 19</title>
+	<p>
+	  <section-mark/> 8 Groups of Permutations
+	  <ul>
+	    <li>Properties of Homomorphisms</li>
+	    <li>
+	      <p>
+		Subgroups Associated to Homomorphisms:
+		<ul>
+		  <li>Images,</li>
+		  <li>Inverse Images,</li>
+		  <li>Kernels</li>
+		</ul>
+	      </p>
+	    </li>
+	    <li>Cayley's Theorem</li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

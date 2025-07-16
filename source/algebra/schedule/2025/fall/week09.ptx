@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-09">
+  <title>October 27 <ndash/> October 31</title>
+  <p>
+    <dl>
+      <li>
+	<title>October 27</title>
+	<p>
+	  <section-mark/>30 Homomorphisms and Factor Rings
+	  <ul>
+	    <li>Ideals</li>
+	    <li>Quotient Rings</li>
+	    <li>Universal Mapping Property for Quotients (Reprise)</li>
+	    <li>First Isomorphism Theorem for Rings</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 29</title>
+	<p>
+	  <section-mark/> 31 Prime and Maximal Ideals
+	  <ul>
+	    <li>Prime Ideals</li>
+	    <li>Maximal Ideals</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 31</title>
+	<p>
+	  <section-mark/> 31 Prime and Maximal Ideals
+	  <ul>
+	    <li>Applications to Polynomials Rings over a Field</li>
+	    <li>Applications to Factoring</li> 
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

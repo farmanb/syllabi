@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_prerequisites" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Prerequisites</title>
+  <p component="4083">
+    A grade of C or better in MATH 3073 (Previously MATH 307) or MATH 3113 (Previously MATH 311).
+  </p>
   <p component="S25">
     A grade of C or better in MATH 307, MATH 311, or CSC 220.
   </p>

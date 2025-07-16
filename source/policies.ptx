@@ -10,6 +10,13 @@
   
   <subsection xml:id="textbook">
     <title>Textbook</title>
+    <assemblage component="4083">
+      <title>Required Textbook</title>
+      <p>
+	<pubtitle>A First Course in Abstract Algebra</pubtitle>, Eighth edition, by John B. Fraleigh and Neal Brand, <init>ISBN</init> 9780136731627.
+      </p>
+    </assemblage>
+
     <assemblage component="S25">
       <title>Required Textbook</title>
       <p>

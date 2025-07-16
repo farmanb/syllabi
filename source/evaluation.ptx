@@ -44,11 +44,12 @@
 
   <subsection component="WAG" xml:id="exams">
     <title>Exams</title>
-    <p>
-      There will be three in-class exams and a cumulative, common final exam.
+    <p component="F25">
+      There will be two in-class exams and a cumulative final exam.
       The exams are scheduled as follows:
     </p>
-    <assemblage component="W25">
+
+    <assemblage component="F25">
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
 	  <cell>Exam</cell>
@@ -56,24 +57,24 @@
 	</row>
 	<row>
 	  <cell>Exam 1</cell>
-	  <cell>TBA</cell>
+	  <cell>Friday, September 26, 2025</cell>
 	</row>
 	<row>
 	  <cell>Exam 2</cell>
-	  <cell>TBA</cell>
-	</row>
-	<row>
-	  <cell>Exam 3</cell>
-	  <cell>TBA</cell>
+	  <cell>Monday, October 20, 2025</cell>
 	</row>
 	<row>
 	  <cell>Final Exam</cell>
-	  <cell>
-	    TBA
-	  </cell>
+	  <cell>Wednesday, November 12, 2025</cell>
 	</row>
       </tabular>
     </assemblage>
+    
+    <p component="F24">
+      There will be three in-class exams and a cumulative final exam.
+      The exams are scheduled as follows:
+    </p>
+
     <assemblage component="F24">
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
@@ -272,13 +273,42 @@
     </assemblage>
   </subsection>
 
-  <subsection component="490" xml:id="weights-490">
+  <subsection component="4083" xml:id="weights-4083">
     <title>Weights</title>
     <p>
       Grades will be calculated using the weights below.
     </p>
 
     <assemblage>
+      <title>Evaluation Criteria</title>
+      <tabular>
+	<row header="yes" bottom="minor" >
+	  <cell>Grade Category</cell>
+	  <cell>Weight</cell>
+	</row>
+	<row>
+	  <cell>Homework</cell>
+	  <cell>50%</cell>
+	</row>
+	<row>
+	  <cell>Exams</cell>
+	  <cell>20%</cell>
+	</row>
+	<row>
+	  <cell>Final Exam</cell>
+	  <cell>30%</cell>
+	</row>
+      </tabular>
+    </assemblage>
+  </subsection>
+  
+  <subsection component="490" xml:id="weights-490">
+    <title>Weights</title>
+    <p>
+      Grades will be calculated using the weights below.
+    </p>
+
+    <assemblage component="490">
       <title>Evaluation Criteria</title>
       <tabular>
 	<row header="yes" bottom="minor" >
@@ -350,7 +380,7 @@
     </assemblage>
   </subsection>
 
-  <subsection component="WAG" xml:id="weights">
+  <subsection component="243" xml:id="weights">
     <title>Weights</title>
     <p>
       Grades will be calculated using the weights below.
@@ -389,45 +419,12 @@
   <subsection xml:id="grading_scale">
     <title>Grading Scale</title>
 
-    <p component="S25">
-      Letter grades will be assigned based on the scale below.
-    </p>
-
-    <assemblage component="S25">
-      <title>Grading Scale</title>
-      <tabular halign="center">
-	<row header="yes" bottom="minor" >
-	  <cell>Average</cell>
-	  <cell>Letter Grade</cell>
-	</row>
-	<row>
-	  <cell><m>[90\%,100\%]</m></cell>
-	  <cell>A</cell>
-	</row>
-	<row>
-	  <cell><m>[80\%,90\%)</m></cell>
-	  <cell>B</cell>
-	</row>
-	<row>
-	  <cell><m>[70\%,80\%)</m></cell>
-	  <cell>C</cell>
-	</row>
-	<row>
-	  <cell><m>[60\%,70\%)</m></cell>
-	  <cell>D</cell>
-	</row>
-	<row>
-	  <cell><m>[0\%,60\%)</m></cell>
-	  <cell>F</cell>
-	</row>
-      </tabular>
-    </assemblage>
-    
     <p component="WAG">
       Letter grades will be assigned based on the scale below.
     </p>
-    
+
     <assemblage component="WAG">
+      <title>Grading Scale</title>
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
 	  <cell>Average</cell>
@@ -489,134 +486,5 @@
 	</row>
 	</tabular>
     </table>
-    
-    <table component="1031">
-      <title>Grading Scale</title>
-      <tabular halign="center">
-	<col width="20%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<row header="yes" bottom="minor">
-	  <cell></cell>
-	  <cell colspan="5">Number of Standards Mastered</cell>
-	</row>
-	<row header="yes" bottom="major" >
-	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">14 <ndash/> 15</cell>
-	  <cell right="major">12 <ndash/> 13</cell>
-	  <cell right="major">10 <ndash/> 11</cell>
-	  <cell right="major">8 <ndash/> 9</cell>
-	  <cell right="major">0 <ndash/> 7</cell>
-	</row>
-	<row>
-	  <cell><p><m>[90\%,100\%]</m></p></cell>
-	  <cell>A</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[80\%,90\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[70\%,80\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[60\%,70\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[0\%,60\%)</m></p></cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	  <cell>F</cell>
-	</row>
-      </tabular>
-    </table>
-
-    <table component="1032">
-      <title>Grading Scale</title>
-      <tabular halign="center">
-	<col width="20%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<col width="16%"/>
-	<row header="yes" bottom="minor">
-	  <cell></cell>
-	  <cell colspan="5">Number of Standards Mastered</cell>
-	</row>
-	<row header="yes" bottom="major" >
-	  <cell right="major">Homework Grade</cell>
-	  <cell right="major">14 <ndash/> 15</cell>
-	  <cell right="major">12 <ndash/> 13</cell>
-	  <cell right="major">10 <ndash/> 11</cell>
-	  <cell right="major">8 <ndash/> 9</cell>
-	  <cell right="major">0 <ndash/> 7</cell>
-	</row>
-	<row>
-	  <cell><p><m>[90\%,100\%]</m></p></cell>
-	  <cell>A</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[80\%,90\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[70\%,80\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[60\%,70\%)</m></p></cell>
-	  <cell>B</cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	</row>
-	<row>
-	  <cell><p><m>[0\%,60\%)</m></p></cell>
-	  <cell>C</cell>
-	  <cell>D</cell>
-	  <cell>D</cell>
-	  <cell>F</cell>
-	  <cell>F</cell>
-	</row>
-      </tabular>
-    </table>
-    
   </subsection>
 </section>

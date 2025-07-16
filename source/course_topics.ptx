@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="course_topics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
+  <p component="4083">
+    This course can be divided into two parts.
+    In the first, we cover the definitions and examples of groups, subgroups, quotient groups, homomorphisms, and important theorems about the structure of certain groups.
+    <!-- such as Sylow’s Theorem and the Fundamental Theorem of Finitely Generated Abelian Groups.-->
+    In the second, we encounter basic definitions and examples of rings, subrings, ideals, quotients of rings, domains, fields, homomorphisms, and other topics as time permits.
+  </p>
   <p component="308">
     Topics include
     <ul>

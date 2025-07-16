@@ -2,6 +2,10 @@
 <subsection xml:id="student_learning_outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Learning Outcomes</title>
 
+  <p component="4083">
+    The primary goal of this course is to gain familiarity with basic algebraic structures (groups, rings, and fields) and how they interact with one another (actions, homomorphisms, etc.). An equally important goal of this course is to improve students’ ability to read and write mathematical proofs.
+  </p>
+  
   <p component="308">
     The student will demonstrate proficiency the ideas and techniques of Linear Algebra by performing adequately on a series of exams and homework exercises.
   </p>

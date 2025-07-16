@@ -11,7 +11,20 @@
   <!--   <xi:include href="./office_hours.ptx"/> -->
   <!-- </subsection> -->
   <!-- <xi:include href="./office_hours.ptx"/> -->
-  
+
+  <!-- Algebra -->
+  <xi:include href="algebra/schedule/2025/fall/week01.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week02.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week03.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week04.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week05.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week06.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week07.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week08.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week09.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week10.ptx"/>
+  <xi:include href="algebra/schedule/2025/fall/week11.ptx"/>
+    
   <!-- Calculus -->
   <xi:include href="calc_I/schedule/2024/spring/week01.ptx"/>
   <xi:include href="calc_I/schedule/2024/spring/week02.ptx"/>

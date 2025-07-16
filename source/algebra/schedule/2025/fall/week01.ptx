@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-01">
+  <title>September 4 <ndash/> September 5</title>
+  <p>
+    <dl>
+      <li>
+	<title>September 5</title>
+      	<p>
+	  <section-mark/> 1 Binary Operations
+	  <ul>
+	    <li>Associativity,</li>
+	    <li>Identity,</li>
+	    <li>Inverses,</li>
+	    <li>Commutativity.</li>
+	  </ul>
+	</p>
+	
+      </li>
+    </dl>
+  </p>
+</subsection>

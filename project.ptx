@@ -8,6 +8,12 @@
     <!-- <target name="web" format="html" /> -->
     <!-- <target name="print" format="pdf" /> -->
 
+    <!-- Fall 2025 -->
+    <!-- Syllabus -->
+    <target name="4083-F25" format="html" output-dir="syllabi/4083/F25" publication="4083/F25.ptx" deploy-dir="syllabi/4083/F25"/>
+    <target name="4083-F25-print" format="pdf" output-dir="pdf/4083/F25" publication="4083/F25.ptx"/>
+    <target name="schedule-4083-F25" format="html" output-dir="schedules/4083/F25" source="standalone-schedule.ptx" publication="4083/F25.ptx" deploy-dir="schedules/4083/F25"/>
+    
     <!-- Spring 2025 -->
     <!-- Syllabus -->
     <target name="490-S25" format="html" output-dir="syllabi/490/S25" publication="490/S25.ptx" deploy-dir="syllabi/490/S25"/>

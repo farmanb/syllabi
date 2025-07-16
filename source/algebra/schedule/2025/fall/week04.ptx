@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-04">
+  <title>September 22 <ndash/> September 26</title>
+  <p>
+    <dl>
+      <li>
+	<title>September 22</title>
+      	<p>
+	  <section-mark/>9 Finitely Generated Abelian Groups
+	  <ul>
+	    <li>Products and Coproducts</li>
+	    <li>Fundamental Theorem of Finitely Generated Abelian Groups</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 24</title>
+	<p>
+	  <section-mark/> 10 Cosets and the Theorem of Lagrange
+	  <ul>
+	    <li>Left/Right Equivalence Modulo a Subgroup</li>
+	    <li>Left and Right Cosets</li>
+	    <li>Lagrange's Theorem</li>
+	    <li>Index of a Subgroup</li>
+	    <li>Left/Right Cosets and Kernels</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 26</title>
+	<p>
+	  <section-mark/>12 Factor Groups
+	  <ul>
+	    <li>Normal Subgroups</li>
+	    <li>Quotients</li>
+	    <li>Universal Mapping Property for Quotients</li>
+	    <li>First Isomorphism Theorem for Groups</li>
+	    <li>Inner Automorphisms</li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

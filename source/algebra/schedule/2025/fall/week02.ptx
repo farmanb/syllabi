@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-02">
+  <title>September 8 <ndash/> September 12</title>
+  <p>
+    <dl>
+      <li>
+	<title>September 8</title>
+	<p>
+	  <section-mark/> 2 Groups 
+	  <ul>
+	    <li>Axioms,</li>
+	    <li>Homomorphisms,</li>
+	    <li>Elementary Properties</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 10</title>
+	<p>
+	  <section-mark/> 3 Abelian Examples 
+	  <ul>
+	    <li>Numerical Groups</li>
+	    <li>Integers Modulo <m>n</m></li>
+	    <li>Roots of Unity</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 12</title>
+	<p>
+	  <section-mark/> 4 Nonabelian Examples
+	  <ul>
+	    <li>Symmetric Groups</li>
+	    <li>Dihedral Groups</li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

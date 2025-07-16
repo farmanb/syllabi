@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-08">
+  <title>October 20<ndash/> October 24</title>
+  <p>
+    <dl>
+      <li>
+	<title>October 20</title>
+	<p>
+	  <section-mark/> 28 Factorization of Polynomials over a Field
+	  <ul>
+	    <li>Eisenstein's Criterion</li>
+	    <li>Uniqueness of Factorization</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 22</title>
+	<p>
+	  Review
+	</p>
+      </li>
+      <li>
+	<title>October 24</title>
+	<p><alert>Exam 2</alert></p>
+      </li>
+    </dl>
+  </p>
+</subsection>

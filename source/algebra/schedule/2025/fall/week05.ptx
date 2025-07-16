@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-05">
+  <title>September 29 <ndash/> October 3</title>
+  <p>
+    <dl>
+      <li>
+	<title>September 29</title>
+	<p>
+	  <section-mark/>13 Factor-Group Computations and Simple Groups
+	  <ul>
+	    <li>Examples</li>
+	    <li>Centers</li>
+	    <li>Commutators</li>
+	    <li>Simple Groups</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 1</title>
+	<p>
+	  Review
+	</p>
+      </li>
+      <li>
+	<title>October 3</title>
+	<p>
+	  <alert>Exam 1</alert>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

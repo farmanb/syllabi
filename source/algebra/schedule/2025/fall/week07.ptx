@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection component="F25" xml:id="week-07">
+  <title>October 13 <ndash/> October 17</title>
+  <p>
+    <dl>
+      <li>
+	<title>October 13</title>
+	<p>
+	  <section-mark/> 27 Rings of Polynomials
+	  <ul>
+	    <li>Definitions</li>
+	    <li>Basic Properties</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 15</title>
+	<p>
+	  <section-mark/> 27 Rings of Polynomials
+	  <ul>
+	    <li>Roots of Polynomials</li>
+	    <li>Evaluation Homomorphism for Fields</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>October 17</title>
+	<p>
+	  <section-mark/> 28 Factorization of Polynomials over a Field
+	  <ul>
+	    <li>Division Algorithm</li>
+	    <li>Factoring</li>
+	    <li>Irreducibility</li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>
