@@ -3,6 +3,8 @@
   <xi:include href="docinfo.ptx"/>
   <article xml:id="standalone-schedule">
     <title>Course Schedule</title>
+    <subtitle component="F25">Math 4083/5083 <mdash/> 001 <mdash/> Fall 2025</subtitle>
+    <subtitle component="S25">Math 490/587 <mdash/> 001 <mdash/> Spring 2025</subtitle>
     <subtitle component="243-F24">Math 243 <mdash/> 004 <mdash/> Fall 2024</subtitle>
     <subtitle component="308-W25">Math 308 <mdash/> 001 <mdash/> Winter 2025</subtitle>
     <xi:include href="./schedule.ptx"/>
