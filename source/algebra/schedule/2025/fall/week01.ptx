@@ -6,7 +6,8 @@
       <li>
 	<title>September 5</title>
       	<p>
-	  <section-mark/> 1 Binary Operations
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-binary_operations.html">Binary Operations</url>
+	  <!-- <section-mark/> 1 Binary Operations -->
 	  <ul>
 	    <li>Associativity,</li>
 	    <li>Identity,</li>
