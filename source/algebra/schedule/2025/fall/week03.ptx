@@ -6,17 +6,28 @@
       <li>
 	<title>September 15</title>
 	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-abelian_examples.html">Abelian Examples</url>
+	  <ul>
+	    <li>Roots of Unity</li>
+	  </ul>
+	</p>
+	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-nonabelian_examples.html"> Nonabelian Examples</url>
+	  <ul>
+	    <li>Symmetric Groups</li>
+	    <!-- <li>Dihedral Groups</li> -->
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 17</title>
+	<p>
 	  <section-mark/> 5 Subgroups
 	  <ul>
 	    <li>Definition</li>
 	    <li>Subgroup Criterion</li>
 	    <li>Cyclic and Subgroups</li>
 	  </ul>
-	  </p>	
-      </li>
-      <li>
-	<title>September 17</title>
-	<p>
 	  <section-mark/> 6 Cyclic Groups
 	  <ul>
 	    <li>Division Algorithm</li>
