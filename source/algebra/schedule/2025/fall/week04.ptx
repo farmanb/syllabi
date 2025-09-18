@@ -5,16 +5,28 @@
     <dl>
       <li>
 	<title>September 22</title>
-      	<p>
+	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-cyclic_groups.html">Cyclic Groups</url>
+	    <ul>
+	      <li>Classification</li>
+	    </ul>
+	  </p>
+	<p>
+	  <section-mark/> 8 Groups of Permutations
+	  <ul>
+	    <li>Cayley's Theorem</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>September 24</title>
+	<p>
 	  <section-mark/>9 Finitely Generated Abelian Groups
 	  <ul>
 	    <li>Products and Coproducts</li>
 	    <li>Fundamental Theorem of Finitely Generated Abelian Groups</li>
 	  </ul>
 	</p>
-      </li>
-      <li>
-	<title>September 24</title>
 	<p>
 	  <section-mark/> 10 Cosets and the Theorem of Lagrange
 	  <ul>

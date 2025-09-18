@@ -11,48 +11,40 @@
 	    <li>Roots of Unity</li>
 	  </ul>
 	</p>
+      </li>
+      <li>
+	<title>September 17</title>
 	<p>
-	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-nonabelian_examples.html"> Nonabelian Examples</url>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-nonabelian_examples.html">Nonabelian Examples</url>
 	  <ul>
 	    <li>Symmetric Groups</li>
 	    <!-- <li>Dihedral Groups</li> -->
 	  </ul>
 	</p>
-      </li>
-      <li>
-	<title>September 17</title>
 	<p>
-	  <section-mark/> 5 Subgroups
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-subgroups.html">Subgroups</url>
 	  <ul>
 	    <li>Definition</li>
-	    <li>Subgroup Criterion</li>
-	    <li>Cyclic and Subgroups</li>
-	  </ul>
-	  <section-mark/> 6 Cyclic Groups
-	  <ul>
-	    <li>Division Algorithm</li>
-	    <li>Greatest Common Divisors</li>
-	    <li>Classification</li>
+	    <li>Examples</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>September 19</title>
 	<p>
-	  <section-mark/> 8 Groups of Permutations
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-subgroups.html">Subgroups</url>
 	  <ul>
-	    <li>Properties of Homomorphisms</li>
-	    <li>
-	      <p>
-		Subgroups Associated to Homomorphisms:
-		<ul>
-		  <li>Images,</li>
-		  <li>Inverse Images,</li>
-		  <li>Kernels</li>
-		</ul>
-	      </p>
-	    </li>
-	    <li>Cayley's Theorem</li>
+	    <li>Images and Preimages</li>
+	    <li>Kernels</li>
+	    <li>Subgroup Criterion</li>
+	  </ul>
+	</p>
+	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-cyclic_groups.html">Cyclic Groups</url>
+	  <ul>
+	    <li>Integer Powers of Group Elements</li>
+	    <li>Cyclic Groups and Subgroups</li>
+	    <li>Basic Examples</li>
 	  </ul>
 	</p>
       </li>
