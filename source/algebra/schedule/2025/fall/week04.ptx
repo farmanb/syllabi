@@ -7,49 +7,55 @@
 	<title>September 22</title>
 	<p>
 	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-cyclic_groups.html">Cyclic Groups</url>
-	    <ul>
-	      <li>Classification</li>
-	    </ul>
-	  </p>
-	<p>
-	  <section-mark/> 8 Groups of Permutations
 	  <ul>
-	    <li>Cayley's Theorem</li>
+	    <li>Classification of Cyclic Groups</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>September 24</title>
 	<p>
-	  <section-mark/>9 Finitely Generated Abelian Groups
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-cyclic_groups.html">Cyclic Groups</url>
 	  <ul>
-	    <li>Products and Coproducts</li>
-	    <li>Fundamental Theorem of Finitely Generated Abelian Groups</li>
-	  </ul>
-	</p>
-	<p>
-	  <section-mark/> 10 Cosets and the Theorem of Lagrange
-	  <ul>
-	    <li>Left/Right Equivalence Modulo a Subgroup</li>
-	    <li>Left and Right Cosets</li>
-	    <li>Lagrange's Theorem</li>
-	    <li>Index of a Subgroup</li>
-	    <li>Left/Right Cosets and Kernels</li>
+	    <li>Subgroups of Cyclic Groups</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>September 26</title>
 	<p>
-	  <section-mark/>12 Factor Groups
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-groups_of_permutations.html">Groups of Permutations</url>
 	  <ul>
-	    <li>Normal Subgroups</li>
-	    <li>Quotients</li>
-	    <li>Universal Mapping Property for Quotients</li>
-	    <li>First Isomorphism Theorem for Groups</li>
-	    <li>Inner Automorphisms</li>
+	    <li>Cayley's Theorem</li>
 	  </ul>
 	</p>
+	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-finitely_generated_abelian_groups.html">Finitely Generated Abelian Groups</url>
+	  <ul>
+	    <li>Products of Groups</li>
+	    <!-- <li>Fundamental Theorem of Finitely Generated Abelian Groups</li> -->
+	  </ul>
+	</p>
+	<!-- <p> -->
+	<!--   <section-mark/> 10 Cosets and the Theorem of Lagrange -->
+	<!--   <ul> -->
+	<!--     <li>Left/Right Equivalence Modulo a Subgroup</li> -->
+	<!--     <li>Left and Right Cosets</li> -->
+	<!--     <li>Lagrange's Theorem</li> -->
+	<!--     <li>Index of a Subgroup</li> -->
+	<!--     <li>Left/Right Cosets and Kernels</li> -->
+	<!--   </ul> -->
+	<!-- </p> -->
+	<!-- <p> -->
+	<!--   <section-mark/>12 Factor Groups -->
+	<!--   <ul> -->
+	<!--     <li>Normal Subgroups</li> -->
+	<!--     <li>Quotients</li> -->
+	<!--     <li>Universal Mapping Property for Quotients</li> -->
+	<!--     <li>First Isomorphism Theorem for Groups</li> -->
+	<!--     <li>Inner Automorphisms</li> -->
+	<!--   </ul> -->
+	<!-- </p> -->
       </li>
     </dl>
   </p>
