@@ -6,33 +6,38 @@
       <li>
 	<title>October 6</title>
 	<p>
-	  <section-mark/> 22 Rings and Fields
+	  <section-mark/> 10 Cosets and the Theorem of Lagrange
 	  <ul>
-	    <li>Rng Axioms</li>
-	    <li>Ring Axioms</li>
-	    <li>Examples</li>
+	    <li>Left/Right Equivalence Modulo a Subgroup</li>
+	    <li>Left and Right Cosets</li>
+	    <li>Lagrange's Theorem</li>
+	    <li>Index of a Subgroup</li>
+	    <li>Left/Right Cosets and Kernels</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 8</title>
 	<p>
-	  <section-mark/> 22 Rings and Fields
+	  <section-mark/>12 Factor Groups
 	  <ul>
-	    <li>Homomorphisms</li>
-	    <li>Fields</li>
+	    <li>Normal Subgroups</li>
+	    <li>Quotients</li>
+	    <li>Universal Mapping Property for Quotients</li>
+	    <li>First Isomorphism Theorem for Groups</li>
+	    <li>Inner Automorphisms</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 10</title>
 	<p>
-	  <section-mark/>23 Integral Domains
+	  <section-mark/>13 Factor-Group Computations and Simple Groups
 	  <ul>
-	    <li>Definition</li>
-	    <li>Zero Divisors</li>
-	    <li>Cancellation</li>
-	    <li>Characteristic</li>
+	    <li>Examples</li>
+	    <li>Centers</li>
+	    <li>Commutators</li>
+	    <li>Simple Groups</li>
 	  </ul>
 	</p>
       </li>

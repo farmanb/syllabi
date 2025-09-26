@@ -6,15 +6,24 @@
       <li>
 	<title>October 13</title>
 	<p>
-	  <section-mark/> 27 Rings of Polynomials
+	  <section-mark/> 22 Rings and Fields
 	  <ul>
-	    <li>Definitions</li>
-	    <li>Basic Properties</li>
+	    <li>Homomorphisms</li>
+	    <li>Fields</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 15</title>
+	<p>
+	  <section-mark/>23 Integral Domains
+	  <ul>
+	    <li>Definition</li>
+	    <li>Zero Divisors</li>
+	    <li>Cancellation</li>
+	    <li>Characteristic</li>
+	  </ul>
+	</p>
 	<p>
 	  <section-mark/> 27 Rings of Polynomials
 	  <ul>
