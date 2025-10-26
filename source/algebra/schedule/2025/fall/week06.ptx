@@ -23,15 +23,22 @@
 	  <ul>
 	    <li>Normal Subgroups</li>
 	    <li>Quotients</li>
-	    <li>Universal Mapping Property for Quotients</li>
-	    <li>First Isomorphism Theorem for Groups</li>
-	    <li>Inner Automorphisms</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 10</title>
 	<p>
+	  <li>
+	    <title>October 8</title>
+	    <p>
+	      <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-factor_groups.html">Factor Groups</url>
+	      <ul>
+		<li>Universal Mapping Property for Quotients</li>
+		<li>First Isomorphism Theorem for Groups</li>
+	      </ul>
+	    </p>
+	  </li>
 	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-factor-group_computations_and_simple_groups.html">Factor-Group Computations and Simple Groups</url>
 	  <ul>
 	    <li>Examples</li>

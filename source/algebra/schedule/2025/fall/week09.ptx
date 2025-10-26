@@ -6,33 +6,29 @@
       <li>
 	<title>October 27</title>
 	<p>
-	  <section-mark/>30 Homomorphisms and Factor Rings
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-integral_domains.html">Integral Domains</url>
 	  <ul>
-	    <li>Ideals</li>
-	    <li>Quotient Rings</li>
-	    <li>Universal Mapping Property for Quotients (Reprise)</li>
-	    <li>First Isomorphism Theorem for Rings</li>
+	    <li>Definition</li>
+	    <li>Zero Divisors</li>
+	    <li>Cancellation</li>
+	    <li>Characteristic</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 29</title>
 	<p>
-	  <section-mark/> 31 Prime and Maximal Ideals
+	  <url href="http://localhost:8129/output/notes/chapter-rings_of_polynomials.html">Rings of Polynomials</url>
 	  <ul>
-	    <li>Prime Ideals</li>
-	    <li>Maximal Ideals</li>
+	    <li>Roots of Polynomials</li>
+	    <li>Evaluation Homomorphism for Fields</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 31</title>
 	<p>
-	  <section-mark/> 31 Prime and Maximal Ideals
-	  <ul>
-	    <li>Applications to Polynomials Rings over a Field</li>
-	    <li>Applications to Factoring</li> 
-	  </ul>
+	  <alert>Class Cancelled by Provost</alert>
 	</p>
       </li>
     </dl>

@@ -6,40 +6,36 @@
       <li>
 	<title>October 13</title>
 	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-factor-group_computations_and_simple_groups.html">Factor-Group Computations and Simple Groups</url>
+	  <ul>
+	    <li>Examples</li>
+	  </ul>
+	</p>
+	<p>
 	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-rings_and_fields.html">Rings and Fields</url>
 	  <ul>
+	    <li>Rings</li>
 	    <li>Morphisms of Rings</li>
-	    <li>Fields</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 15</title>
 	<p>
-	  <section-mark/>23 Integral Domains
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-rings_and_fields.html">Rings and Fields</url>
 	  <ul>
-	    <li>Definition</li>
-	    <li>Zero Divisors</li>
-	    <li>Cancellation</li>
-	    <li>Characteristic</li>
-	  </ul>
-	</p>
-	<p>
-	  <section-mark/> 27 Rings of Polynomials
-	  <ul>
-	    <li>Roots of Polynomials</li>
-	    <li>Evaluation Homomorphism for Fields</li>
+	    <li>Basic Examples</li>
+	    <li>Basic Properties of Rings</li>
 	  </ul>
 	</p>
       </li>
       <li>
 	<title>October 17</title>
 	<p>
-	  <section-mark/> 28 Factorization of Polynomials over a Field
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-rings_and_fields.html">Rings and Fields</url>
 	  <ul>
-	    <li>Division Algorithm</li>
-	    <li>Factoring</li>
-	    <li>Irreducibility</li>
+	    <li>Units</li>
+	    <li>Groups of Units</li>
 	  </ul>
 	</p>
       </li>

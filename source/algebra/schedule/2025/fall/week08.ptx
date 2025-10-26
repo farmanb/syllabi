@@ -6,12 +6,23 @@
       <li>
 	<title>October 20</title>
 	<p>
-	  <section-mark/> 28 Factorization of Polynomials over a Field
-	  <ul>
-	    <li>Eisenstein's Criterion</li>
-	    <li>Uniqueness of Factorization</li>
-	  </ul>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-rings_and_fields.html">Rings and Fields</url>
+	  <ol>
+	    <li>
+	      <p>Fields</p>
+	    </li>
+	    <li>
+	      <p>Subrings and Subfields</p>
+	    </li>
+	  </ol>
 	</p>
+	<!-- <p> -->
+	<!--   <section-mark/> 28 Factorization of Polynomials over a Field -->
+	<!--   <ul> -->
+	<!--     <li>Eisenstein's Criterion</li> -->
+	<!--     <li>Uniqueness of Factorization</li> -->
+	<!--   </ul> -->
+	<!-- </p> -->
       </li>
       <li>
 	<title>October 22</title>
