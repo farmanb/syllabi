@@ -5,7 +5,15 @@
     <dl>
       <li>
 	<title>November 3</title>
-	<p>TBA</p>
+	<p>
+	  <url href="https://www.blakefarman.phd/4083-F25/notes/chapter-homomorphisms_and_factor_rings.html">Homomorphisms and Factor Rings</url>
+	  <ul>
+	    <li>Ideals</li>
+	    <li>Quotient Rings</li>
+	    <li>Universal Mapping Property for Quotients (Reprise)</li>
+	    <li>First Isomorphism Theorem for Rings</li>
+	  </ul>
+	</p>
 	<!-- <p> -->
 	<!--   <section-mark/> 28 Factorization of Polynomials over a Field -->
 	<!--   <ul> -->
@@ -15,13 +23,7 @@
 	<!--   </ul> -->
 	<!-- </p> -->
 	<!-- <p> -->
-	<!--   <section-mark/>30 Homomorphisms and Factor Rings -->
-	<!--   <ul> -->
-	<!--     <li>Ideals</li> -->
-	<!--     <li>Quotient Rings</li> -->
-	<!--     <li>Universal Mapping Property for Quotients (Reprise)</li> -->
-	<!--     <li>First Isomorphism Theorem for Rings</li> -->
-	<!--   </ul> -->
+
 	<!-- </p> -->
 	<!-- <p> -->
 	<!--   <section-mark/> 31 Prime and Maximal Ideals -->
@@ -40,25 +42,17 @@
       </li>
       <li>
 	<title>November 5</title>
-	<p>TBA</p>
-	<!-- <p> -->
-	<!--   <section-mark/>34 Unique Factorization Domains -->
-	<!--   <ul> -->
-	<!--     <li>Fundamental Theorem of Arithmetic</li> -->
-	<!--     <li>Gauss' Lemma</li> -->
-	<!--   </ul> -->
-	<!-- </p> -->
+	<p>
+	  <url ref="https://www.blakefarman.phd/4083-F25/notes/chapter-prime_and_maximal_ideals.html">Prime and Maximal Ideals</url>
+	  <ul>
+	    <li>Prime Ideals</li>
+	    <li>Maximal Ideals</li>
+	  </ul>
+	</p>
       </li>
       <li>
 	<title>November 7</title>
 	<p>TBA</p>
-	<!-- <p> -->
-	<!--   <section-mark/> 37 Algebraic Geometry -->
-	<!--   <ul> -->
-	<!--     <li>Algebraic Varieties</li> -->
-	<!--     <li>Examples</li> -->
-	<!--   </ul> -->
-	<!-- </p> -->
       </li>
     </dl>
   </p>
