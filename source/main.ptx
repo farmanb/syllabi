@@ -12,7 +12,7 @@
     
     <xi:include href="./frontmatter.ptx" />
 
-    <xi:include href="./contact_information/contact.ptx" />
+    <xi:include href="./contact_information/main.ptx" />
     <xi:include href="./course_info.ptx"/>
     <xi:include href="./evaluation.ptx"/>
     <xi:include href="./standards.ptx"/>
