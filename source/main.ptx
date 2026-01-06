@@ -1,19 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE article [
+  <!ENTITY % coursevars SYSTEM "./course-vars.ent">
+  %coursevars;
+]>
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <xi:include href="./docinfo.ptx" />
   
   <article xml:id="syllabus">
     <title>Syllabus</title>
-    <subtitle component="4083">Math 4083/5083 <ndash/> 001 <ndash/> Fall 2025</subtitle>
-    <subtitle component="490">Math 490 <ndash/> 002 <ndash/> Spring 2025</subtitle>
-    <subtitle component="587">Math 587 <ndash/> 001 <ndash/> Spring 2025</subtitle>
-    <subtitle component="W25">Math 308 <ndash/> 001 <ndash/> Winter 2025</subtitle>
-    <subtitle component="F24">Math 243 <ndash/> 004 <ndash/> Fall 2024</subtitle>
+    <subtitle>Math &courseno; <ndash/> &sectionno; <ndash/> &term; <ndash/> &year;</subtitle>
+    <!-- <subtitle component="4083">Math 4083/5083 <ndash/> 001 <ndash/> Fall 2025</subtitle> -->
+    <!-- <subtitle component="490">Math 490 <ndash/> 002 <ndash/> Spring 2025</subtitle> -->
+    <!-- <subtitle component="587">Math 587 <ndash/> 001 <ndash/> Spring 2025</subtitle> -->
+    <!-- <subtitle component="W25">Math 308 <ndash/> 001 <ndash/> Winter 2025</subtitle> -->
+    <!-- <subtitle component="F24">Math 243 <ndash/> 004 <ndash/> Fall 2024</subtitle> -->
     
     <xi:include href="./frontmatter.ptx" />
 
     <xi:include href="./contact_information/main.ptx" />
-    <xi:include href="./course_info.ptx"/>
+    <xi:include href="./course_information/main.ptx"/>
     <xi:include href="./evaluation.ptx"/>
     <xi:include href="./standards.ptx"/>
     <xi:include href="./policies.ptx"/>
