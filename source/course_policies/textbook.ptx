@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="textbook">
+  <title>Textbook</title>
+  <assemblage component="4083">
+    <title>Required Textbook</title>
+    <p>
+      <pubtitle>A First Course in Abstract Algebra</pubtitle>, Eighth edition, by John B. Fraleigh and Neal Brand, <init>ISBN</init> 9780136731627.
+    </p>
+  </assemblage>
+
+  <assemblage component="S25">
+    <title>Required Textbook</title>
+    <p>
+      The required texts for this course are
+      <ol>
+	<li>
+	  <p>
+	    <pubtitle>The Hitchhiker's Guide to Logical Verification</pubtitle> by Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg.
+	    This text is freely available in <url href="https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf"><init>PDF</init> format</url>.
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    <pubtitle>Theorem Proving in Lean 4</pubtitle> by Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich, with contributions from the Lean Community.
+	    This text is freely available from <url href="https://lean-lang.org/theorem_proving_in_lean4/title_page.html"><init>HTML</init> format</url>.
+	  </p>
+	</li>
+	<li>
+	  <p>
+	    <pubtitle>Mathematics in lean</pubtitle> by Jeremy Avigad and Patrick Massot.
+	    This text is freely available from <url href="https://leanprover-community.github.io/mathematics_in_lean/"><init>HTML</init> format</url> and <url href="https://leanprover-community.github.io/mathematics_in_lean/mathematics_in_lean.pdf"><init>PDF</init> format</url>.
+	  </p>
+	</li>
+      </ol>
+    </p>
+  </assemblage>
+  
+  <assemblage component="308">
+    <title>Required Textbook</title>
+    <p component="ULA">
+      The required text for this course is
+      <pubtitle>Understanding Linear Algebra</pubtitle> by David Austin.
+      This textbook is freely available in 
+      <url href="https://understandinglinearalgebra.org/ula.html" visual="understandinglinearalgebra.org/ula.html"><init>HTML</init> format</url>
+      and in <url href="https://scholarworks.gvsu.edu/books/26/"><init>PDF</init> format.</url>
+      If you so desire, you may also obtain a <url href="https://www.619wreath.com/ula.html">low-cost print version.</url>
+    </p>
+    <p component="Poole">
+      <pubtitle>Linear Algebra: A Modern Introduction</pubtitle>, <m>4^\text{th}</m> Edition, by David Poole.
+      <init>ISBN</init>: 978-1285463247.
+    </p>
+  </assemblage>
+  <assemblage component="243">
+    <title>Required Textbook</title>
+    <p>
+      <pubtitle>Calculus: Early Transcendentals</pubtitle>, <m>9^\text{th}</m> Edition, by James Stewart, Daniel Clegg, Saleem Watson.
+      <init>ISBN</init>: 1-337-61392-4.
+    </p>
+  </assemblage>
+</subsection>
