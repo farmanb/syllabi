@@ -8,7 +8,7 @@
   
   <article xml:id="syllabus">
     <title>Syllabus</title>
-    <subtitle>Math &courseno; <ndash/> &sectionno; <ndash/> &term; <ndash/> &year;</subtitle>
+    <subtitle>Math &courseno; <ndash/> &sectionno; <ndash/> &term; &year;</subtitle>
     <!-- <subtitle component="4083">Math 4083/5083 <ndash/> 001 <ndash/> Fall 2025</subtitle> -->
     <!-- <subtitle component="490">Math 490 <ndash/> 002 <ndash/> Spring 2025</subtitle> -->
     <!-- <subtitle component="587">Math 587 <ndash/> 001 <ndash/> Spring 2025</subtitle> -->
@@ -19,7 +19,7 @@
 
     <xi:include href="./contact_information/main.ptx" />
     <xi:include href="./course_information/main.ptx"/>
-    <xi:include href="./evaluation.ptx"/>
+    <xi:include href="./evaluation/main.ptx"/>
     <xi:include href="./standards.ptx"/>
     <xi:include href="./policies.ptx"/>
     <xi:include href="./academic_serv.ptx"/>
