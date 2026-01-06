@@ -22,8 +22,8 @@
     <xi:include href="./evaluation/main.ptx"/>
     <xi:include href="./standards.ptx"/>
     <xi:include href="./course_policies/main.ptx"/>
-    <xi:include href="./academic_serv.ptx"/>
-    <xi:include href="./student_serv.ptx"/>
+    <xi:include href="./student_services/main.ptx"/>
+    <!-- <xi:include href="./student_serv.ptx"/> -->
     <xi:include href="./schedule.ptx"/>
   </article>
 </pretext>
